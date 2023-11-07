@@ -1,0 +1,97 @@
+\section{Risultati Sperimentali}
+
+    \begin{frame}{Esempi Compressione}
+        Esempi di compressione di un immagine del dataset Kodak \cite{KodakDataset} con le tecniche presentate\\
+        \begin{figure}[!ht]
+            \begin{minipage}[]{0.13\linewidth}
+                \centering
+                \includegraphics[width=\textwidth]{Immagini/IMAGES/PNG_IMG0004.pdf}
+                \caption{Originale 11.117bpp}
+                \label{fig:Originnal}
+            \end{minipage}
+            \begin{minipage}[]{0.13\linewidth}
+                \centering
+                \includegraphics[width=\textwidth]{Immagini/IMAGES/JPEG_1_IMG0004.pdf}
+                \caption{JPEG 0.167bpp}
+                \label{fig:ExampleJPEG}
+            \end{minipage}
+            \begin{minipage}[]{0.13\linewidth}
+                \centering
+                \includegraphics[width=\textwidth]{Immagini/IMAGES/JPEG2000_2_IMG0004.pdf}
+                \caption{JPEG2000 0.171bpp}
+                \label{fig:ExampleJPEG2000}
+            \end{minipage}
+            \begin{minipage}[]{0.13\linewidth}
+                \centering
+                \includegraphics[width=\textwidth]{Immagini/IMAGES/BPG_3_IMG0004.pdf}
+                \caption{BPG 0.156bpp}
+                \label{fig:ExampleBPG}
+            \end{minipage}
+            \begin{minipage}[]{0.13\linewidth}
+                \centering
+                \includegraphics[width=\textwidth]{Immagini/IMAGES/VVC_2_IMG0004.pdf}
+                \caption{VVC 0.144bpp}
+                \label{fig:ExampleVVC}
+            \end{minipage}
+            \begin{minipage}[]{0.13\linewidth}
+                \centering
+                \includegraphics[width=\textwidth]{Immagini/IMAGES/mbt2018_3_IMG0004.pdf}
+                \caption{Ballé 0.131bpp}
+                \label{fig:ExampleBalle}
+            \end{minipage}
+            \begin{minipage}[]{0.13\linewidth}
+                \centering
+                \includegraphics[width=\textwidth]{Immagini/IMAGES/cheng2020_attn_3_IMG0004.pdf}
+                \caption{Cheng 0.124bpp}
+                \label{fig:ExampleCheng}
+            \end{minipage}
+            \label{fig:ExamplesCompression}
+        \end{figure}
+    \end{frame}
+
+    \begin{frame}{Tempi di Compressione}
+        \begin{figure}[t!]
+            \centering
+            \includegraphics[width=1\textwidth]{Immagini/METRICS/times@0.16bpp.png}
+            \caption{Tempi di compressione a 0.16 bpp}
+            \label{fig:times16}
+        \end{figure}
+    \end{frame}
+    \begin{frame}{Tempi di Compressione}
+        \begin{figure}[t!]
+            \centering
+            \includegraphics[width=1\textwidth]{Immagini/METRICS/times@0.34bpp.png}
+            \caption{Tempi di compressione a 0.34 bpp}
+            \label{fig:times34}
+        \end{figure}
+    \end{frame}
+
+    \begin{frame}{PSNR}
+        \begin{figure}[t!]
+            \centering
+            \includegraphics[width=0.65\textheight]{Immagini/METRICS/PSNR.png}
+            \caption{Grafico del PSNR, punti corrispondenti alla media delle metriche sulle 24 immaigni del dataset}
+            \label{fig:GraphPSNR}
+        \end{figure}
+    \end{frame}
+
+    \begin{frame}{MS-SSIM}
+        \begin{figure}[t!]
+            \centering
+            \includegraphics[width=0.65\textheight]{Immagini/METRICS/MS-SSIM.png}
+            \caption{Grafico dell'MS-SSIM \cite{wang2003multiscale}, punti corrispondenti alla media delle metriche sulle 24 immaigni del dataset}
+            \label{fig:GraphMS-SSIM}
+        \end{figure}
+
+    \end{frame}
+
+    \begin{frame}{LPIPS con AlexNet}
+        \begin{figure}[t!]
+            \centering
+            \includegraphics[width=0.65\textheight]{Immagini/METRICS/LPIPS.png}
+            \caption{Grafico LPIPS \cite{zhang2018unreasonable} con AlexNet, punti corrispondenti alla media delle metriche sulle 24 immaigni del dataset}
+            \label{fig:GraphLPIPS}
+        \end{figure}
+    \end{frame}
+    
+    

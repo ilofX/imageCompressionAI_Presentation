@@ -1,8 +1,8 @@
-This is LuaHBTeX, Version 1.17.0 (TeX Live 2023)  (format=lualatex 2023.9.19)  3 NOV 2023 18:34
+This is LuaHBTeX, Version 1.17.0 (TeX Live 2023)  (format=lualatex 2023.9.19)  7 NOV 2023 17:39
  system commands enabled.
  file:line:error style messages enabled.
-**"d:/Utenti/filip/Desktop/Unipd Presentation/main.tex"
-("d:/Utenti/filip/Desktop/Unipd Presentation/main.tex"
+**"d:/Utenti/filip/Desktop/Unipd Presentation/imageCompressionAI_Presentation/main.tex"
+("d:/Utenti/filip/Desktop/Unipd Presentation/imageCompressionAI_Presentation/main.tex"
 LaTeX2e <2023-06-01> patch level 1
 L3 programming layer <2023-08-29>
 Lua module: luaotfload 2023-08-31 3.26 Lua based OpenType font support
@@ -563,12 +563,282 @@ Package: amsthm 2020/05/29 v2.20.6
 ) (d:/Programmi/texlive/2023/texmf-dist/tex/latex/beamer/beamerbasethemes.sty)) (d:/Programmi/texlive/2023/texmf-dist/tex/latex/beamer/beamerthemedefault.sty (d:/Programmi/texlive/2023/texmf-dist/tex/latex/beamer/beamerfontthemedefault.sty) (d:/Programmi/texlive/2023/texmf-dist/tex/latex/beamer/beamercolorthemedefault.sty) (d:/Programmi/texlive/2023/texmf-dist/tex/latex/beamer/beamerinnerthemedefault.sty
 \beamer@dima=\dimen291
 \beamer@dimb=\dimen292
-) (d:/Programmi/texlive/2023/texmf-dist/tex/latex/beamer/beamerouterthemedefault.sty))) (./beamerthemeUnipd.sty (d:/Programmi/texlive/2023/texmf-dist/tex/latex/base/ifthen.sty
+) (d:/Programmi/texlive/2023/texmf-dist/tex/latex/beamer/beamerouterthemedefault.sty))) (d:/Programmi/texlive/2023/texmf-dist/tex/latex/float/float.sty
+Package: float 2001/11/08 v1.3d Float enhancements (AL)
+\c@float@type=\count332
+\float@exts=\toks47
+\float@box=\box76
+\@float@everytoks=\toks48
+\@floatcapt=\box77
+) (d:/Programmi/texlive/2023/texmf-dist/tex/latex/biblatex/biblatex.sty
+Package: biblatex 2023/03/05 v3.19 programmable bibliographies (PK/MW)
+ (d:/Programmi/texlive/2023/texmf-dist/tex/latex/logreq/logreq.sty
+Package: logreq 2010/08/04 v1.0 xml request logger
+\lrq@indent=\count333
+ (d:/Programmi/texlive/2023/texmf-dist/tex/latex/logreq/logreq.def
+File: logreq.def 2010/08/04 v1.0 logreq spec v1.0
+)) (d:/Programmi/texlive/2023/texmf-dist/tex/latex/base/ifthen.sty
 Package: ifthen 2022/04/13 v1.1d Standard LaTeX ifthen package (DPC)
-) (d:/Programmi/texlive/2023/texmf-dist/tex/latex/textpos/textpos.sty
+)
+\c@tabx@nest=\count334
+\c@listtotal=\count335
+\c@listcount=\count336
+\c@liststart=\count337
+\c@liststop=\count338
+\c@citecount=\count339
+\c@citetotal=\count340
+\c@multicitecount=\count341
+\c@multicitetotal=\count342
+\c@instcount=\count343
+\c@maxnames=\count344
+\c@minnames=\count345
+\c@maxitems=\count346
+\c@minitems=\count347
+\c@citecounter=\count348
+\c@maxcitecounter=\count349
+\c@savedcitecounter=\count350
+\c@uniquelist=\count351
+\c@uniquename=\count352
+\c@refsection=\count353
+\c@refsegment=\count354
+\c@maxextratitle=\count355
+\c@maxextratitleyear=\count356
+\c@maxextraname=\count357
+\c@maxextradate=\count358
+\c@maxextraalpha=\count359
+\c@abbrvpenalty=\count360
+\c@highnamepenalty=\count361
+\c@lownamepenalty=\count362
+\c@maxparens=\count363
+\c@parenlevel=\count364
+\blx@tempcnta=\count365
+\blx@tempcntb=\count366
+\blx@tempcntc=\count367
+\c@blx@maxsection=\count368
+\blx@maxsegment@0=\count369
+\blx@notetype=\count370
+\blx@parenlevel@text=\count371
+\blx@parenlevel@foot=\count372
+\blx@sectionciteorder@0=\count373
+\blx@sectionciteorderinternal@0=\count374
+\blx@entrysetcounter=\count375
+\blx@biblioinstance=\count376
+\labelnumberwidth=\skip65
+\labelalphawidth=\skip66
+\biblabelsep=\skip67
+\bibitemsep=\skip68
+\bibnamesep=\skip69
+\bibinitsep=\skip70
+\bibparsep=\skip71
+\bibhang=\skip72
+\blx@bcfin=\read3
+\blx@bcfout=\write5
+\blx@langwohyphens=\language2
+\c@mincomprange=\count377
+\c@maxcomprange=\count378
+\c@mincompwidth=\count379
+Package biblatex Info: Trying to load biblatex default data model...
+Package biblatex Info: ... file 'blx-dm.def' found.
+ (d:/Programmi/texlive/2023/texmf-dist/tex/latex/biblatex/blx-dm.def
+File: blx-dm.def 2023/03/05 v3.19 biblatex localization (PK/MW)
+)
+Package biblatex Info: Trying to load biblatex style data model...
+Package biblatex Info: ... file 'ieee.dbx' not found.
+Package biblatex Info: Trying to load biblatex custom data model...
+Package biblatex Info: ... file 'biblatex-dm.cfg' not found.
+\c@afterword=\count380
+\c@savedafterword=\count381
+\c@annotator=\count382
+\c@savedannotator=\count383
+\c@author=\count384
+\c@savedauthor=\count385
+\c@bookauthor=\count386
+\c@savedbookauthor=\count387
+\c@commentator=\count388
+\c@savedcommentator=\count389
+\c@editor=\count390
+\c@savededitor=\count391
+\c@editora=\count392
+\c@savededitora=\count393
+\c@editorb=\count394
+\c@savededitorb=\count395
+\c@editorc=\count396
+\c@savededitorc=\count397
+\c@foreword=\count398
+\c@savedforeword=\count399
+\c@holder=\count400
+\c@savedholder=\count401
+\c@introduction=\count402
+\c@savedintroduction=\count403
+\c@namea=\count404
+\c@savednamea=\count405
+\c@nameb=\count406
+\c@savednameb=\count407
+\c@namec=\count408
+\c@savednamec=\count409
+\c@translator=\count410
+\c@savedtranslator=\count411
+\c@shortauthor=\count412
+\c@savedshortauthor=\count413
+\c@shorteditor=\count414
+\c@savedshorteditor=\count415
+\c@labelname=\count416
+\c@savedlabelname=\count417
+\c@institution=\count418
+\c@savedinstitution=\count419
+\c@lista=\count420
+\c@savedlista=\count421
+\c@listb=\count422
+\c@savedlistb=\count423
+\c@listc=\count424
+\c@savedlistc=\count425
+\c@listd=\count426
+\c@savedlistd=\count427
+\c@liste=\count428
+\c@savedliste=\count429
+\c@listf=\count430
+\c@savedlistf=\count431
+\c@location=\count432
+\c@savedlocation=\count433
+\c@organization=\count434
+\c@savedorganization=\count435
+\c@origlocation=\count436
+\c@savedoriglocation=\count437
+\c@origpublisher=\count438
+\c@savedorigpublisher=\count439
+\c@publisher=\count440
+\c@savedpublisher=\count441
+\c@language=\count442
+\c@savedlanguage=\count443
+\c@origlanguage=\count444
+\c@savedoriglanguage=\count445
+\c@pageref=\count446
+\c@savedpageref=\count447
+\shorthandwidth=\skip73
+\shortjournalwidth=\skip74
+\shortserieswidth=\skip75
+\shorttitlewidth=\skip76
+\shortauthorwidth=\skip77
+\shorteditorwidth=\skip78
+\locallabelnumberwidth=\skip79
+\locallabelalphawidth=\skip80
+\localshorthandwidth=\skip81
+\localshortjournalwidth=\skip82
+\localshortserieswidth=\skip83
+\localshorttitlewidth=\skip84
+\localshortauthorwidth=\skip85
+\localshorteditorwidth=\skip86
+Package biblatex Info: Trying to load enhanced support for Unicode engines...
+Package biblatex Info: ... file 'blx-unicode.def' found.
+ (d:/Programmi/texlive/2023/texmf-dist/tex/latex/biblatex/blx-unicode.def)
+Package biblatex Info: Trying to load compatibility code...
+Package biblatex Info: ... file 'blx-compat.def' found.
+ (d:/Programmi/texlive/2023/texmf-dist/tex/latex/biblatex/blx-compat.def
+File: blx-compat.def 2023/03/05 v3.19 biblatex compatibility (PK/MW)
+)
+Package biblatex Info: Trying to load BibTeX backend compatibility...
+Package biblatex Info: ... file 'blx-bibtex.def' found.
+ (d:/Programmi/texlive/2023/texmf-dist/tex/latex/biblatex/blx-bibtex.def
+File: blx-bibtex.def 2023/03/05 v3.19 biblatex compatibility (PK/MW)
+
+
+Package biblatex Warning: Using fall-back bibtex backend:
+(biblatex)                functionality may be reduced/unavailable.
+
+)
+Package biblatex Info: Trying to load generic definitions...
+Package biblatex Info: ... file 'biblatex.def' found.
+ (d:/Programmi/texlive/2023/texmf-dist/tex/latex/biblatex/biblatex.def
+File: biblatex.def 2023/03/05 v3.19 biblatex compatibility (PK/MW)
+\c@textcitecount=\count448
+\c@textcitetotal=\count449
+\c@textcitemaxnames=\count450
+\c@biburlbigbreakpenalty=\count451
+\c@biburlbreakpenalty=\count452
+\c@biburlnumpenalty=\count453
+\c@biburlucpenalty=\count454
+\c@biburllcpenalty=\count455
+\biburlbigskip=\muskip18
+\biburlnumskip=\muskip19
+\biburlucskip=\muskip20
+\biburllcskip=\muskip21
+\c@smartand=\count456
+)
+Package biblatex Info: Trying to load bibliography style 'ieee'...
+Package biblatex Info: ... file 'ieee.bbx' found.
+ (d:/Programmi/texlive/2023/texmf-dist/tex/latex/biblatex-ieee/ieee.bbx
+File: ieee.bbx 2021/12/06 v1.3f biblatex bibliography style
+Package biblatex Info: Trying to load bibliography style 'numeric-comp'...
+Package biblatex Info: ... file 'numeric-comp.bbx' found.
+ (d:/Programmi/texlive/2023/texmf-dist/tex/latex/biblatex/bbx/numeric-comp.bbx
+File: numeric-comp.bbx 2023/03/05 v3.19 biblatex bibliography style (PK/MW)
+Package biblatex Info: Trying to load bibliography style 'numeric'...
+Package biblatex Info: ... file 'numeric.bbx' found.
+ (d:/Programmi/texlive/2023/texmf-dist/tex/latex/biblatex/bbx/numeric.bbx
+File: numeric.bbx 2023/03/05 v3.19 biblatex bibliography style (PK/MW)
+Package biblatex Info: Trying to load bibliography style 'standard'...
+Package biblatex Info: ... file 'standard.bbx' found.
+ (d:/Programmi/texlive/2023/texmf-dist/tex/latex/biblatex/bbx/standard.bbx
+File: standard.bbx 2023/03/05 v3.19 biblatex bibliography style (PK/MW)
+\c@bbx:relatedcount=\count457
+\c@bbx:relatedtotal=\count458
+))))
+Package biblatex Info: Trying to load citation style 'ieee'...
+Package biblatex Info: ... file 'ieee.cbx' found.
+ (d:/Programmi/texlive/2023/texmf-dist/tex/latex/biblatex-ieee/ieee.cbx
+File: ieee.cbx 2021/12/06 v1.3f biblatex citation style
+Package biblatex Info: Trying to load citation style 'numeric-comp'...
+Package biblatex Info: ... file 'numeric-comp.cbx' found.
+ (d:/Programmi/texlive/2023/texmf-dist/tex/latex/biblatex/cbx/numeric-comp.cbx
+File: numeric-comp.cbx 2023/03/05 v3.19 biblatex citation style (PK/MW)
+\c@cbx@tempcnta=\count459
+\c@cbx@tempcntb=\count460
+\c@cbx@tempcntc=\count461
+\c@cbx@tempcntd=\count462
+Package biblatex Info: Redefining '\cite'.
+Package biblatex Info: Redefining '\parencite'.
+Package biblatex Info: Redefining '\footcite'.
+Package biblatex Info: Redefining '\footcitetext'.
+Package biblatex Info: Redefining '\smartcite'.
+Package biblatex Info: Redefining '\supercite'.
+Package biblatex Info: Redefining '\textcite'.
+Package biblatex Info: Redefining '\textcites'.
+Package biblatex Info: Redefining '\cites'.
+Package biblatex Info: Redefining '\parencites'.
+Package biblatex Info: Redefining '\smartcites'.
+)
+Package biblatex Info: Redefining '\cite'.
+Package biblatex Info: Redefining '\supercite'.
+Package biblatex Info: Redefining '\cites'.
+)
+Package biblatex Info: Trying to load configuration file...
+Package biblatex Info: ... file 'biblatex.cfg' found.
+ (d:/Programmi/texlive/2023/texmf-dist/tex/latex/biblatex/biblatex.cfg
+File: biblatex.cfg 
+)
+Package biblatex Info: LuaTeX detected.
+(biblatex)             Assuming input encoding 'utf8'.
+Package biblatex Info: Document encoding is UTF8 ....
+ (d:/Programmi/texlive/2023/texmf-dist/tex/latex/l3kernel/expl3.sty
+Package: expl3 2023-08-29 L3 programming layer (loader) 
+ (d:/Programmi/texlive/2023/texmf-dist/tex/latex/l3backend/l3backend-luatex.def
+File: l3backend-luatex.def 2023-04-19 L3 backend support: PDF output (LuaTeX)
+\l__color_backend_stack_int=\count463
+Inserting `l3color' in `luaotfload.parse_color'.
+\l__pdf_internal_box=\box78
+))
+Package biblatex Info: ... and expl3
+(biblatex)             2023-08-29 L3 programming layer (loader) 
+(biblatex)             is new enough (at least 2020/04/06),
+(biblatex)             setting 'casechanger=expl3'.
+ (d:/Programmi/texlive/2023/texmf-dist/tex/latex/biblatex/blx-case-expl3.sty (d:/Programmi/texlive/2023/texmf-dist/tex/latex/l3packages/xparse/xparse.sty
+Package: xparse 2023-08-29 L3 Experimental document command parser
+)
+Package: blx-case-expl3 2023/03/05 v3.19 expl3 case changing code for biblatex
+)) (./beamerthemeUnipd.sty (d:/Programmi/texlive/2023/texmf-dist/tex/latex/textpos/textpos.sty
 Package: textpos 2022/07/23 v1.10.1
 Package textpos Info: choosing support for LaTeX3 on input line 60.
-\TP@textbox=\box76
+\TP@textbox=\box79
 \TPHorizModule=\dimen293
 \TPVertModule=\dimen294
 \TP@margin=\dimen295
@@ -576,12 +846,12 @@ Package textpos Info: choosing support for LaTeX3 on input line 60.
 
 Grid set 16 x 16 = 22.7622pt x 17.07166pt
 \TPboxrulesize=\dimen297
-\TP@tbargs=\toks47
+\TP@tbargs=\toks49
 ) (d:/Programmi/texlive/2023/texmf-dist/tex/latex/pgf/frontendlayer/tikz.sty (d:/Programmi/texlive/2023/texmf-dist/tex/latex/pgf/basiclayer/pgf.sty
 Package: pgf 2023-01-15 v3.1.10 (3.1.10)
  (d:/Programmi/texlive/2023/texmf-dist/tex/generic/pgf/modules/pgfmoduleshapes.code.tex
 File: pgfmoduleshapes.code.tex 2023-01-15 v3.1.10 (3.1.10)
-\pgfnodeparttextbox=\box77
+\pgfnodeparttextbox=\box80
 ) (d:/Programmi/texlive/2023/texmf-dist/tex/generic/pgf/modules/pgfmoduleplot.code.tex
 File: pgfmoduleplot.code.tex 2023-01-15 v3.1.10 (3.1.10)
 ) (d:/Programmi/texlive/2023/texmf-dist/tex/latex/pgf/compatibility/pgfcomp-version-0-65.sty
@@ -594,13 +864,13 @@ Package: pgfcomp-version-1-18 2023-01-15 v3.1.10 (3.1.10)
 Package: pgffor 2023-01-15 v3.1.10 (3.1.10)
 \pgffor@iter=\dimen300
 \pgffor@skip=\dimen301
-\pgffor@stack=\toks48
-\pgffor@toks=\toks49
+\pgffor@stack=\toks50
+\pgffor@toks=\toks51
 )) (d:/Programmi/texlive/2023/texmf-dist/tex/generic/pgf/frontendlayer/tikz/tikz.code.tex
 Package: tikz 2023-01-15 v3.1.10 (3.1.10)
  (d:/Programmi/texlive/2023/texmf-dist/tex/generic/pgf/libraries/pgflibraryplothandlers.code.tex
 File: pgflibraryplothandlers.code.tex 2023-01-15 v3.1.10 (3.1.10)
-\pgf@plot@mark@count=\count332
+\pgf@plot@mark@count=\count464
 \pgfplotmarksize=\dimen302
 )
 \tikz@lastx=\dimen303
@@ -611,59 +881,57 @@ File: pgflibraryplothandlers.code.tex 2023-01-15 v3.1.10 (3.1.10)
 \tikz@lastmovetoy=\dimen308
 \tikzleveldistance=\dimen309
 \tikzsiblingdistance=\dimen310
-\tikz@figbox=\box78
-\tikz@figbox@bg=\box79
-\tikz@tempbox=\box80
-\tikz@tempbox@bg=\box81
-\tikztreelevel=\count333
-\tikznumberofchildren=\count334
-\tikznumberofcurrentchild=\count335
-\tikz@fig@count=\count336
+\tikz@figbox=\box81
+\tikz@figbox@bg=\box82
+\tikz@tempbox=\box83
+\tikz@tempbox@bg=\box84
+\tikztreelevel=\count465
+\tikznumberofchildren=\count466
+\tikznumberofcurrentchild=\count467
+\tikz@fig@count=\count468
  (d:/Programmi/texlive/2023/texmf-dist/tex/generic/pgf/modules/pgfmodulematrix.code.tex
 File: pgfmodulematrix.code.tex 2023-01-15 v3.1.10 (3.1.10)
-\pgfmatrixcurrentrow=\count337
-\pgfmatrixcurrentcolumn=\count338
-\pgf@matrix@numberofcolumns=\count339
+\pgfmatrixcurrentrow=\count469
+\pgfmatrixcurrentcolumn=\count470
+\pgf@matrix@numberofcolumns=\count471
 )
-\tikz@expandcount=\count340
+\tikz@expandcount=\count472
  (d:/Programmi/texlive/2023/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibrarytopaths.code.tex
 File: tikzlibrarytopaths.code.tex 2023-01-15 v3.1.10 (3.1.10)
 ))) (d:/Programmi/texlive/2023/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibrarybackgrounds.code.tex
 File: tikzlibrarybackgrounds.code.tex 2023-01-15 v3.1.10 (3.1.10)
-\pgf@layerbox@background=\box82
-\pgf@layerboxsaved@background=\box83
-) (./beamerouterthemeUnipd.sty) (./beamerinnerthemeUnipd.sty) (./beamercolorthemeUnipd.sty) (./beamerfontthemeUnipd.sty)) (d:/Programmi/texlive/2023/texmf-dist/tex/latex/l3backend/l3backend-luatex.def
-File: l3backend-luatex.def 2023-04-19 L3 backend support: PDF output (LuaTeX)
-\l__color_backend_stack_int=\count341
-Inserting `l3color' in `luaotfload.parse_color'.
-\l__pdf_internal_box=\box84
-) (./main.aux)
+\pgf@layerbox@background=\box85
+\pgf@layerboxsaved@background=\box86
+) (./beamerouterthemeUnipd.sty) (./beamerinnerthemeUnipd.sty) (./beamercolorthemeUnipd.sty) (./beamerfontthemeUnipd.sty))
+\@quotelevel=\count473
+\@quotereset=\count474
+ (./main.aux)
 \openout1 = main.aux
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 25.
-LaTeX Font Info:    ... okay on input line 25.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 25.
-LaTeX Font Info:    ... okay on input line 25.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 25.
-LaTeX Font Info:    ... okay on input line 25.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 25.
-LaTeX Font Info:    ... okay on input line 25.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 25.
-LaTeX Font Info:    Trying to load font information for TS1+cmr on input line 25.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 29.
+LaTeX Font Info:    ... okay on input line 29.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 29.
+LaTeX Font Info:    ... okay on input line 29.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 29.
+LaTeX Font Info:    ... okay on input line 29.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 29.
+LaTeX Font Info:    ... okay on input line 29.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 29.
+LaTeX Font Info:    Trying to load font information for TS1+cmr on input line 29.
  (d:/Programmi/texlive/2023/texmf-dist/tex/latex/base/ts1cmr.fd
 File: ts1cmr.fd 2023/04/13 v2.5m Standard LaTeX font definitions
 )
-LaTeX Font Info:    ... okay on input line 25.
-LaTeX Font Info:    Checking defaults for TU/lmr/m/n on input line 25.
-LaTeX Font Info:    ... okay on input line 25.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 25.
-LaTeX Font Info:    ... okay on input line 25.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 25.
-LaTeX Font Info:    ... okay on input line 25.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 25.
-LaTeX Font Info:    ... okay on input line 25.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 25.
-LaTeX Font Info:    ... okay on input line 25.
+LaTeX Font Info:    ... okay on input line 29.
+LaTeX Font Info:    Checking defaults for TU/lmr/m/n on input line 29.
+LaTeX Font Info:    ... okay on input line 29.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 29.
+LaTeX Font Info:    ... okay on input line 29.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 29.
+LaTeX Font Info:    ... okay on input line 29.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 29.
+LaTeX Font Info:    ... okay on input line 29.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 29.
+LaTeX Font Info:    ... okay on input line 29.
 
 *geometry* driver: auto-detecting
 *geometry* detected driver: luatex
@@ -701,70 +969,70 @@ LaTeX Font Info:    ... okay on input line 25.
 
 (d:/Programmi/texlive/2023/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count342
+\scratchcounter=\count475
 \scratchdimen=\dimen311
-\scratchbox=\box85
-\nofMPsegments=\count343
-\nofMParguments=\count344
-\everyMPshowfont=\toks50
-\MPscratchCnt=\count345
+\scratchbox=\box87
+\nofMPsegments=\count476
+\nofMParguments=\count477
+\everyMPshowfont=\toks52
+\MPscratchCnt=\count478
 \MPscratchDim=\dimen312
-\MPnumerator=\count346
-\makeMPintoPDFobject=\count347
-\everyMPtoPDFconversion=\toks51
+\MPnumerator=\count479
+\makeMPintoPDFobject=\count480
+\everyMPtoPDFconversion=\toks53
 ) (d:/Programmi/texlive/2023/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty
 Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
 Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 485.
  (d:/Programmi/texlive/2023/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
 File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Live
 ))
-Package hyperref Info: Link coloring OFF on input line 25.
+Package hyperref Info: Link coloring OFF on input line 29.
  (./main.out) (./main.out)
-\@outlinefile=\write5
+\@outlinefile=\write6
 
-\openout5 = main.out
+\openout6 = main.out
 LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
-(Font)                  OT1/cmr/m/n --> OT1/cmss/m/n on input line 25.
+(Font)                  OT1/cmr/m/n --> OT1/cmss/m/n on input line 29.
 LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
-(Font)                  OT1/cmr/bx/n --> OT1/cmss/b/n on input line 25.
+(Font)                  OT1/cmr/bx/n --> OT1/cmss/b/n on input line 29.
 \symnumbers=\mathgroup6
 \sympureletters=\mathgroup7
 LaTeX Font Info:    Overwriting math alphabet `\mathrm' in version `normal'
-(Font)                  OT1/cmss/m/n --> TU/lmr/m/n on input line 25.
-LaTeX Font Info:    Redeclaring math alphabet \mathbf on input line 25.
+(Font)                  OT1/cmss/m/n --> TU/lmr/m/n on input line 29.
+LaTeX Font Info:    Redeclaring math alphabet \mathbf on input line 29.
 LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `normal'
-(Font)                  OT1/cmr/bx/n --> TU/lmss/b/n on input line 25.
+(Font)                  OT1/cmr/bx/n --> TU/lmss/b/n on input line 29.
 LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `bold'
-(Font)                  OT1/cmr/bx/n --> TU/lmss/b/n on input line 25.
-LaTeX Font Info:    Redeclaring math alphabet \mathsf on input line 25.
+(Font)                  OT1/cmr/bx/n --> TU/lmss/b/n on input line 29.
+LaTeX Font Info:    Redeclaring math alphabet \mathsf on input line 29.
 LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `normal'
-(Font)                  OT1/cmss/m/n --> TU/lmss/m/n on input line 25.
+(Font)                  OT1/cmss/m/n --> TU/lmss/m/n on input line 29.
 LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
-(Font)                  OT1/cmss/bx/n --> TU/lmss/m/n on input line 25.
-LaTeX Font Info:    Redeclaring math alphabet \mathit on input line 25.
+(Font)                  OT1/cmss/bx/n --> TU/lmss/m/n on input line 29.
+LaTeX Font Info:    Redeclaring math alphabet \mathit on input line 29.
 LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `normal'
-(Font)                  OT1/cmr/m/it --> TU/lmss/m/it on input line 25.
+(Font)                  OT1/cmr/m/it --> TU/lmss/m/it on input line 29.
 LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
-(Font)                  OT1/cmr/bx/it --> TU/lmss/m/it on input line 25.
-LaTeX Font Info:    Redeclaring math alphabet \mathtt on input line 25.
+(Font)                  OT1/cmr/bx/it --> TU/lmss/m/it on input line 29.
+LaTeX Font Info:    Redeclaring math alphabet \mathtt on input line 29.
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `normal'
-(Font)                  OT1/cmtt/m/n --> TU/lmtt/m/n on input line 25.
+(Font)                  OT1/cmtt/m/n --> TU/lmtt/m/n on input line 29.
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
-(Font)                  OT1/cmtt/m/n --> TU/lmtt/m/n on input line 25.
+(Font)                  OT1/cmtt/m/n --> TU/lmtt/m/n on input line 29.
 LaTeX Font Info:    Overwriting symbol font `numbers' in version `bold'
-(Font)                  TU/lmss/m/n --> TU/lmss/b/n on input line 25.
+(Font)                  TU/lmss/m/n --> TU/lmss/b/n on input line 29.
 LaTeX Font Info:    Overwriting symbol font `pureletters' in version `bold'
-(Font)                  TU/lmss/m/it --> TU/lmss/b/it on input line 25.
+(Font)                  TU/lmss/m/it --> TU/lmss/b/it on input line 29.
 LaTeX Font Info:    Overwriting math alphabet `\mathrm' in version `bold'
-(Font)                  OT1/cmss/b/n --> TU/lmr/b/n on input line 25.
+(Font)                  OT1/cmss/b/n --> TU/lmr/b/n on input line 29.
 LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `bold'
-(Font)                  TU/lmss/b/n --> TU/lmss/b/n on input line 25.
+(Font)                  TU/lmss/b/n --> TU/lmss/b/n on input line 29.
 LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
-(Font)                  TU/lmss/m/n --> TU/lmss/b/n on input line 25.
+(Font)                  TU/lmss/m/n --> TU/lmss/b/n on input line 29.
 LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
-(Font)                  TU/lmss/m/it --> TU/lmss/b/it on input line 25.
+(Font)                  TU/lmss/m/it --> TU/lmss/b/it on input line 29.
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
-(Font)                  TU/lmtt/m/n --> TU/lmtt/b/n on input line 25.
+(Font)                  TU/lmtt/m/n --> TU/lmtt/b/n on input line 29.
  (d:/Programmi/texlive/2023/texmf-dist/tex/latex/translator/translator-basic-dictionary-English.dict
 Dictionary: translator-basic-dictionary, Language: English 
 ) (d:/Programmi/texlive/2023/texmf-dist/tex/latex/translator/translator-bibliography-dictionary-English.dict
@@ -777,107 +1045,380 @@ Dictionary: translator-months-dictionary, Language: English
 Dictionary: translator-numbers-dictionary, Language: English 
 ) (d:/Programmi/texlive/2023/texmf-dist/tex/latex/translator/translator-theorem-dictionary-English.dict
 Dictionary: translator-theorem-dictionary, Language: English 
-) (./main.nav)
-<unipd_logo.png, id=21, 562.1pt x 251.339pt>
+)
+Package biblatex Info: Trying to load language 'english'...
+Package biblatex Info: ... file 'english.lbx' found.
+ (d:/Programmi/texlive/2023/texmf-dist/tex/latex/biblatex/lbx/english.lbx
+File: english.lbx 2023/03/05 v3.19 biblatex localization (PK/MW)
+)
+Package biblatex Info: LuaTeX detected.
+(biblatex)             Assuming input encoding 'utf8'.
+Package biblatex Info: Automatic encoding selection.
+(biblatex)             Assuming data encoding 'utf8'.
+Package biblatex Info: LuaTeX detected.
+(biblatex)             Assuming input encoding 'utf8'.
+Package biblatex Info: Data encoding 'utf8' specified.
+(biblatex)             No need to reencode data.
+
+\openout5 = main-blx.bib
+Package biblatex Info: Trying to load bibliographic data...
+Package biblatex Info: ... file 'main.bbl' found.
+ (./main.bbl)
+Package biblatex Info: Reference section=0 on input line 29.
+Package biblatex Info: Reference segment=0 on input line 29.
+ (./main.nav)
+<unipd_logo.png, id=41, 562.1pt x 251.339pt>
 File: unipd_logo.png Graphic file (type png)
 <use unipd_logo.png>
-Package luatex.def Info: unipd_logo.png  used on input line 28.
+Package luatex.def Info: unipd_logo.png  used on input line 32.
 (luatex.def)             Requested size: 122.16998pt x 54.62848pt.
-LaTeX Font Info:    Trying to load font information for U+msa on input line 28.
+LaTeX Font Info:    Trying to load font information for U+msa on input line 32.
  (d:/Programmi/texlive/2023/texmf-dist/tex/latex/amsfonts/umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Trying to load font information for U+msb on input line 28.
+LaTeX Font Info:    Trying to load font information for U+msb on input line 32.
  (d:/Programmi/texlive/2023/texmf-dist/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )
 LaTeX Font Info:    Font shape `TU/lmss/m/it' in size <10.95> not available
-(Font)              Font shape `TU/lmss/m/sl' tried instead on input line 28.
+(Font)              Font shape `TU/lmss/m/sl' tried instead on input line 32.
 LaTeX Font Info:    Font shape `TU/lmss/m/it' in size <8> not available
-(Font)              Font shape `TU/lmss/m/sl' tried instead on input line 28.
+(Font)              Font shape `TU/lmss/m/sl' tried instead on input line 32.
 LaTeX Font Info:    Font shape `TU/lmss/m/it' in size <6> not available
-(Font)              Font shape `TU/lmss/m/sl' tried instead on input line 28.
-<dei_logo.png, id=22, 351.714pt x 225.9642pt>
+(Font)              Font shape `TU/lmss/m/sl' tried instead on input line 32.
+<dei_logo.png, id=42, 351.714pt x 225.9642pt>
 File: dei_logo.png Graphic file (type png)
 <use dei_logo.png>
-Package luatex.def Info: dei_logo.png  used on input line 28.
+Package luatex.def Info: dei_logo.png  used on input line 32.
 (luatex.def)             Requested size: 85.03026pt x 54.62848pt.
  [1
 
 {d:/Programmi/texlive/2023/texmf-var/fonts/map/pdftex/updmap/pdftex.map}<./unipd_logo.png><./dei_logo.png>] (./main.toc)
 LaTeX Font Info:    Font shape `TU/lmss/m/it' in size <17.28> not available
-(Font)              Font shape `TU/lmss/m/sl' tried instead on input line 33.
+(Font)              Font shape `TU/lmss/m/sl' tried instead on input line 37.
 LaTeX Font Info:    Font shape `TU/lmss/m/it' in size <12> not available
-(Font)              Font shape `TU/lmss/m/sl' tried instead on input line 33.
+(Font)              Font shape `TU/lmss/m/sl' tried instead on input line 37.
 LaTeX Font Info:    Font shape `TU/lmss/m/it' in size <10> not available
-(Font)              Font shape `TU/lmss/m/sl' tried instead on input line 33.
+(Font)              Font shape `TU/lmss/m/sl' tried instead on input line 37.
 File: unipd_logo.png Graphic file (type png)
 <use unipd_logo.png>
-Package luatex.def Info: unipd_logo.png  used on input line 33.
+Package luatex.def Info: unipd_logo.png  used on input line 37.
 (luatex.def)             Requested size: 74.94533pt x 33.51454pt.
  [2
 
-] (./main.toc)
+] (./capitoli/compressione.tex
+<Immagini/LossyCompressorDiagram.png, id=76, 763.85374pt x 282.05376pt>
+File: Immagini/LossyCompressorDiagram.png Graphic file (type png)
+<use Immagini/LossyCompressorDiagram.png>
+Package luatex.def Info: Immagini/LossyCompressorDiagram.png  used on input line 10.
+(luatex.def)             Requested size: 245.83282pt x 90.77118pt.
 File: unipd_logo.png Graphic file (type png)
 <use unipd_logo.png>
-Package luatex.def Info: unipd_logo.png  used on input line 35.
+Package luatex.def Info: unipd_logo.png  used on input line 10.
 (luatex.def)             Requested size: 74.94533pt x 33.51454pt.
  [3
 
-]
+<./Immagini/LossyCompressorDiagram.png>]) (./capitoli/metodiTradizionali.tex
 File: unipd_logo.png Graphic file (type png)
 <use unipd_logo.png>
-Package luatex.def Info: unipd_logo.png  used on input line 50.
+Package luatex.def Info: unipd_logo.png  used on input line 11.
 (luatex.def)             Requested size: 74.94533pt x 33.51454pt.
  [4
 
-] (./main.toc)
+]) (./capitoli/metodiIntelligenti.tex
+<Immagini/Autoencoder_scheme.png, id=105, 672.5125pt x 782.925pt>
+File: Immagini/Autoencoder_scheme.png Graphic file (type png)
+<use Immagini/Autoencoder_scheme.png>
+Package luatex.def Info: Immagini/Autoencoder_scheme.png  used on input line 10.
+(luatex.def)             Requested size: 130.24431pt x 151.62444pt.
 File: unipd_logo.png Graphic file (type png)
 <use unipd_logo.png>
-Package luatex.def Info: unipd_logo.png  used on input line 52.
+Package luatex.def Info: unipd_logo.png  used on input line 10.
 (luatex.def)             Requested size: 74.94533pt x 33.51454pt.
  [5
 
-]
+<./Immagini/Autoencoder_scheme.png>]
 File: unipd_logo.png Graphic file (type png)
 <use unipd_logo.png>
-Package luatex.def Info: unipd_logo.png  used on input line 66.
+Package luatex.def Info: unipd_logo.png  used on input line 19.
 (luatex.def)             Requested size: 74.94533pt x 33.51454pt.
  [6
 
 ]
-\tf@nav=\write6
+<Immagini/Ballé2018_Rete.png, id=129, 289.08pt x 168.63pt>
+File: Immagini/Ballé2018_Rete.png Graphic file (type png)
+<use Immagini/Ballé2018_Rete.png>
+Package luatex.def Info: Immagini/Ballé2018_Rete.png  used on input line 28.
+(luatex.def)             Requested size: 182.34123pt x 106.3661pt.
+File: unipd_logo.png Graphic file (type png)
+<use unipd_logo.png>
+Package luatex.def Info: unipd_logo.png  used on input line 28.
+(luatex.def)             Requested size: 74.94533pt x 33.51454pt.
+ [7
 
-\openout6 = main.nav
-\tf@toc=\write7
+<./Immagini/Ballé2018_Rete.png>]
+<Immagini/Cheng2020_Rete.png, id=142, 517.935pt x 156.585pt>
+File: Immagini/Cheng2020_Rete.png Graphic file (type png)
+<use Immagini/Cheng2020_Rete.png>
+Package luatex.def Info: Immagini/Cheng2020_Rete.png  used on input line 37.
+(luatex.def)             Requested size: 307.28987pt x 92.9052pt.
+File: unipd_logo.png Graphic file (type png)
+<use unipd_logo.png>
+Package luatex.def Info: unipd_logo.png  used on input line 37.
+(luatex.def)             Requested size: 74.94533pt x 33.51454pt.
+ [8
 
-\openout7 = main.toc
-\tf@snm=\write8
+<./Immagini/Cheng2020_Rete.png>]
+<Immagini/Wang2022_Rete.png, id=155, 211.992pt x 168.63pt>
+File: Immagini/Wang2022_Rete.png Graphic file (type png)
+<use Immagini/Wang2022_Rete.png>
+Package luatex.def Info: Immagini/Wang2022_Rete.png  used on input line 46.
+(luatex.def)             Requested size: 156.29475pt x 124.3288pt.
+File: unipd_logo.png Graphic file (type png)
+<use unipd_logo.png>
+Package luatex.def Info: unipd_logo.png  used on input line 46.
+(luatex.def)             Requested size: 74.94533pt x 33.51454pt.
+ [9
 
-\openout8 = main.snm
+<./Immagini/Wang2022_Rete.png>]) (./capitoli/valutazionePrestazioni.tex
+warning  (file Immagini/IMAGES/PNG_IMG0004.pdf) (pdf inclusion): PDF inclusion: found PDF version '1.6', but at most version '1.5' allowed
+<Immagini/IMAGES/PNG_IMG0004.pdf, id=169, 2055.68pt x 3083.52pt>
+File: Immagini/IMAGES/PNG_IMG0004.pdf Graphic file (type pdf)
+<use Immagini/IMAGES/PNG_IMG0004.pdf>
+Package luatex.def Info: Immagini/IMAGES/PNG_IMG0004.pdf  used on input line 50.
+(luatex.def)             Requested size: 39.94917pt x 59.8955pt.
+
+Overfull \hbox (3.34082pt too wide) in paragraph at lines 50--50
+\TU/lmss/m/n/10 11.117bpp  
+ []
+
+
+warning  (file Immagini/IMAGES/JPEG_1_IMG0004.pdf) (pdf inclusion): PDF inclusion: found PDF version '1.6', but at most version '1.5' allowed
+<Immagini/IMAGES/JPEG_1_IMG0004.pdf, id=170, 2055.68pt x 3083.52pt>
+File: Immagini/IMAGES/JPEG_1_IMG0004.pdf Graphic file (type pdf)
+<use Immagini/IMAGES/JPEG_1_IMG0004.pdf>
+Package luatex.def Info: Immagini/IMAGES/JPEG_1_IMG0004.pdf  used on input line 50.
+(luatex.def)             Requested size: 39.94917pt x 59.8955pt.
+
+warning  (file Immagini/IMAGES/JPEG2000_2_IMG0004.pdf) (pdf inclusion): PDF inclusion: found PDF version '1.6', but at most version '1.5' allowed
+<Immagini/IMAGES/JPEG2000_2_IMG0004.pdf, id=171, 2055.68pt x 3083.52pt>
+File: Immagini/IMAGES/JPEG2000_2_IMG0004.pdf Graphic file (type pdf)
+<use Immagini/IMAGES/JPEG2000_2_IMG0004.pdf>
+Package luatex.def Info: Immagini/IMAGES/JPEG2000_2_IMG0004.pdf  used on input line 50.
+(luatex.def)             Requested size: 39.94917pt x 59.8955pt.
+
+Overfull \hbox (3.80083pt too wide) in paragraph at lines 50--50
+\TU/lmss/m/n/10 JPEG2000 
+ []
+
+
+warning  (file Immagini/IMAGES/BPG_3_IMG0004.pdf) (pdf inclusion): PDF inclusion: found PDF version '1.6', but at most version '1.5' allowed
+<Immagini/IMAGES/BPG_3_IMG0004.pdf, id=172, 2055.68pt x 3083.52pt>
+File: Immagini/IMAGES/BPG_3_IMG0004.pdf Graphic file (type pdf)
+<use Immagini/IMAGES/BPG_3_IMG0004.pdf>
+Package luatex.def Info: Immagini/IMAGES/BPG_3_IMG0004.pdf  used on input line 50.
+(luatex.def)             Requested size: 39.94917pt x 59.8955pt.
+
+warning  (file Immagini/IMAGES/VVC_2_IMG0004.pdf) (pdf inclusion): PDF inclusion: found PDF version '1.6', but at most version '1.5' allowed
+<Immagini/IMAGES/VVC_2_IMG0004.pdf, id=173, 2055.68pt x 3083.52pt>
+File: Immagini/IMAGES/VVC_2_IMG0004.pdf Graphic file (type pdf)
+<use Immagini/IMAGES/VVC_2_IMG0004.pdf>
+Package luatex.def Info: Immagini/IMAGES/VVC_2_IMG0004.pdf  used on input line 50.
+(luatex.def)             Requested size: 39.94917pt x 59.8955pt.
+
+warning  (file Immagini/IMAGES/mbt2018_3_IMG0004.pdf) (pdf inclusion): PDF inclusion: found PDF version '1.6', but at most version '1.5' allowed
+<Immagini/IMAGES/mbt2018_3_IMG0004.pdf, id=174, 2055.68pt x 3083.52pt>
+File: Immagini/IMAGES/mbt2018_3_IMG0004.pdf Graphic file (type pdf)
+<use Immagini/IMAGES/mbt2018_3_IMG0004.pdf>
+Package luatex.def Info: Immagini/IMAGES/mbt2018_3_IMG0004.pdf  used on input line 50.
+(luatex.def)             Requested size: 39.94917pt x 59.8955pt.
+
+warning  (file Immagini/IMAGES/cheng2020_attn_3_IMG0004.pdf) (pdf inclusion): PDF inclusion: found PDF version '1.6', but at most version '1.5' allowed
+<Immagini/IMAGES/cheng2020_attn_3_IMG0004.pdf, id=175, 2055.68pt x 3083.52pt>
+File: Immagini/IMAGES/cheng2020_attn_3_IMG0004.pdf Graphic file (type pdf)
+<use Immagini/IMAGES/cheng2020_attn_3_IMG0004.pdf>
+Package luatex.def Info: Immagini/IMAGES/cheng2020_attn_3_IMG0004.pdf  used on input line 50.
+(luatex.def)             Requested size: 39.94917pt x 59.8955pt.
+File: unipd_logo.png Graphic file (type png)
+<use unipd_logo.png>
+Package luatex.def Info: unipd_logo.png  used on input line 50.
+(luatex.def)             Requested size: 74.94533pt x 33.51454pt.
+[10
+
+<./Immagini/IMAGES/PNG_IMG0004.pdf><./Immagini/IMAGES/JPEG_1_IMG0004.pdf><./Immagini/IMAGES/JPEG2000_2_IMG0004.pdf><./Immagini/IMAGES/BPG_3_IMG0004.pdf><./Immagini/IMAGES/VVC_2_IMG0004.pdf><./Immagini/IMAGES/mbt2018_3_IMG0004.pdf><./Immagini/IMAGES/cheng2020_attn_3_IMG0004.pdf>]
+<Immagini/METRICS/times@0.16bpp.png, id=200, 1445.4pt x 722.7pt>
+File: Immagini/METRICS/times@0.16bpp.png Graphic file (type png)
+<use Immagini/METRICS/times@0.16bpp.png>
+Package luatex.def Info: Immagini/METRICS/times@0.16bpp.png  used on input line 59.
+(luatex.def)             Requested size: 307.28987pt x 153.64615pt.
+File: unipd_logo.png Graphic file (type png)
+<use unipd_logo.png>
+Package luatex.def Info: unipd_logo.png  used on input line 59.
+(luatex.def)             Requested size: 74.94533pt x 33.51454pt.
+ [11
+
+<./Immagini/METRICS/times@0.16bpp.png>]
+<Immagini/METRICS/times@0.34bpp.png, id=212, 1445.4pt x 722.7pt>
+File: Immagini/METRICS/times@0.34bpp.png Graphic file (type png)
+<use Immagini/METRICS/times@0.34bpp.png>
+Package luatex.def Info: Immagini/METRICS/times@0.34bpp.png  used on input line 67.
+(luatex.def)             Requested size: 307.28987pt x 153.64615pt.
+File: unipd_logo.png Graphic file (type png)
+<use unipd_logo.png>
+Package luatex.def Info: unipd_logo.png  used on input line 67.
+(luatex.def)             Requested size: 74.94533pt x 33.51454pt.
+ [12
+
+<./Immagini/METRICS/times@0.34bpp.png>]
+<Immagini/METRICS/PSNR.png, id=223, 722.7pt x 722.7pt>
+File: Immagini/METRICS/PSNR.png Graphic file (type png)
+<use Immagini/METRICS/PSNR.png>
+Package luatex.def Info: Immagini/METRICS/PSNR.png  used on input line 76.
+(luatex.def)             Requested size: 169.31601pt x 169.31622pt.
+File: unipd_logo.png Graphic file (type png)
+<use unipd_logo.png>
+Package luatex.def Info: unipd_logo.png  used on input line 76.
+(luatex.def)             Requested size: 74.94533pt x 33.51454pt.
+
+Overfull \vbox (1.58731pt too high) detected at line 76
+ []
+
+[13
+
+<./Immagini/METRICS/PSNR.png>]
+<Immagini/METRICS/MS-SSIM.png, id=234, 722.7pt x 722.7pt>
+File: Immagini/METRICS/MS-SSIM.png Graphic file (type png)
+<use Immagini/METRICS/MS-SSIM.png>
+Package luatex.def Info: Immagini/METRICS/MS-SSIM.png  used on input line 86.
+(luatex.def)             Requested size: 169.31601pt x 169.31622pt.
+File: unipd_logo.png Graphic file (type png)
+<use unipd_logo.png>
+Package luatex.def Info: unipd_logo.png  used on input line 86.
+(luatex.def)             Requested size: 74.94533pt x 33.51454pt.
+
+Overfull \vbox (1.58731pt too high) detected at line 86
+ []
+
+[14
+
+<./Immagini/METRICS/MS-SSIM.png>]
+<Immagini/METRICS/LPIPS.png, id=248, 722.7pt x 722.7pt>
+File: Immagini/METRICS/LPIPS.png Graphic file (type png)
+<use Immagini/METRICS/LPIPS.png>
+Package luatex.def Info: Immagini/METRICS/LPIPS.png  used on input line 95.
+(luatex.def)             Requested size: 169.31601pt x 169.31622pt.
+File: unipd_logo.png Graphic file (type png)
+<use unipd_logo.png>
+Package luatex.def Info: unipd_logo.png  used on input line 95.
+(luatex.def)             Requested size: 74.94533pt x 33.51454pt.
+
+Overfull \vbox (1.58731pt too high) detected at line 95
+ []
+
+[15
+
+<./Immagini/METRICS/LPIPS.png>]) (./capitoli/sviluppiFuturi.tex
+File: unipd_logo.png Graphic file (type png)
+<use unipd_logo.png>
+Package luatex.def Info: unipd_logo.png  used on input line 9.
+(luatex.def)             Requested size: 74.94533pt x 33.51454pt.
+ [16
+
+])
+
+LaTeX Font Warning: Font shape `TU/lmss/m/sc' in size <10.95> not available
+(Font)              Font shape `TU/lmr/m/sc' tried instead on input line 49.
+
+File: unipd_logo.png Graphic file (type png)
+<use unipd_logo.png>
+Package luatex.def Info: unipd_logo.png  used on input line 49.
+(luatex.def)             Requested size: 74.94533pt x 33.51454pt.
+[17
+
+]
+File: unipd_logo.png Graphic file (type png)
+<use unipd_logo.png>
+Package luatex.def Info: unipd_logo.png  used on input line 49.
+(luatex.def)             Requested size: 74.94533pt x 33.51454pt.
+ [18
+
+
+]
+File: unipd_logo.png Graphic file (type png)
+<use unipd_logo.png>
+Package luatex.def Info: unipd_logo.png  used on input line 49.
+(luatex.def)             Requested size: 74.94533pt x 33.51454pt.
+ [19
+
+
+]
+File: unipd_logo.png Graphic file (type png)
+<use unipd_logo.png>
+Package luatex.def Info: unipd_logo.png  used on input line 49.
+(luatex.def)             Requested size: 74.94533pt x 33.51454pt.
+ [20
+
+
+]
+File: unipd_logo.png Graphic file (type png)
+<use unipd_logo.png>
+Package luatex.def Info: unipd_logo.png  used on input line 49.
+(luatex.def)             Requested size: 74.94533pt x 33.51454pt.
+ [21
+
+
+]
+File: unipd_logo.png Graphic file (type png)
+<use unipd_logo.png>
+Package luatex.def Info: unipd_logo.png  used on input line 55.
+(luatex.def)             Requested size: 74.94533pt x 33.51454pt.
+ [22
+
+]
+\tf@nav=\write7
+
+\openout7 = main.nav
+\tf@toc=\write8
+
+\openout8 = main.toc
+\tf@snm=\write9
+
+\openout9 = main.snm
  (./main.aux)
  ***********
 LaTeX2e <2023-06-01> patch level 1
 L3 programming layer <2023-08-29>
  ***********
+
+
+LaTeX Warning: There were undefined references.
+
 Package rerunfilecheck Info: File `main.out' has not changed.
-(rerunfilecheck)             Checksum: 90B3F52B86B92281397C4370F22EF20A;227.
+(rerunfilecheck)             Checksum: 8204E27D88A8953BA2E924BFA8D875AB;944.
+
+Package biblatex Warning: Please (re)run BibTeX on the file(s):
+(biblatex)                main
+(biblatex)                and rerun LaTeX afterwards.
+
+Package logreq Info: Writing requests to 'main.run.xml'.
+
+\openout1 = main.run.xml
 )
 
 Here is how much of LuaTeX's memory you used:
- 25566 strings out of 477259
+ 33385 strings out of 477259
  100000,1977958 words of node,token memory allocated
- 4380 words of node memory still in use:
-   65 hlist, 20 vlist, 11 rule, 10 disc, 9 local_par, 2 math, 137 glue, 25 kern, 18 penalty, 116 glyph, 167 attribute, 61 glue_spec, 167 attribute_list, 4 write, 24 pdf_literal, 64 pdf_colorstack, 1 pdf_setmatrix, 1 pdf_save, 1 pdf_restore nodes
-   avail lists: 2:240,3:258,4:248,5:88,6:29,7:935,8:1,9:324,10:11,11:35
- 46005 multiletter control sequences out of 65536+600000
- 67 fonts using 5064503 bytes
- 128i,15n,116p,423b,548s stack positions out of 10000i,1000n,20000p,200000b,200000s
-<d:/Programmi/texlive/2023/texmf-dist/fonts/opentype/public/lm/lmsans8-regular.otf><d:/Programmi/texlive/2023/texmf-dist/fonts/opentype/public/lm/lmsans10-regular.otf><d:/Programmi/texlive/2023/texmf-dist/fonts/opentype/public/lm/lmsans12-regular.otf><d:/Programmi/texlive/2023/texmf-dist/fonts/opentype/public/lm/lmsans17-regular.otf><d:/Programmi/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb>
-Output written on main.pdf (6 pages, 79588 bytes).
+ 1986 words of node memory still in use:
+   32 hlist, 11 vlist, 5 rule, 4 disc, 4 local_par, 2 math, 53 glue, 9 kern, 16 penalty, 32 glyph, 65 attribute, 73 glue_spec, 65 attribute_list, 4 write, 18 pdf_colorstack, 1 pdf_setmatrix, 1 pdf_save, 1 pdf_restore nodes
+   avail lists: 1:1,2:1260,3:435,4:349,5:200,6:75,7:4836,8:30,9:584,10:14,11:300
+ 53538 multiletter control sequences out of 65536+600000
+ 69 fonts using 5321479 bytes
+ 128i,15n,116p,1953b,1227s stack positions out of 10000i,1000n,20000p,200000b,200000s
+<d:/Programmi/texlive/2023/texmf-dist/fonts/opentype/public/lm/lmmono10-regular.otf><d:/Programmi/texlive/2023/texmf-dist/fonts/opentype/public/lm/lmromancaps10-regular.otf><d:/Programmi/texlive/2023/texmf-dist/fonts/opentype/public/lm/lmsans10-oblique.otf><d:/Programmi/texlive/2023/texmf-dist/fonts/opentype/public/lm/lmsans8-regular.otf><d:/Programmi/texlive/2023/texmf-dist/fonts/opentype/public/lm/lmsans10-regular.otf><d:/Programmi/texlive/2023/texmf-dist/fonts/opentype/public/lm/lmsans12-regular.otf><d:/Programmi/texlive/2023/texmf-dist/fonts/opentype/public/lm/lmsans17-regular.otf><d:/Programmi/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb>
+Output written on main.pdf (22 pages, 2966262 bytes).
 
-PDF statistics: 114 PDF objects out of 1000 (max. 8388607)
- 77 compressed objects within 1 object stream
- 15 named destinations out of 1000 (max. 131072)
- 32 words of extra memory for PDF output out of 10000 (max. 100000000)
+PDF statistics: 379 PDF objects out of 1000 (max. 8388607)
+ 263 compressed objects within 3 object streams
+ 83 named destinations out of 1000 (max. 131072)
+ 72 words of extra memory for PDF output out of 10000 (max. 100000000)
 
