@@ -1,14 +1,14 @@
 # Fdb version 4
-["bibtex main"] 1699452229 "main.aux" "main.bbl" "main" 1699452237 0
+["bibtex main"] 1699452229 "main.aux" "main.bbl" "main" 1699452308 0
   "./bibliografia.bib" 1699451934 8343 e3880d4f4b3bfae0658fe24e38afea14 ""
-  "./main-blx.bib" 1699452235 343 27af2fa4d0370999ebe8f3266686c889 ""
+  "./main-blx.bib" 1699452306 343 27af2fa4d0370999ebe8f3266686c889 ""
   "c:/Program Files/texlive/2023/texmf-dist/bibtex/bst/biblatex/biblatex.bst" 1695220347 65484 b7949c47a88ed6dca66ebc7a04577312 ""
-  "main.aux" 1699452235 12325 b6882edbd66df16355cb2cadc557dc1b "lualatex"
+  "main.aux" 1699452306 12325 b6882edbd66df16355cb2cadc557dc1b "lualatex"
   (generated)
   "main.bbl"
   "main.blg"
   (rewritten before read)
-["lualatex"] 1699452230 "c:/Users/filip/VSCodeProjects/imageCompressionAI_Presentation/main.tex" "main.pdf" "main" 1699452237 0
+["lualatex"] 1699452301 "c:/Users/filip/VSCodeProjects/imageCompressionAI_Presentation/main.tex" "main.pdf" "main" 1699452308 0
   "C:/Users/filip/.texlive2023/texmf-var/luatex-cache/generic/fonts/otl/lmmono10-regular.luc" 1699452226 81843 ea85e0ef779c89dcdbfc8b8ce690e3ec ""
   "C:/Users/filip/.texlive2023/texmf-var/luatex-cache/generic/fonts/otl/lmroman10-regular.luc" 1699452214 127333 3b3951569b1316b8bffc9eaa61da11d0 ""
   "C:/Users/filip/.texlive2023/texmf-var/luatex-cache/generic/fonts/otl/lmromancaps10-regular.luc" 1699452226 120253 c3135488b894c4763bf9e4bc163608f4 ""
@@ -316,20 +316,20 @@
   "c:/Program Files/texlive/2023/texmf-dist/tex/luatex/luaotfload/luaotfload.lua" 1695222549 13565 c514d92e6ff6be7b2f35d8e0eb56185c ""
   "c:/Program Files/texlive/2023/texmf-var/fonts/map/pdftex/updmap/pdftex.map" 1695225146 4721919 9ab709309862846109b891a4d54f6df4 ""
   "c:/Program Files/texlive/2023/texmf-var/web2c/luahbtex/lualatex.fmt" 1695225272 12204038 c8fadc42da79e1dddd2f5503e4269605 ""
-  "c:/Users/filip/VSCodeProjects/imageCompressionAI_Presentation/main.tex" 1699451934 1719 20e865330dda4fc57fb6a6f3d94e496b ""
+  "c:/Users/filip/VSCodeProjects/imageCompressionAI_Presentation/main.tex" 1699452300 1714 e3d1b1f88c3ad23640b05cb75f99d26d ""
   "capitoli/compressione.tex" 1699451934 441 deaedce22d2950c0f7b4fd47ec0b817f ""
   "capitoli/metodiIntelligenti.tex" 1699452211 1890 112a90f4e45ea2cb571e80012372d366 ""
   "capitoli/metodiTradizionali.tex" 1699451934 392 4458948757b65bd1f4f80e61ace1ff6e ""
   "capitoli/sviluppiFuturi.tex" 1699451934 376 b6fbf16063d992784b4614afc62601c0 ""
   "capitoli/valutazionePrestazioni.tex" 1699451934 4019 b2feebbb4aff18828e4549228d0bb329 ""
   "dei_logo.png" 1699451934 16835 72579d3137871b630c42b8e4d7e93802 ""
-  "main.aux" 1699452235 12325 b6882edbd66df16355cb2cadc557dc1b "lualatex"
+  "main.aux" 1699452306 12325 b6882edbd66df16355cb2cadc557dc1b "lualatex"
   "main.bbl" 1699452230 14371 4261da2d803913d1ed18d143992c89cc "bibtex main"
-  "main.nav" 1699452235 3404 bbe44fdfc0887d3a1c40f1c26a67e918 "lualatex"
-  "main.out" 1699452235 944 8204e27d88a8953ba2e924bfa8d875ab "lualatex"
-  "main.run.xml" 1699452235 2656 bf7edbce6a5689f429d9baa11e2a2c01 "lualatex"
-  "main.tex" 1699451934 1719 20e865330dda4fc57fb6a6f3d94e496b ""
-  "main.toc" 1699452235 334 cc6c6b6c259b1e8bc61c1fcc8510321c "lualatex"
+  "main.nav" 1699452306 3404 bbe44fdfc0887d3a1c40f1c26a67e918 "lualatex"
+  "main.out" 1699452306 944 8204e27d88a8953ba2e924bfa8d875ab "lualatex"
+  "main.run.xml" 1699452306 2656 bf7edbce6a5689f429d9baa11e2a2c01 "lualatex"
+  "main.tex" 1699452300 1714 e3d1b1f88c3ad23640b05cb75f99d26d ""
+  "main.toc" 1699452306 334 cc6c6b6c259b1e8bc61c1fcc8510321c "lualatex"
   "unipd_logo.png" 1699451934 64429 e2a6655a9aa72e0e257b9164b98b14fc ""
   (generated)
   "main-blx.bib"
