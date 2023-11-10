@@ -14,7 +14,7 @@
 \headcommand {\beamer@framepages {4}{4}}
 \headcommand {\beamer@sectionpages {4}{4}}
 \headcommand {\beamer@subsectionpages {4}{4}}
-\headcommand {\sectionentry {3}{Metodi con intelligenza artificiale}{5}{Metodi con intelligenza artificiale}{0}}
+\headcommand {\sectionentry {3}{Metodi con reti neurali}{5}{Metodi con reti neurali}{0}}
 \headcommand {\slideentry {3}{0}{1}{5/5}{}{0}}
 \headcommand {\beamer@framepages {5}{5}}
 \headcommand {\slideentry {3}{0}{2}{6/6}{}{0}}
@@ -45,26 +45,10 @@
 \headcommand {\sectionentry {5}{Sviluppi Futuri}{16}{Sviluppi Futuri}{0}}
 \headcommand {\slideentry {5}{0}{1}{16/16}{}{0}}
 \headcommand {\beamer@framepages {16}{16}}
-\headcommand {\beamer@sectionpages {16}{16}}
-\headcommand {\beamer@subsectionpages {16}{16}}
-\headcommand {\sectionentry {6}{Bibliografia}{17}{Bibliografia}{0}}
-\headcommand {\beamer@sectionpages {17}{16}}
-\headcommand {\beamer@subsectionpages {17}{16}}
-\headcommand {\sectionentry {7}{References}{17}{References}{0}}
-\headcommand {\slideentry {7}{0}{0}{17/17}{}{0}}
+\headcommand {\slideentry {5}{0}{2}{17/17}{}{0}}
 \headcommand {\beamer@framepages {17}{17}}
-\headcommand {\slideentry {7}{0}{0}{17/18}{}{0}}
-\headcommand {\beamer@framepages {17}{18}}
-\headcommand {\slideentry {7}{0}{0}{17/19}{}{0}}
-\headcommand {\beamer@framepages {17}{19}}
-\headcommand {\slideentry {7}{0}{0}{17/20}{}{0}}
-\headcommand {\beamer@framepages {17}{20}}
-\headcommand {\slideentry {7}{0}{0}{17/21}{}{0}}
-\headcommand {\beamer@framepages {17}{21}}
-\headcommand {\slideentry {7}{0}{1}{22/22}{}{0}}
-\headcommand {\beamer@framepages {22}{22}}
-\headcommand {\beamer@partpages {1}{22}}
-\headcommand {\beamer@subsectionpages {17}{22}}
-\headcommand {\beamer@sectionpages {17}{22}}
-\headcommand {\beamer@documentpages {22}}
-\headcommand {\gdef \inserttotalframenumber {22}}
+\headcommand {\beamer@partpages {1}{17}}
+\headcommand {\beamer@subsectionpages {16}{17}}
+\headcommand {\beamer@sectionpages {16}{17}}
+\headcommand {\beamer@documentpages {17}}
+\headcommand {\gdef \inserttotalframenumber {17}}

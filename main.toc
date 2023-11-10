@@ -1,6 +1,5 @@
 \beamer@sectionintoc {1}{Compressione}{3}{0}{1}
 \beamer@sectionintoc {2}{Metodi tradizionali}{4}{0}{2}
-\beamer@sectionintoc {3}{Metodi con intelligenza artificiale}{5}{0}{3}
+\beamer@sectionintoc {3}{Metodi con reti neurali}{5}{0}{3}
 \beamer@sectionintoc {4}{Risultati Sperimentali}{10}{0}{4}
 \beamer@sectionintoc {5}{Sviluppi Futuri}{16}{0}{5}
-\beamer@sectionintoc {6}{Bibliografia}{17}{0}{6}

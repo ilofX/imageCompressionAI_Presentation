@@ -337,8 +337,23 @@ INPUT ./unipd_logo.png
 INPUT ./capitoli/compressione.tex
 INPUT ./Immagini/LossyCompressorDiagram.png
 INPUT ./Immagini/LossyCompressorDiagram.png
+INPUT c:/Program Files/texlive/2023/texmf-dist/fonts/tfm/public/cm/cmss8.tfm
+INPUT c:/Program Files/texlive/2023/texmf-dist/fonts/tfm/public/cm/cmss8.tfm
+INPUT c:/Program Files/texlive/2023/texmf-dist/fonts/tfm/public/cm/cmmi7.tfm
+INPUT c:/Program Files/texlive/2023/texmf-dist/fonts/tfm/public/cm/cmmi5.tfm
+INPUT c:/Program Files/texlive/2023/texmf-dist/fonts/tfm/public/cm/cmsy7.tfm
+INPUT c:/Program Files/texlive/2023/texmf-dist/fonts/tfm/public/cm/cmsy5.tfm
+INPUT c:/Program Files/texlive/2023/texmf-dist/fonts/tfm/public/amsfonts/cmextra/cmex7.tfm
+INPUT c:/Program Files/texlive/2023/texmf-dist/fonts/tfm/public/amsfonts/cmextra/cmex7.tfm
+INPUT c:/Program Files/texlive/2023/texmf-dist/fonts/tfm/public/amsfonts/symbols/msam7.tfm
+INPUT c:/Program Files/texlive/2023/texmf-dist/fonts/tfm/public/amsfonts/symbols/msam5.tfm
+INPUT c:/Program Files/texlive/2023/texmf-dist/fonts/tfm/public/amsfonts/symbols/msbm7.tfm
+INPUT c:/Program Files/texlive/2023/texmf-dist/fonts/tfm/public/amsfonts/symbols/msbm5.tfm
+INPUT C:/Users/filip/.texlive2023/texmf-var/luatex-cache/generic/fonts/otl/lmsans9-regular.luc
 INPUT ./unipd_logo.png
 INPUT ./capitoli/metodiTradizionali.tex
+INPUT C:/Users/filip/.texlive2023/texmf-var/luatex-cache/generic/fonts/otl/lmromancaps10-regular.luc
+INPUT C:/Users/filip/.texlive2023/texmf-var/luatex-cache/generic/fonts/otl/lmmono8-regular.luc
 INPUT ./unipd_logo.png
 INPUT ./capitoli/metodiIntelligenti.tex
 INPUT ./Immagini/Autoencoder_scheme.png
@@ -386,13 +401,6 @@ INPUT ./Immagini/METRICS/LPIPS.png
 INPUT ./Immagini/METRICS/LPIPS.png
 INPUT ./unipd_logo.png
 INPUT ./capitoli/sviluppiFuturi.tex
-INPUT ./unipd_logo.png
-INPUT C:/Users/filip/.texlive2023/texmf-var/luatex-cache/generic/fonts/otl/lmromancaps10-regular.luc
-INPUT C:/Users/filip/.texlive2023/texmf-var/luatex-cache/generic/fonts/otl/lmmono10-regular.luc
-INPUT ./unipd_logo.png
-INPUT ./unipd_logo.png
-INPUT ./unipd_logo.png
-INPUT ./unipd_logo.png
 INPUT ./unipd_logo.png
 INPUT ./unipd_logo.png
 OUTPUT main.nav
