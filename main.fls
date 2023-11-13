@@ -1,413 +1,678 @@
-PWD c:/Users/filip/VSCodeProjects/imageCompressionAI_Presentation
-INPUT c:/Program Files/texlive/2023/texmf-var/web2c/luahbtex/lualatex.fmt
-INPUT c:/Users/filip/VSCodeProjects/imageCompressionAI_Presentation/main.tex
+PWD d:/Utenti/filip/Desktop/Unipd Presentation/imageCompressionAI_Presentation
+INPUT d:/Programmi/texlive/2023/texmf.cnf
+INPUT d:/Programmi/texlive/2023/texmf-dist/web2c/texmf.cnf
+INPUT d:/Programmi/texlive/2023/texmf-var/web2c/pdftex/pdflatex.fmt
+INPUT d:/Utenti/filip/Desktop/Unipd Presentation/imageCompressionAI_Presentation/main.tex
 OUTPUT main.log
-INPUT c:/Program Files/texlive/2023/texmf-dist/tex/latex/latexconfig/lualatexquotejobname.lua
-INPUT c:/Program Files/texlive/2023/texmf-dist/tex/latex/base/ltluatex.lua
-INPUT c:/Program Files/texlive/2023/texmf-dist/tex/luatex/luaotfload/luaotfload-main.lua
-INPUT c:/Program Files/texlive/2023/texmf-dist/tex/luatex/luaotfload/luaotfload.lua
-INPUT c:/Program Files/texlive/2023/texmf-dist/tex/luatex/luaotfload/luaotfload-init.lua
-INPUT c:/Program Files/texlive/2023/texmf-dist/tex/luatex/lualibs/lualibs.lua
-INPUT c:/Program Files/texlive/2023/texmf-dist/tex/luatex/lualibs/lualibs-basic.lua
-INPUT c:/Program Files/texlive/2023/texmf-dist/tex/luatex/lualibs/lualibs-basic-merged.lua
-INPUT c:/Program Files/texlive/2023/texmf-dist/tex/luatex/lualibs/lualibs-compat.lua
-INPUT c:/Program Files/texlive/2023/texmf-dist/tex/luatex/lualibs/lualibs-extended.lua
-INPUT c:/Program Files/texlive/2023/texmf-dist/tex/luatex/lualibs/lualibs-extended-merged.lua
-INPUT c:/Program Files/texlive/2023/texmf-dist/tex/luatex/luaotfload/luaotfload-log.lua
-INPUT c:/Program Files/texlive/2023/texmf-dist/tex/luatex/luaotfload/fontloader-basics-gen.lua
-OUTPUT C:/Users/filip/.texlive2023/texmf-var/m_t_x_t_e_s_t.tmp
-INPUT c:/Program Files/texlive/2023/texmf-dist/tex/luatex/luaotfload/luaotfload-parsers.lua
-INPUT c:/Program Files/texlive/2023/texmf-dist/tex/luatex/luaotfload/luaotfload-configuration.lua
-INPUT c:/Program Files/texlive/2023/texmf-dist/tex/luatex/luaotfload/luaotfload-status.lua
-INPUT c:/Program Files/texlive/2023/texmf-dist/tex/luatex/luaotfload/fontloader-2023-08-19.lua
-INPUT c:/Program Files/texlive/2023/texmf-dist/tex/luatex/luaotfload/luaotfload-fallback.lua
-INPUT c:/Program Files/texlive/2023/texmf-dist/tex/luatex/luaotfload/luaotfload-multiscript.lua
-INPUT c:/Program Files/texlive/2023/texmf-dist/tex/luatex/luaotfload/luaotfload-scripts.lua
-INPUT c:/Program Files/texlive/2023/texmf-dist/tex/generic/unicode-data/ScriptExtensions.txt
-INPUT c:/Program Files/texlive/2023/texmf-dist/tex/generic/unicode-data/Scripts.txt
-INPUT c:/Program Files/texlive/2023/texmf-dist/tex/luatex/luaotfload/luaotfload-loaders.lua
-INPUT c:/Program Files/texlive/2023/texmf-dist/tex/luatex/luaotfload/luaotfload-database.lua
-INPUT c:/Program Files/texlive/2023/texmf-dist/tex/luatex/luaotfload/luaotfload-unicode.lua
-INPUT c:/Program Files/texlive/2023/texmf-dist/tex/generic/unicode-data/UnicodeData.txt
-INPUT c:/Program Files/texlive/2023/texmf-dist/tex/generic/unicode-data/UnicodeData.txt
-INPUT c:/Program Files/texlive/2023/texmf-dist/tex/generic/unicode-data/PropList.txt
-INPUT c:/Program Files/texlive/2023/texmf-dist/tex/generic/unicode-data/WordBreakProperty.txt
-INPUT c:/Program Files/texlive/2023/texmf-dist/tex/generic/unicode-data/SpecialCasing.txt
-INPUT c:/Program Files/texlive/2023/texmf-dist/tex/luatex/lua-uni-algos/lua-uni-case.lua
-INPUT c:/Program Files/texlive/2023/texmf-dist/tex/luatex/lua-uni-algos/lua-uni-parse.lua
-INPUT c:/Program Files/texlive/2023/texmf-dist/tex/generic/unicode-data/CaseFolding.txt
-INPUT c:/Program Files/texlive/2023/texmf-dist/tex/luatex/luaotfload/luaotfload-colors.lua
-INPUT c:/Program Files/texlive/2023/texmf-dist/tex/luatex/luaotfload/luaotfload-resolvers.lua
-INPUT c:/Program Files/texlive/2023/texmf-dist/tex/luatex/luaotfload/luaotfload-features.lua
-INPUT c:/Program Files/texlive/2023/texmf-dist/tex/luatex/lua-uni-algos/lua-uni-normalize.lua
-INPUT c:/Program Files/texlive/2023/texmf-dist/tex/generic/unicode-data/UnicodeData.txt
-INPUT c:/Program Files/texlive/2023/texmf-dist/tex/luatex/luaotfload/luaotfload-harf-define.lua
-INPUT c:/Program Files/texlive/2023/texmf-dist/tex/luatex/luaotfload/luaotfload-harf-var-cff2.lua
-INPUT c:/Program Files/texlive/2023/texmf-dist/tex/luatex/luaotfload/luaotfload-harf-var-t2-writer.lua
-INPUT c:/Program Files/texlive/2023/texmf-dist/tex/luatex/luaotfload/luaotfload-harf-var-ttf.lua
-INPUT c:/Program Files/texlive/2023/texmf-dist/tex/luatex/luaotfload/luaotfload-harf-plug.lua
-INPUT c:/Program Files/texlive/2023/texmf-dist/tex/luatex/luaotfload/luaotfload-letterspace.lua
-INPUT c:/Program Files/texlive/2023/texmf-dist/tex/luatex/luaotfload/luaotfload-embolden.lua
-INPUT c:/Program Files/texlive/2023/texmf-dist/tex/luatex/luaotfload/luaotfload-notdef.lua
-INPUT c:/Program Files/texlive/2023/texmf-dist/tex/generic/unicode-data/UnicodeData.txt
-INPUT c:/Program Files/texlive/2023/texmf-dist/tex/generic/unicode-data/PropList.txt
-INPUT c:/Program Files/texlive/2023/texmf-dist/tex/luatex/luaotfload/luaotfload-suppress.lua
-INPUT c:/Program Files/texlive/2023/texmf-dist/tex/luatex/luaotfload/luaotfload-szss.lua
-INPUT c:/Program Files/texlive/2023/texmf-dist/tex/luatex/luaotfload/luaotfload-auxiliary.lua
-INPUT c:/Program Files/texlive/2023/texmf-dist/tex/luatex/luaotfload/luaotfload-tounicode.lua
-INPUT c:/Program Files/texlive/2023/texmf-dist/tex/luatex/luaotfload/luaotfload-case.lua
-INPUT c:/Program Files/texlive/2023/texmf-dist/tex/luatex/luaotfload/luaotfload-bcp47.lua
-INPUT c:/Program Files/texlive/2023/texmf-dist/tex/latex/l3kernel/expl3.lua
-INPUT c:/Program Files/texlive/2023/texmf-dist/tex/latex/beamer/beamer.cls
-INPUT c:/Program Files/texlive/2023/texmf-dist/tex/latex/beamer/beamerbasemodes.sty
-INPUT c:/Program Files/texlive/2023/texmf-dist/tex/latex/etoolbox/etoolbox.sty
-INPUT c:/Program Files/texlive/2023/texmf-dist/tex/latex/beamer/beamerbasedecode.sty
-INPUT c:/Program Files/texlive/2023/texmf-dist/tex/generic/iftex/iftex.sty
-INPUT c:/Program Files/texlive/2023/texmf-dist/tex/latex/beamer/beamerbaseoptions.sty
-INPUT c:/Program Files/texlive/2023/texmf-dist/tex/latex/graphics/keyval.sty
-INPUT c:/Program Files/texlive/2023/texmf-dist/tex/latex/geometry/geometry.sty
-INPUT c:/Program Files/texlive/2023/texmf-dist/tex/generic/iftex/ifvtex.sty
-INPUT c:/Program Files/texlive/2023/texmf-dist/tex/latex/pgf/math/pgfmath.sty
-INPUT c:/Program Files/texlive/2023/texmf-dist/tex/latex/pgf/utilities/pgfrcs.sty
-INPUT c:/Program Files/texlive/2023/texmf-dist/tex/generic/pgf/utilities/pgfutil-common.tex
-INPUT c:/Program Files/texlive/2023/texmf-dist/tex/generic/pgf/utilities/pgfutil-latex.def
-INPUT c:/Program Files/texlive/2023/texmf-dist/tex/generic/pgf/utilities/pgfrcs.code.tex
-INPUT c:/Program Files/texlive/2023/texmf-dist/tex/generic/pgf/pgf.revision.tex
-INPUT c:/Program Files/texlive/2023/texmf-dist/tex/generic/pgf/pgf.revision.tex
-INPUT c:/Program Files/texlive/2023/texmf-dist/tex/latex/pgf/utilities/pgfkeys.sty
-INPUT c:/Program Files/texlive/2023/texmf-dist/tex/generic/pgf/utilities/pgfkeys.code.tex
-INPUT c:/Program Files/texlive/2023/texmf-dist/tex/generic/pgf/utilities/pgfkeyslibraryfiltered.code.tex
-INPUT c:/Program Files/texlive/2023/texmf-dist/tex/generic/pgf/math/pgfmath.code.tex
-INPUT c:/Program Files/texlive/2023/texmf-dist/tex/generic/pgf/math/pgfmathutil.code.tex
-INPUT c:/Program Files/texlive/2023/texmf-dist/tex/generic/pgf/math/pgfmathparser.code.tex
-INPUT c:/Program Files/texlive/2023/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.code.tex
-INPUT c:/Program Files/texlive/2023/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.basic.code.tex
-INPUT c:/Program Files/texlive/2023/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.trigonometric.code.tex
-INPUT c:/Program Files/texlive/2023/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.random.code.tex
-INPUT c:/Program Files/texlive/2023/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.comparison.code.tex
-INPUT c:/Program Files/texlive/2023/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.base.code.tex
-INPUT c:/Program Files/texlive/2023/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.round.code.tex
-INPUT c:/Program Files/texlive/2023/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.misc.code.tex
-INPUT c:/Program Files/texlive/2023/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.integerarithmetics.code.tex
-INPUT c:/Program Files/texlive/2023/texmf-dist/tex/generic/pgf/math/pgfmathcalc.code.tex
-INPUT c:/Program Files/texlive/2023/texmf-dist/tex/generic/pgf/math/pgfmathfloat.code.tex
-INPUT c:/Program Files/texlive/2023/texmf-dist/tex/latex/base/size11.clo
-INPUT C:/Users/filip/.texlive2023/texmf-var/luatex-cache/generic/names/luaotfload-names.luc.gz
-INPUT C:/Users/filip/.texlive2023/texmf-var/luatex-cache/generic/fonts/otl/lmroman10-regular.luc
-INPUT c:/Program Files/texlive/2023/texmf-dist/tex/latex/pgf/basiclayer/pgfcore.sty
-INPUT c:/Program Files/texlive/2023/texmf-dist/tex/latex/graphics/graphicx.sty
-INPUT c:/Program Files/texlive/2023/texmf-dist/tex/latex/graphics/graphics.sty
-INPUT c:/Program Files/texlive/2023/texmf-dist/tex/latex/graphics/trig.sty
-INPUT c:/Program Files/texlive/2023/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
-INPUT c:/Program Files/texlive/2023/texmf-dist/tex/latex/graphics-def/luatex.def
-INPUT c:/Program Files/texlive/2023/texmf-dist/tex/latex/pgf/systemlayer/pgfsys.sty
-INPUT c:/Program Files/texlive/2023/texmf-dist/tex/generic/pgf/systemlayer/pgfsys.code.tex
-INPUT c:/Program Files/texlive/2023/texmf-dist/tex/generic/pgf/systemlayer/pgf.cfg
-INPUT c:/Program Files/texlive/2023/texmf-dist/tex/generic/pgf/systemlayer/pgfsys-luatex.def
-INPUT c:/Program Files/texlive/2023/texmf-dist/tex/generic/pgf/systemlayer/pgfsys-luatex.def
-INPUT c:/Program Files/texlive/2023/texmf-dist/tex/generic/pgf/systemlayer/pgfsys-common-pdf.def
-INPUT c:/Program Files/texlive/2023/texmf-dist/tex/generic/pgf/systemlayer/pgfsyssoftpath.code.tex
-INPUT c:/Program Files/texlive/2023/texmf-dist/tex/generic/pgf/systemlayer/pgfsysprotocol.code.tex
-INPUT c:/Program Files/texlive/2023/texmf-dist/tex/latex/xcolor/xcolor.sty
-INPUT c:/Program Files/texlive/2023/texmf-dist/tex/latex/graphics-cfg/color.cfg
-INPUT c:/Program Files/texlive/2023/texmf-dist/tex/latex/graphics/mathcolor.ltx
-INPUT c:/Program Files/texlive/2023/texmf-dist/tex/generic/pgf/basiclayer/pgfcore.code.tex
-INPUT c:/Program Files/texlive/2023/texmf-dist/tex/generic/pgf/math/pgfint.code.tex
-INPUT c:/Program Files/texlive/2023/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepoints.code.tex
-INPUT c:/Program Files/texlive/2023/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepathconstruct.code.tex
-INPUT c:/Program Files/texlive/2023/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepathusage.code.tex
-INPUT c:/Program Files/texlive/2023/texmf-dist/tex/generic/pgf/basiclayer/pgfcorescopes.code.tex
-INPUT c:/Program Files/texlive/2023/texmf-dist/tex/generic/pgf/basiclayer/pgfcoregraphicstate.code.tex
-INPUT c:/Program Files/texlive/2023/texmf-dist/tex/generic/pgf/basiclayer/pgfcoretransformations.code.tex
-INPUT c:/Program Files/texlive/2023/texmf-dist/tex/generic/pgf/basiclayer/pgfcorequick.code.tex
-INPUT c:/Program Files/texlive/2023/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreobjects.code.tex
-INPUT c:/Program Files/texlive/2023/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepathprocessing.code.tex
-INPUT c:/Program Files/texlive/2023/texmf-dist/tex/generic/pgf/basiclayer/pgfcorearrows.code.tex
-INPUT c:/Program Files/texlive/2023/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreshade.code.tex
-INPUT c:/Program Files/texlive/2023/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreimage.code.tex
-INPUT c:/Program Files/texlive/2023/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreexternal.code.tex
-INPUT c:/Program Files/texlive/2023/texmf-dist/tex/generic/pgf/basiclayer/pgfcorelayers.code.tex
-INPUT c:/Program Files/texlive/2023/texmf-dist/tex/generic/pgf/basiclayer/pgfcoretransparency.code.tex
-INPUT c:/Program Files/texlive/2023/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepatterns.code.tex
-INPUT c:/Program Files/texlive/2023/texmf-dist/tex/generic/pgf/basiclayer/pgfcorerdf.code.tex
-INPUT c:/Program Files/texlive/2023/texmf-dist/tex/latex/pgf/utilities/xxcolor.sty
-INPUT c:/Program Files/texlive/2023/texmf-dist/tex/latex/base/atbegshi-ltx.sty
-INPUT c:/Program Files/texlive/2023/texmf-dist/tex/latex/hyperref/hyperref.sty
-INPUT c:/Program Files/texlive/2023/texmf-dist/tex/generic/ltxcmds/ltxcmds.sty
-INPUT c:/Program Files/texlive/2023/texmf-dist/tex/generic/pdftexcmds/pdftexcmds.sty
-INPUT c:/Program Files/texlive/2023/texmf-dist/tex/generic/infwarerr/infwarerr.sty
-INPUT c:/Program Files/texlive/2023/texmf-dist/tex/generic/pdftexcmds/pdftexcmds.lua
-INPUT c:/Program Files/texlive/2023/texmf-dist/tex/latex/kvsetkeys/kvsetkeys.sty
-INPUT c:/Program Files/texlive/2023/texmf-dist/tex/generic/kvdefinekeys/kvdefinekeys.sty
-INPUT c:/Program Files/texlive/2023/texmf-dist/tex/generic/pdfescape/pdfescape.sty
-INPUT c:/Program Files/texlive/2023/texmf-dist/tex/latex/hycolor/hycolor.sty
-INPUT c:/Program Files/texlive/2023/texmf-dist/tex/latex/letltxmacro/letltxmacro.sty
-INPUT c:/Program Files/texlive/2023/texmf-dist/tex/latex/auxhook/auxhook.sty
-INPUT c:/Program Files/texlive/2023/texmf-dist/tex/latex/hyperref/nameref.sty
-INPUT c:/Program Files/texlive/2023/texmf-dist/tex/latex/refcount/refcount.sty
-INPUT c:/Program Files/texlive/2023/texmf-dist/tex/generic/gettitlestring/gettitlestring.sty
-INPUT c:/Program Files/texlive/2023/texmf-dist/tex/latex/kvoptions/kvoptions.sty
-INPUT c:/Program Files/texlive/2023/texmf-dist/tex/latex/hyperref/pd1enc.def
-INPUT c:/Program Files/texlive/2023/texmf-dist/tex/generic/intcalc/intcalc.sty
-INPUT c:/Program Files/texlive/2023/texmf-dist/tex/latex/hyperref/puenc.def
-INPUT c:/Program Files/texlive/2023/texmf-dist/tex/latex/url/url.sty
-INPUT c:/Program Files/texlive/2023/texmf-dist/tex/generic/bitset/bitset.sty
-INPUT c:/Program Files/texlive/2023/texmf-dist/tex/generic/bigintcalc/bigintcalc.sty
-INPUT c:/Program Files/texlive/2023/texmf-dist/tex/latex/hyperref/hluatex.def
-INPUT c:/Program Files/texlive/2023/texmf-dist/tex/generic/stringenc/stringenc.sty
-INPUT c:/Program Files/texlive/2023/texmf-dist/tex/latex/base/atveryend-ltx.sty
-INPUT c:/Program Files/texlive/2023/texmf-dist/tex/latex/rerunfilecheck/rerunfilecheck.sty
-INPUT c:/Program Files/texlive/2023/texmf-dist/tex/generic/uniquecounter/uniquecounter.sty
-INPUT c:/Program Files/texlive/2023/texmf-dist/tex/latex/beamer/beamerbaserequires.sty
-INPUT c:/Program Files/texlive/2023/texmf-dist/tex/latex/beamer/beamerbasecompatibility.sty
-INPUT c:/Program Files/texlive/2023/texmf-dist/tex/latex/beamer/beamerbasefont.sty
-INPUT c:/Program Files/texlive/2023/texmf-dist/tex/latex/amsfonts/amssymb.sty
-INPUT c:/Program Files/texlive/2023/texmf-dist/tex/latex/amsfonts/amsfonts.sty
-INPUT c:/Program Files/texlive/2023/texmf-dist/tex/latex/sansmathaccent/sansmathaccent.sty
-INPUT c:/Program Files/texlive/2023/texmf-dist/tex/latex/koma-script/scrlfile.sty
-INPUT c:/Program Files/texlive/2023/texmf-dist/tex/latex/koma-script/scrlfile-hook.sty
-INPUT c:/Program Files/texlive/2023/texmf-dist/tex/latex/koma-script/scrlogo.sty
-INPUT c:/Program Files/texlive/2023/texmf-dist/tex/latex/beamer/beamerbasetranslator.sty
-INPUT c:/Program Files/texlive/2023/texmf-dist/tex/latex/translator/translator.sty
-INPUT c:/Program Files/texlive/2023/texmf-dist/tex/latex/beamer/beamerbasemisc.sty
-INPUT c:/Program Files/texlive/2023/texmf-dist/tex/latex/beamer/beamerbasetwoscreens.sty
-INPUT c:/Program Files/texlive/2023/texmf-dist/tex/latex/beamer/beamerbaseoverlay.sty
-INPUT c:/Program Files/texlive/2023/texmf-dist/tex/latex/beamer/beamerbasetitle.sty
-INPUT c:/Program Files/texlive/2023/texmf-dist/tex/latex/beamer/beamerbasesection.sty
-INPUT c:/Program Files/texlive/2023/texmf-dist/tex/latex/beamer/beamerbaseframe.sty
-INPUT c:/Program Files/texlive/2023/texmf-dist/tex/latex/beamer/beamerbaseverbatim.sty
-INPUT c:/Program Files/texlive/2023/texmf-dist/tex/latex/beamer/beamerbaseframesize.sty
-INPUT c:/Program Files/texlive/2023/texmf-dist/tex/latex/beamer/beamerbaseframecomponents.sty
-INPUT c:/Program Files/texlive/2023/texmf-dist/tex/latex/beamer/beamerbasecolor.sty
-INPUT c:/Program Files/texlive/2023/texmf-dist/tex/latex/beamer/beamerbasenotes.sty
-INPUT c:/Program Files/texlive/2023/texmf-dist/tex/latex/beamer/beamerbasetoc.sty
-INPUT c:/Program Files/texlive/2023/texmf-dist/tex/latex/beamer/beamerbasetemplates.sty
-INPUT c:/Program Files/texlive/2023/texmf-dist/tex/latex/beamer/beamerbaseauxtemplates.sty
-INPUT c:/Program Files/texlive/2023/texmf-dist/tex/latex/beamer/beamerbaseboxes.sty
-INPUT c:/Program Files/texlive/2023/texmf-dist/tex/latex/beamer/beamerbaselocalstructure.sty
-INPUT c:/Program Files/texlive/2023/texmf-dist/tex/latex/tools/enumerate.sty
-INPUT c:/Program Files/texlive/2023/texmf-dist/tex/latex/beamer/beamerbasenavigation.sty
-INPUT c:/Program Files/texlive/2023/texmf-dist/tex/latex/beamer/beamerbasenavigationsymbols.tex
-INPUT c:/Program Files/texlive/2023/texmf-dist/tex/latex/beamer/beamerbasetheorems.sty
-INPUT c:/Program Files/texlive/2023/texmf-dist/tex/latex/amsmath/amsmath.sty
-INPUT c:/Program Files/texlive/2023/texmf-dist/tex/latex/amsmath/amstext.sty
-INPUT c:/Program Files/texlive/2023/texmf-dist/tex/latex/amsmath/amsgen.sty
-INPUT c:/Program Files/texlive/2023/texmf-dist/tex/latex/amsmath/amsbsy.sty
-INPUT c:/Program Files/texlive/2023/texmf-dist/tex/latex/amsmath/amsopn.sty
-INPUT c:/Program Files/texlive/2023/texmf-dist/tex/latex/amscls/amsthm.sty
-INPUT c:/Program Files/texlive/2023/texmf-dist/tex/latex/beamer/beamerbasethemes.sty
-INPUT C:/Users/filip/.texlive2023/texmf-var/luatex-cache/generic/fonts/otl/lmsans10-regular.luc
-INPUT c:/Program Files/texlive/2023/texmf-dist/tex/latex/beamer/beamerthemedefault.sty
-INPUT c:/Program Files/texlive/2023/texmf-dist/tex/latex/beamer/beamerfontthemedefault.sty
-INPUT c:/Program Files/texlive/2023/texmf-dist/tex/latex/beamer/beamercolorthemedefault.sty
-INPUT c:/Program Files/texlive/2023/texmf-dist/tex/latex/beamer/beamerinnerthemedefault.sty
-INPUT c:/Program Files/texlive/2023/texmf-dist/tex/latex/beamer/beamericonbook.pdf
-INPUT c:/Program Files/texlive/2023/texmf-dist/tex/latex/beamer/beamericonbook.pdf
-INPUT c:/Program Files/texlive/2023/texmf-dist/tex/latex/beamer/beamericonbook.20.pdf
-INPUT c:/Program Files/texlive/2023/texmf-dist/tex/latex/beamer/beamericonbook.20.pdf
-INPUT c:/Program Files/texlive/2023/texmf-dist/tex/latex/beamer/beamericonarticle.pdf
-INPUT c:/Program Files/texlive/2023/texmf-dist/tex/latex/beamer/beamericonarticle.pdf
-INPUT c:/Program Files/texlive/2023/texmf-dist/tex/latex/beamer/beamericonarticle.20.pdf
-INPUT c:/Program Files/texlive/2023/texmf-dist/tex/latex/beamer/beamericonarticle.20.pdf
-INPUT c:/Program Files/texlive/2023/texmf-dist/tex/latex/beamer/beamericononline.pdf
-INPUT c:/Program Files/texlive/2023/texmf-dist/tex/latex/beamer/beamericononline.pdf
-INPUT c:/Program Files/texlive/2023/texmf-dist/tex/latex/beamer/beamericononline.20.pdf
-INPUT c:/Program Files/texlive/2023/texmf-dist/tex/latex/beamer/beamericononline.20.pdf
-INPUT c:/Program Files/texlive/2023/texmf-dist/tex/latex/beamer/beamerouterthemedefault.sty
-INPUT c:/Program Files/texlive/2023/texmf-dist/tex/latex/float/float.sty
-INPUT c:/Program Files/texlive/2023/texmf-dist/tex/latex/biblatex/biblatex.sty
-INPUT c:/Program Files/texlive/2023/texmf-dist/tex/latex/logreq/logreq.sty
-INPUT c:/Program Files/texlive/2023/texmf-dist/tex/latex/logreq/logreq.def
-INPUT c:/Program Files/texlive/2023/texmf-dist/tex/latex/base/ifthen.sty
-INPUT c:/Program Files/texlive/2023/texmf-dist/tex/latex/biblatex/blx-dm.def
-INPUT c:/Program Files/texlive/2023/texmf-dist/tex/latex/biblatex/blx-unicode.def
-INPUT c:/Program Files/texlive/2023/texmf-dist/tex/generic/unicode-data/UnicodeData.txt
-INPUT c:/Program Files/texlive/2023/texmf-dist/tex/latex/biblatex/blx-compat.def
-INPUT c:/Program Files/texlive/2023/texmf-dist/tex/latex/biblatex/blx-bibtex.def
-INPUT c:/Program Files/texlive/2023/texmf-dist/tex/latex/biblatex/biblatex.def
-INPUT c:/Program Files/texlive/2023/texmf-dist/tex/latex/biblatex-ieee/ieee.bbx
-INPUT c:/Program Files/texlive/2023/texmf-dist/tex/latex/biblatex/bbx/numeric-comp.bbx
-INPUT c:/Program Files/texlive/2023/texmf-dist/tex/latex/biblatex/bbx/numeric.bbx
-INPUT c:/Program Files/texlive/2023/texmf-dist/tex/latex/biblatex/bbx/standard.bbx
-INPUT c:/Program Files/texlive/2023/texmf-dist/tex/latex/biblatex-ieee/ieee.cbx
-INPUT c:/Program Files/texlive/2023/texmf-dist/tex/latex/biblatex/cbx/numeric-comp.cbx
-INPUT c:/Program Files/texlive/2023/texmf-dist/tex/latex/biblatex/biblatex.cfg
-INPUT c:/Program Files/texlive/2023/texmf-dist/tex/latex/l3kernel/expl3.sty
-INPUT c:/Program Files/texlive/2023/texmf-dist/tex/latex/l3backend/l3backend-luatex.def
-INPUT c:/Program Files/texlive/2023/texmf-dist/tex/latex/l3backend/l3backend-luatex.lua
-INPUT c:/Program Files/texlive/2023/texmf-dist/tex/latex/biblatex/blx-case-expl3.sty
-INPUT c:/Program Files/texlive/2023/texmf-dist/tex/latex/l3packages/xparse/xparse.sty
+INPUT d:/Programmi/texlive/2023/texmf-dist/tex/latex/beamer/beamer.cls
+INPUT d:/Programmi/texlive/2023/texmf-dist/tex/latex/beamer/beamer.cls
+INPUT d:/Programmi/texlive/2023/texmf-dist/tex/latex/beamer/beamerbasemodes.sty
+INPUT d:/Programmi/texlive/2023/texmf-dist/tex/latex/beamer/beamerbasemodes.sty
+INPUT d:/Programmi/texlive/2023/texmf-dist/tex/latex/etoolbox/etoolbox.sty
+INPUT d:/Programmi/texlive/2023/texmf-dist/tex/latex/etoolbox/etoolbox.sty
+INPUT d:/Programmi/texlive/2023/texmf-dist/tex/latex/beamer/beamerbasedecode.sty
+INPUT d:/Programmi/texlive/2023/texmf-dist/tex/latex/beamer/beamerbasedecode.sty
+INPUT d:/Programmi/texlive/2023/texmf-dist/tex/generic/iftex/iftex.sty
+INPUT d:/Programmi/texlive/2023/texmf-dist/tex/generic/iftex/iftex.sty
+INPUT d:/Programmi/texlive/2023/texmf-dist/tex/latex/beamer/beamerbaseoptions.sty
+INPUT d:/Programmi/texlive/2023/texmf-dist/tex/latex/beamer/beamerbaseoptions.sty
+INPUT d:/Programmi/texlive/2023/texmf-dist/tex/latex/graphics/keyval.sty
+INPUT d:/Programmi/texlive/2023/texmf-dist/tex/latex/graphics/keyval.sty
+INPUT d:/Programmi/texlive/2023/texmf-dist/tex/latex/hyperref/hyperref.sty
+INPUT d:/Programmi/texlive/2023/texmf-dist/tex/latex/geometry/geometry.sty
+INPUT d:/Programmi/texlive/2023/texmf-dist/tex/latex/geometry/geometry.sty
+INPUT d:/Programmi/texlive/2023/texmf-dist/tex/generic/iftex/ifvtex.sty
+INPUT d:/Programmi/texlive/2023/texmf-dist/tex/generic/iftex/ifvtex.sty
+INPUT d:/Programmi/texlive/2023/texmf-dist/tex/latex/pgf/math/pgfmath.sty
+INPUT d:/Programmi/texlive/2023/texmf-dist/tex/latex/pgf/math/pgfmath.sty
+INPUT d:/Programmi/texlive/2023/texmf-dist/tex/latex/pgf/utilities/pgfrcs.sty
+INPUT d:/Programmi/texlive/2023/texmf-dist/tex/latex/pgf/utilities/pgfrcs.sty
+INPUT d:/Programmi/texlive/2023/texmf-dist/tex/generic/pgf/utilities/pgfutil-common.tex
+INPUT d:/Programmi/texlive/2023/texmf-dist/tex/generic/pgf/utilities/pgfutil-latex.def
+INPUT d:/Programmi/texlive/2023/texmf-dist/tex/generic/pgf/utilities/pgfrcs.code.tex
+INPUT d:/Programmi/texlive/2023/texmf-dist/tex/generic/pgf/utilities/pgfrcs.code.tex
+INPUT d:/Programmi/texlive/2023/texmf-dist/tex/generic/pgf/utilities/pgfrcs.code.tex
+INPUT d:/Programmi/texlive/2023/texmf-dist/tex/generic/pgf/pgf.revision.tex
+INPUT d:/Programmi/texlive/2023/texmf-dist/tex/generic/pgf/pgf.revision.tex
+INPUT d:/Programmi/texlive/2023/texmf-dist/tex/latex/pgf/utilities/pgfkeys.sty
+INPUT d:/Programmi/texlive/2023/texmf-dist/tex/latex/pgf/utilities/pgfkeys.sty
+INPUT d:/Programmi/texlive/2023/texmf-dist/tex/generic/pgf/utilities/pgfkeys.code.tex
+INPUT d:/Programmi/texlive/2023/texmf-dist/tex/generic/pgf/utilities/pgfkeys.code.tex
+INPUT d:/Programmi/texlive/2023/texmf-dist/tex/generic/pgf/utilities/pgfkeys.code.tex
+INPUT d:/Programmi/texlive/2023/texmf-dist/tex/generic/pgf/utilities/pgfkeyslibraryfiltered.code.tex
+INPUT d:/Programmi/texlive/2023/texmf-dist/tex/generic/pgf/math/pgfmath.code.tex
+INPUT d:/Programmi/texlive/2023/texmf-dist/tex/generic/pgf/math/pgfmath.code.tex
+INPUT d:/Programmi/texlive/2023/texmf-dist/tex/generic/pgf/math/pgfmath.code.tex
+INPUT d:/Programmi/texlive/2023/texmf-dist/tex/generic/pgf/math/pgfmathutil.code.tex
+INPUT d:/Programmi/texlive/2023/texmf-dist/tex/generic/pgf/math/pgfmathparser.code.tex
+INPUT d:/Programmi/texlive/2023/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.code.tex
+INPUT d:/Programmi/texlive/2023/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.basic.code.tex
+INPUT d:/Programmi/texlive/2023/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.trigonometric.code.tex
+INPUT d:/Programmi/texlive/2023/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.random.code.tex
+INPUT d:/Programmi/texlive/2023/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.comparison.code.tex
+INPUT d:/Programmi/texlive/2023/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.base.code.tex
+INPUT d:/Programmi/texlive/2023/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.round.code.tex
+INPUT d:/Programmi/texlive/2023/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.misc.code.tex
+INPUT d:/Programmi/texlive/2023/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.integerarithmetics.code.tex
+INPUT d:/Programmi/texlive/2023/texmf-dist/tex/generic/pgf/math/pgfmathcalc.code.tex
+INPUT d:/Programmi/texlive/2023/texmf-dist/tex/generic/pgf/math/pgfmathfloat.code.tex
+INPUT d:/Programmi/texlive/2023/texmf-dist/tex/latex/base/size11.clo
+INPUT d:/Programmi/texlive/2023/texmf-dist/tex/latex/base/size11.clo
+INPUT d:/Programmi/texlive/2023/texmf-dist/tex/latex/base/size11.clo
+INPUT d:/Programmi/texlive/2023/texmf-dist/fonts/map/fontname/texfonts.map
+INPUT d:/Programmi/texlive/2023/texmf-dist/fonts/tfm/public/cm/cmr10.tfm
+INPUT d:/Programmi/texlive/2023/texmf-dist/tex/latex/pgf/basiclayer/pgfcore.sty
+INPUT d:/Programmi/texlive/2023/texmf-dist/tex/latex/pgf/basiclayer/pgfcore.sty
+INPUT d:/Programmi/texlive/2023/texmf-dist/tex/latex/graphics/graphicx.sty
+INPUT d:/Programmi/texlive/2023/texmf-dist/tex/latex/graphics/graphicx.sty
+INPUT d:/Programmi/texlive/2023/texmf-dist/tex/latex/graphics/graphics.sty
+INPUT d:/Programmi/texlive/2023/texmf-dist/tex/latex/graphics/graphics.sty
+INPUT d:/Programmi/texlive/2023/texmf-dist/tex/latex/graphics/trig.sty
+INPUT d:/Programmi/texlive/2023/texmf-dist/tex/latex/graphics/trig.sty
+INPUT d:/Programmi/texlive/2023/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
+INPUT d:/Programmi/texlive/2023/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
+INPUT d:/Programmi/texlive/2023/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
+INPUT d:/Programmi/texlive/2023/texmf-dist/tex/latex/graphics-def/pdftex.def
+INPUT d:/Programmi/texlive/2023/texmf-dist/tex/latex/graphics-def/pdftex.def
+INPUT d:/Programmi/texlive/2023/texmf-dist/tex/latex/graphics-def/pdftex.def
+INPUT d:/Programmi/texlive/2023/texmf-dist/tex/latex/pgf/systemlayer/pgfsys.sty
+INPUT d:/Programmi/texlive/2023/texmf-dist/tex/latex/pgf/systemlayer/pgfsys.sty
+INPUT d:/Programmi/texlive/2023/texmf-dist/tex/generic/pgf/systemlayer/pgfsys.code.tex
+INPUT d:/Programmi/texlive/2023/texmf-dist/tex/generic/pgf/systemlayer/pgfsys.code.tex
+INPUT d:/Programmi/texlive/2023/texmf-dist/tex/generic/pgf/systemlayer/pgfsys.code.tex
+INPUT d:/Programmi/texlive/2023/texmf-dist/tex/generic/pgf/systemlayer/pgf.cfg
+INPUT d:/Programmi/texlive/2023/texmf-dist/tex/generic/pgf/systemlayer/pgfsys-pdftex.def
+INPUT d:/Programmi/texlive/2023/texmf-dist/tex/generic/pgf/systemlayer/pgfsys-pdftex.def
+INPUT d:/Programmi/texlive/2023/texmf-dist/tex/generic/pgf/systemlayer/pgfsys-common-pdf.def
+INPUT d:/Programmi/texlive/2023/texmf-dist/tex/generic/pgf/systemlayer/pgfsyssoftpath.code.tex
+INPUT d:/Programmi/texlive/2023/texmf-dist/tex/generic/pgf/systemlayer/pgfsyssoftpath.code.tex
+INPUT d:/Programmi/texlive/2023/texmf-dist/tex/generic/pgf/systemlayer/pgfsyssoftpath.code.tex
+INPUT d:/Programmi/texlive/2023/texmf-dist/tex/generic/pgf/systemlayer/pgfsysprotocol.code.tex
+INPUT d:/Programmi/texlive/2023/texmf-dist/tex/generic/pgf/systemlayer/pgfsysprotocol.code.tex
+INPUT d:/Programmi/texlive/2023/texmf-dist/tex/generic/pgf/systemlayer/pgfsysprotocol.code.tex
+INPUT d:/Programmi/texlive/2023/texmf-dist/tex/latex/xcolor/xcolor.sty
+INPUT d:/Programmi/texlive/2023/texmf-dist/tex/latex/xcolor/xcolor.sty
+INPUT d:/Programmi/texlive/2023/texmf-dist/tex/latex/graphics-cfg/color.cfg
+INPUT d:/Programmi/texlive/2023/texmf-dist/tex/latex/graphics-cfg/color.cfg
+INPUT d:/Programmi/texlive/2023/texmf-dist/tex/latex/graphics-cfg/color.cfg
+INPUT d:/Programmi/texlive/2023/texmf-dist/tex/latex/graphics/mathcolor.ltx
+INPUT d:/Programmi/texlive/2023/texmf-dist/tex/latex/graphics/mathcolor.ltx
+INPUT d:/Programmi/texlive/2023/texmf-dist/tex/latex/graphics/mathcolor.ltx
+INPUT d:/Programmi/texlive/2023/texmf-dist/tex/generic/pgf/basiclayer/pgfcore.code.tex
+INPUT d:/Programmi/texlive/2023/texmf-dist/tex/generic/pgf/basiclayer/pgfcore.code.tex
+INPUT d:/Programmi/texlive/2023/texmf-dist/tex/generic/pgf/basiclayer/pgfcore.code.tex
+INPUT d:/Programmi/texlive/2023/texmf-dist/tex/generic/pgf/math/pgfint.code.tex
+INPUT d:/Programmi/texlive/2023/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepoints.code.tex
+INPUT d:/Programmi/texlive/2023/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepathconstruct.code.tex
+INPUT d:/Programmi/texlive/2023/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepathusage.code.tex
+INPUT d:/Programmi/texlive/2023/texmf-dist/tex/generic/pgf/basiclayer/pgfcorescopes.code.tex
+INPUT d:/Programmi/texlive/2023/texmf-dist/tex/generic/pgf/basiclayer/pgfcoregraphicstate.code.tex
+INPUT d:/Programmi/texlive/2023/texmf-dist/tex/generic/pgf/basiclayer/pgfcoretransformations.code.tex
+INPUT d:/Programmi/texlive/2023/texmf-dist/tex/generic/pgf/basiclayer/pgfcorequick.code.tex
+INPUT d:/Programmi/texlive/2023/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreobjects.code.tex
+INPUT d:/Programmi/texlive/2023/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepathprocessing.code.tex
+INPUT d:/Programmi/texlive/2023/texmf-dist/tex/generic/pgf/basiclayer/pgfcorearrows.code.tex
+INPUT d:/Programmi/texlive/2023/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreshade.code.tex
+INPUT d:/Programmi/texlive/2023/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreimage.code.tex
+INPUT d:/Programmi/texlive/2023/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreexternal.code.tex
+INPUT d:/Programmi/texlive/2023/texmf-dist/tex/generic/pgf/basiclayer/pgfcorelayers.code.tex
+INPUT d:/Programmi/texlive/2023/texmf-dist/tex/generic/pgf/basiclayer/pgfcoretransparency.code.tex
+INPUT d:/Programmi/texlive/2023/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepatterns.code.tex
+INPUT d:/Programmi/texlive/2023/texmf-dist/tex/generic/pgf/basiclayer/pgfcorerdf.code.tex
+INPUT d:/Programmi/texlive/2023/texmf-dist/tex/latex/pgf/utilities/xxcolor.sty
+INPUT d:/Programmi/texlive/2023/texmf-dist/tex/latex/pgf/utilities/xxcolor.sty
+INPUT d:/Programmi/texlive/2023/texmf-dist/tex/generic/atbegshi/atbegshi.sty
+INPUT d:/Programmi/texlive/2023/texmf-dist/tex/latex/base/atbegshi-ltx.sty
+INPUT d:/Programmi/texlive/2023/texmf-dist/tex/latex/base/atbegshi-ltx.sty
+INPUT d:/Programmi/texlive/2023/texmf-dist/tex/latex/hyperref/hyperref.sty
+INPUT d:/Programmi/texlive/2023/texmf-dist/tex/generic/ltxcmds/ltxcmds.sty
+INPUT d:/Programmi/texlive/2023/texmf-dist/tex/generic/ltxcmds/ltxcmds.sty
+INPUT d:/Programmi/texlive/2023/texmf-dist/tex/generic/pdftexcmds/pdftexcmds.sty
+INPUT d:/Programmi/texlive/2023/texmf-dist/tex/generic/pdftexcmds/pdftexcmds.sty
+INPUT d:/Programmi/texlive/2023/texmf-dist/tex/generic/infwarerr/infwarerr.sty
+INPUT d:/Programmi/texlive/2023/texmf-dist/tex/generic/infwarerr/infwarerr.sty
+INPUT d:/Programmi/texlive/2023/texmf-dist/tex/latex/kvsetkeys/kvsetkeys.sty
+INPUT d:/Programmi/texlive/2023/texmf-dist/tex/latex/kvsetkeys/kvsetkeys.sty
+INPUT d:/Programmi/texlive/2023/texmf-dist/tex/generic/kvdefinekeys/kvdefinekeys.sty
+INPUT d:/Programmi/texlive/2023/texmf-dist/tex/generic/kvdefinekeys/kvdefinekeys.sty
+INPUT d:/Programmi/texlive/2023/texmf-dist/tex/generic/pdfescape/pdfescape.sty
+INPUT d:/Programmi/texlive/2023/texmf-dist/tex/generic/pdfescape/pdfescape.sty
+INPUT d:/Programmi/texlive/2023/texmf-dist/tex/latex/hycolor/hycolor.sty
+INPUT d:/Programmi/texlive/2023/texmf-dist/tex/latex/hycolor/hycolor.sty
+INPUT d:/Programmi/texlive/2023/texmf-dist/tex/latex/letltxmacro/letltxmacro.sty
+INPUT d:/Programmi/texlive/2023/texmf-dist/tex/latex/letltxmacro/letltxmacro.sty
+INPUT d:/Programmi/texlive/2023/texmf-dist/tex/latex/auxhook/auxhook.sty
+INPUT d:/Programmi/texlive/2023/texmf-dist/tex/latex/auxhook/auxhook.sty
+INPUT d:/Programmi/texlive/2023/texmf-dist/tex/latex/hyperref/nameref.sty
+INPUT d:/Programmi/texlive/2023/texmf-dist/tex/latex/hyperref/nameref.sty
+INPUT d:/Programmi/texlive/2023/texmf-dist/tex/latex/refcount/refcount.sty
+INPUT d:/Programmi/texlive/2023/texmf-dist/tex/latex/refcount/refcount.sty
+INPUT d:/Programmi/texlive/2023/texmf-dist/tex/generic/gettitlestring/gettitlestring.sty
+INPUT d:/Programmi/texlive/2023/texmf-dist/tex/generic/gettitlestring/gettitlestring.sty
+INPUT d:/Programmi/texlive/2023/texmf-dist/tex/latex/kvoptions/kvoptions.sty
+INPUT d:/Programmi/texlive/2023/texmf-dist/tex/latex/kvoptions/kvoptions.sty
+INPUT d:/Programmi/texlive/2023/texmf-dist/tex/latex/hyperref/pd1enc.def
+INPUT d:/Programmi/texlive/2023/texmf-dist/tex/latex/hyperref/pd1enc.def
+INPUT d:/Programmi/texlive/2023/texmf-dist/tex/latex/hyperref/pd1enc.def
+INPUT d:/Programmi/texlive/2023/texmf-dist/tex/generic/intcalc/intcalc.sty
+INPUT d:/Programmi/texlive/2023/texmf-dist/tex/generic/intcalc/intcalc.sty
+INPUT d:/Programmi/texlive/2023/texmf-dist/tex/latex/hyperref/puenc.def
+INPUT d:/Programmi/texlive/2023/texmf-dist/tex/latex/hyperref/puenc.def
+INPUT d:/Programmi/texlive/2023/texmf-dist/tex/latex/hyperref/puenc.def
+INPUT d:/Programmi/texlive/2023/texmf-dist/tex/latex/url/url.sty
+INPUT d:/Programmi/texlive/2023/texmf-dist/tex/latex/url/url.sty
+INPUT d:/Programmi/texlive/2023/texmf-dist/tex/generic/bitset/bitset.sty
+INPUT d:/Programmi/texlive/2023/texmf-dist/tex/generic/bitset/bitset.sty
+INPUT d:/Programmi/texlive/2023/texmf-dist/tex/generic/bigintcalc/bigintcalc.sty
+INPUT d:/Programmi/texlive/2023/texmf-dist/tex/generic/bigintcalc/bigintcalc.sty
+INPUT d:/Programmi/texlive/2023/texmf-dist/tex/latex/hyperref/hpdftex.def
+INPUT d:/Programmi/texlive/2023/texmf-dist/tex/latex/hyperref/hpdftex.def
+INPUT d:/Programmi/texlive/2023/texmf-dist/tex/latex/hyperref/hpdftex.def
+INPUT d:/Programmi/texlive/2023/texmf-dist/tex/latex/atveryend/atveryend.sty
+INPUT d:/Programmi/texlive/2023/texmf-dist/tex/latex/base/atveryend-ltx.sty
+INPUT d:/Programmi/texlive/2023/texmf-dist/tex/latex/base/atveryend-ltx.sty
+INPUT d:/Programmi/texlive/2023/texmf-dist/tex/latex/rerunfilecheck/rerunfilecheck.sty
+INPUT d:/Programmi/texlive/2023/texmf-dist/tex/latex/rerunfilecheck/rerunfilecheck.sty
+INPUT d:/Programmi/texlive/2023/texmf-dist/tex/generic/uniquecounter/uniquecounter.sty
+INPUT d:/Programmi/texlive/2023/texmf-dist/tex/generic/uniquecounter/uniquecounter.sty
+INPUT d:/Programmi/texlive/2023/texmf-dist/tex/latex/beamer/beamerbaserequires.sty
+INPUT d:/Programmi/texlive/2023/texmf-dist/tex/latex/beamer/beamerbaserequires.sty
+INPUT d:/Programmi/texlive/2023/texmf-dist/tex/latex/beamer/beamerbasecompatibility.sty
+INPUT d:/Programmi/texlive/2023/texmf-dist/tex/latex/beamer/beamerbasecompatibility.sty
+INPUT d:/Programmi/texlive/2023/texmf-dist/tex/latex/beamer/beamerbasefont.sty
+INPUT d:/Programmi/texlive/2023/texmf-dist/tex/latex/beamer/beamerbasefont.sty
+INPUT d:/Programmi/texlive/2023/texmf-dist/tex/latex/amsfonts/amssymb.sty
+INPUT d:/Programmi/texlive/2023/texmf-dist/tex/latex/amsfonts/amssymb.sty
+INPUT d:/Programmi/texlive/2023/texmf-dist/tex/latex/amsfonts/amsfonts.sty
+INPUT d:/Programmi/texlive/2023/texmf-dist/tex/latex/amsfonts/amsfonts.sty
+INPUT d:/Programmi/texlive/2023/texmf-dist/tex/latex/sansmathaccent/sansmathaccent.sty
+INPUT d:/Programmi/texlive/2023/texmf-dist/tex/latex/sansmathaccent/sansmathaccent.sty
+INPUT d:/Programmi/texlive/2023/texmf-dist/tex/latex/sansmathaccent/sansmathaccent.sty
+INPUT d:/Programmi/texlive/2023/texmf-dist/tex/latex/koma-script/scrlfile.sty
+INPUT d:/Programmi/texlive/2023/texmf-dist/tex/latex/koma-script/scrlfile.sty
+INPUT d:/Programmi/texlive/2023/texmf-dist/tex/latex/koma-script/scrlfile.sty
+INPUT d:/Programmi/texlive/2023/texmf-dist/tex/latex/koma-script/scrlfile-hook.sty
+INPUT d:/Programmi/texlive/2023/texmf-dist/tex/latex/koma-script/scrlfile-hook.sty
+INPUT d:/Programmi/texlive/2023/texmf-dist/tex/latex/koma-script/scrlogo.sty
+INPUT d:/Programmi/texlive/2023/texmf-dist/tex/latex/koma-script/scrlogo.sty
+INPUT d:/Programmi/texlive/2023/texmf-dist/tex/latex/beamer/beamerbasetranslator.sty
+INPUT d:/Programmi/texlive/2023/texmf-dist/tex/latex/beamer/beamerbasetranslator.sty
+INPUT d:/Programmi/texlive/2023/texmf-dist/tex/latex/translator/translator.sty
+INPUT d:/Programmi/texlive/2023/texmf-dist/tex/latex/translator/translator.sty
+INPUT d:/Programmi/texlive/2023/texmf-dist/tex/latex/beamer/beamerbasemisc.sty
+INPUT d:/Programmi/texlive/2023/texmf-dist/tex/latex/beamer/beamerbasemisc.sty
+INPUT d:/Programmi/texlive/2023/texmf-dist/tex/latex/beamer/beamerbasetwoscreens.sty
+INPUT d:/Programmi/texlive/2023/texmf-dist/tex/latex/beamer/beamerbasetwoscreens.sty
+INPUT d:/Programmi/texlive/2023/texmf-dist/tex/latex/beamer/beamerbaseoverlay.sty
+INPUT d:/Programmi/texlive/2023/texmf-dist/tex/latex/beamer/beamerbaseoverlay.sty
+INPUT d:/Programmi/texlive/2023/texmf-dist/tex/latex/beamer/beamerbasetitle.sty
+INPUT d:/Programmi/texlive/2023/texmf-dist/tex/latex/beamer/beamerbasetitle.sty
+INPUT d:/Programmi/texlive/2023/texmf-dist/tex/latex/beamer/beamerbasesection.sty
+INPUT d:/Programmi/texlive/2023/texmf-dist/tex/latex/beamer/beamerbasesection.sty
+INPUT d:/Programmi/texlive/2023/texmf-dist/tex/latex/beamer/beamerbaseframe.sty
+INPUT d:/Programmi/texlive/2023/texmf-dist/tex/latex/beamer/beamerbaseframe.sty
+INPUT d:/Programmi/texlive/2023/texmf-dist/tex/latex/beamer/beamerbaseverbatim.sty
+INPUT d:/Programmi/texlive/2023/texmf-dist/tex/latex/beamer/beamerbaseverbatim.sty
+INPUT d:/Programmi/texlive/2023/texmf-dist/tex/latex/beamer/beamerbaseframesize.sty
+INPUT d:/Programmi/texlive/2023/texmf-dist/tex/latex/beamer/beamerbaseframesize.sty
+INPUT d:/Programmi/texlive/2023/texmf-dist/tex/latex/beamer/beamerbaseframecomponents.sty
+INPUT d:/Programmi/texlive/2023/texmf-dist/tex/latex/beamer/beamerbaseframecomponents.sty
+INPUT d:/Programmi/texlive/2023/texmf-dist/tex/latex/beamer/beamerbasecolor.sty
+INPUT d:/Programmi/texlive/2023/texmf-dist/tex/latex/beamer/beamerbasecolor.sty
+INPUT d:/Programmi/texlive/2023/texmf-dist/tex/latex/beamer/beamerbasenotes.sty
+INPUT d:/Programmi/texlive/2023/texmf-dist/tex/latex/beamer/beamerbasenotes.sty
+INPUT d:/Programmi/texlive/2023/texmf-dist/tex/latex/beamer/beamerbasetoc.sty
+INPUT d:/Programmi/texlive/2023/texmf-dist/tex/latex/beamer/beamerbasetoc.sty
+INPUT d:/Programmi/texlive/2023/texmf-dist/tex/latex/beamer/beamerbasetemplates.sty
+INPUT d:/Programmi/texlive/2023/texmf-dist/tex/latex/beamer/beamerbasetemplates.sty
+INPUT d:/Programmi/texlive/2023/texmf-dist/tex/latex/beamer/beamerbaseauxtemplates.sty
+INPUT d:/Programmi/texlive/2023/texmf-dist/tex/latex/beamer/beamerbaseauxtemplates.sty
+INPUT d:/Programmi/texlive/2023/texmf-dist/tex/latex/beamer/beamerbaseboxes.sty
+INPUT d:/Programmi/texlive/2023/texmf-dist/tex/latex/beamer/beamerbaseboxes.sty
+INPUT d:/Programmi/texlive/2023/texmf-dist/tex/latex/beamer/beamerbaselocalstructure.sty
+INPUT d:/Programmi/texlive/2023/texmf-dist/tex/latex/beamer/beamerbaselocalstructure.sty
+INPUT d:/Programmi/texlive/2023/texmf-dist/tex/latex/tools/enumerate.sty
+INPUT d:/Programmi/texlive/2023/texmf-dist/tex/latex/tools/enumerate.sty
+INPUT d:/Programmi/texlive/2023/texmf-dist/tex/latex/beamer/beamerbasenavigation.sty
+INPUT d:/Programmi/texlive/2023/texmf-dist/tex/latex/beamer/beamerbasenavigation.sty
+INPUT d:/Programmi/texlive/2023/texmf-dist/tex/latex/beamer/beamerbasenavigationsymbols.tex
+INPUT d:/Programmi/texlive/2023/texmf-dist/tex/latex/beamer/beamerbasenavigationsymbols.tex
+INPUT d:/Programmi/texlive/2023/texmf-dist/tex/latex/beamer/beamerbasenavigationsymbols.tex
+INPUT d:/Programmi/texlive/2023/texmf-dist/tex/latex/beamer/beamerbasenavigationsymbols.tex
+INPUT d:/Programmi/texlive/2023/texmf-dist/tex/latex/beamer/beamerbasenavigationsymbols.tex
+INPUT d:/Programmi/texlive/2023/texmf-dist/tex/latex/beamer/beamerbasetheorems.sty
+INPUT d:/Programmi/texlive/2023/texmf-dist/tex/latex/beamer/beamerbasetheorems.sty
+INPUT d:/Programmi/texlive/2023/texmf-dist/tex/latex/amsmath/amsmath.sty
+INPUT d:/Programmi/texlive/2023/texmf-dist/tex/latex/amsmath/amsmath.sty
+INPUT d:/Programmi/texlive/2023/texmf-dist/tex/latex/amsmath/amsopn.sty
+INPUT d:/Programmi/texlive/2023/texmf-dist/tex/latex/amsmath/amstext.sty
+INPUT d:/Programmi/texlive/2023/texmf-dist/tex/latex/amsmath/amstext.sty
+INPUT d:/Programmi/texlive/2023/texmf-dist/tex/latex/amsmath/amsgen.sty
+INPUT d:/Programmi/texlive/2023/texmf-dist/tex/latex/amsmath/amsgen.sty
+INPUT d:/Programmi/texlive/2023/texmf-dist/tex/latex/amsmath/amsbsy.sty
+INPUT d:/Programmi/texlive/2023/texmf-dist/tex/latex/amsmath/amsbsy.sty
+INPUT d:/Programmi/texlive/2023/texmf-dist/tex/latex/amsmath/amsopn.sty
+INPUT d:/Programmi/texlive/2023/texmf-dist/tex/latex/amscls/amsthm.sty
+INPUT d:/Programmi/texlive/2023/texmf-dist/tex/latex/amscls/amsthm.sty
+INPUT d:/Programmi/texlive/2023/texmf-dist/tex/latex/beamer/beamerbasethemes.sty
+INPUT d:/Programmi/texlive/2023/texmf-dist/tex/latex/beamer/beamerbasethemes.sty
+INPUT d:/Programmi/texlive/2023/texmf-dist/fonts/tfm/public/cm/cmss10.tfm
+INPUT d:/Programmi/texlive/2023/texmf-dist/tex/latex/beamer/beamerthemedefault.sty
+INPUT d:/Programmi/texlive/2023/texmf-dist/tex/latex/beamer/beamerthemedefault.sty
+INPUT d:/Programmi/texlive/2023/texmf-dist/tex/latex/beamer/beamerfontthemedefault.sty
+INPUT d:/Programmi/texlive/2023/texmf-dist/tex/latex/beamer/beamerfontthemedefault.sty
+INPUT d:/Programmi/texlive/2023/texmf-dist/tex/latex/beamer/beamercolorthemedefault.sty
+INPUT d:/Programmi/texlive/2023/texmf-dist/tex/latex/beamer/beamercolorthemedefault.sty
+INPUT d:/Programmi/texlive/2023/texmf-dist/tex/latex/beamer/beamerinnerthemedefault.sty
+INPUT d:/Programmi/texlive/2023/texmf-dist/tex/latex/beamer/beamerinnerthemedefault.sty
+INPUT d:/Programmi/texlive/2023/texmf-dist/tex/latex/beamer/beamericonbook.pdf
+OUTPUT main.pdf
+INPUT d:/Programmi/texlive/2023/texmf-dist/tex/latex/beamer/beamericonbook.pdf
+INPUT d:/Programmi/texlive/2023/texmf-dist/tex/latex/beamer/beamericonbook.20.pdf
+INPUT d:/Programmi/texlive/2023/texmf-dist/tex/latex/beamer/beamericonbook.20.pdf
+INPUT d:/Programmi/texlive/2023/texmf-dist/tex/latex/beamer/beamericonarticle.pdf
+INPUT d:/Programmi/texlive/2023/texmf-dist/tex/latex/beamer/beamericonarticle.pdf
+INPUT d:/Programmi/texlive/2023/texmf-dist/tex/latex/beamer/beamericonarticle.20.pdf
+INPUT d:/Programmi/texlive/2023/texmf-dist/tex/latex/beamer/beamericonarticle.20.pdf
+INPUT d:/Programmi/texlive/2023/texmf-dist/tex/latex/beamer/beamericononline.pdf
+INPUT d:/Programmi/texlive/2023/texmf-dist/tex/latex/beamer/beamericononline.pdf
+INPUT d:/Programmi/texlive/2023/texmf-dist/tex/latex/beamer/beamericononline.20.pdf
+INPUT d:/Programmi/texlive/2023/texmf-dist/tex/latex/beamer/beamericononline.20.pdf
+INPUT d:/Programmi/texlive/2023/texmf-dist/tex/latex/beamer/beamerouterthemedefault.sty
+INPUT d:/Programmi/texlive/2023/texmf-dist/tex/latex/beamer/beamerouterthemedefault.sty
+INPUT d:/Programmi/texlive/2023/texmf-dist/tex/latex/float/float.sty
+INPUT d:/Programmi/texlive/2023/texmf-dist/tex/latex/float/float.sty
+INPUT d:/Programmi/texlive/2023/texmf-dist/tex/latex/biblatex/biblatex.sty
+INPUT d:/Programmi/texlive/2023/texmf-dist/tex/latex/biblatex/biblatex.sty
+INPUT d:/Programmi/texlive/2023/texmf-dist/tex/latex/logreq/logreq.sty
+INPUT d:/Programmi/texlive/2023/texmf-dist/tex/latex/logreq/logreq.sty
+INPUT d:/Programmi/texlive/2023/texmf-dist/tex/latex/logreq/logreq.def
+INPUT d:/Programmi/texlive/2023/texmf-dist/tex/latex/logreq/logreq.def
+INPUT d:/Programmi/texlive/2023/texmf-dist/tex/latex/logreq/logreq.def
+INPUT d:/Programmi/texlive/2023/texmf-dist/tex/latex/base/ifthen.sty
+INPUT d:/Programmi/texlive/2023/texmf-dist/tex/latex/base/ifthen.sty
+INPUT d:/Programmi/texlive/2023/texmf-dist/tex/latex/biblatex/blx-dm.def
+INPUT d:/Programmi/texlive/2023/texmf-dist/tex/latex/biblatex/blx-dm.def
+INPUT d:/Programmi/texlive/2023/texmf-dist/tex/latex/biblatex/blx-dm.def
+INPUT d:/Programmi/texlive/2023/texmf-dist/tex/latex/biblatex/blx-compat.def
+INPUT d:/Programmi/texlive/2023/texmf-dist/tex/latex/biblatex/blx-compat.def
+INPUT d:/Programmi/texlive/2023/texmf-dist/tex/latex/biblatex/blx-compat.def
+INPUT d:/Programmi/texlive/2023/texmf-dist/tex/latex/biblatex/blx-bibtex.def
+INPUT d:/Programmi/texlive/2023/texmf-dist/tex/latex/biblatex/blx-bibtex.def
+INPUT d:/Programmi/texlive/2023/texmf-dist/tex/latex/biblatex/blx-bibtex.def
+INPUT d:/Programmi/texlive/2023/texmf-dist/tex/latex/biblatex/biblatex.def
+INPUT d:/Programmi/texlive/2023/texmf-dist/tex/latex/biblatex/biblatex.def
+INPUT d:/Programmi/texlive/2023/texmf-dist/tex/latex/biblatex/biblatex.def
+INPUT d:/Programmi/texlive/2023/texmf-dist/tex/latex/biblatex-ieee/ieee.bbx
+INPUT d:/Programmi/texlive/2023/texmf-dist/tex/latex/biblatex-ieee/ieee.bbx
+INPUT d:/Programmi/texlive/2023/texmf-dist/tex/latex/biblatex-ieee/ieee.bbx
+INPUT d:/Programmi/texlive/2023/texmf-dist/tex/latex/biblatex/bbx/numeric-comp.bbx
+INPUT d:/Programmi/texlive/2023/texmf-dist/tex/latex/biblatex/bbx/numeric-comp.bbx
+INPUT d:/Programmi/texlive/2023/texmf-dist/tex/latex/biblatex/bbx/numeric-comp.bbx
+INPUT d:/Programmi/texlive/2023/texmf-dist/tex/latex/biblatex/bbx/numeric.bbx
+INPUT d:/Programmi/texlive/2023/texmf-dist/tex/latex/biblatex/bbx/numeric.bbx
+INPUT d:/Programmi/texlive/2023/texmf-dist/tex/latex/biblatex/bbx/numeric.bbx
+INPUT d:/Programmi/texlive/2023/texmf-dist/tex/latex/biblatex/bbx/standard.bbx
+INPUT d:/Programmi/texlive/2023/texmf-dist/tex/latex/biblatex/bbx/standard.bbx
+INPUT d:/Programmi/texlive/2023/texmf-dist/tex/latex/biblatex/bbx/standard.bbx
+INPUT d:/Programmi/texlive/2023/texmf-dist/tex/latex/biblatex/lbx/english.lbx
+INPUT d:/Programmi/texlive/2023/texmf-dist/tex/latex/biblatex/lbx/english.lbx
+INPUT d:/Programmi/texlive/2023/texmf-dist/tex/latex/biblatex-ieee/ieee.cbx
+INPUT d:/Programmi/texlive/2023/texmf-dist/tex/latex/biblatex-ieee/ieee.cbx
+INPUT d:/Programmi/texlive/2023/texmf-dist/tex/latex/biblatex-ieee/ieee.cbx
+INPUT d:/Programmi/texlive/2023/texmf-dist/tex/latex/biblatex/cbx/numeric-comp.cbx
+INPUT d:/Programmi/texlive/2023/texmf-dist/tex/latex/biblatex/cbx/numeric-comp.cbx
+INPUT d:/Programmi/texlive/2023/texmf-dist/tex/latex/biblatex/cbx/numeric-comp.cbx
+INPUT d:/Programmi/texlive/2023/texmf-dist/tex/latex/biblatex/biblatex.cfg
+INPUT d:/Programmi/texlive/2023/texmf-dist/tex/latex/biblatex/biblatex.cfg
+INPUT d:/Programmi/texlive/2023/texmf-dist/tex/latex/biblatex/biblatex.cfg
+INPUT d:/Programmi/texlive/2023/texmf-dist/tex/latex/l3kernel/expl3.sty
+INPUT d:/Programmi/texlive/2023/texmf-dist/tex/latex/l3kernel/expl3.sty
+INPUT d:/Programmi/texlive/2023/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
+INPUT d:/Programmi/texlive/2023/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
+INPUT d:/Programmi/texlive/2023/texmf-dist/tex/latex/biblatex/blx-case-expl3.sty
+INPUT d:/Programmi/texlive/2023/texmf-dist/tex/latex/biblatex/blx-case-expl3.sty
+INPUT d:/Programmi/texlive/2023/texmf-dist/tex/latex/l3packages/xparse/xparse.sty
+INPUT d:/Programmi/texlive/2023/texmf-dist/tex/latex/l3packages/xparse/xparse.sty
 INPUT ./beamerthemeUnipd.sty
-INPUT c:/Program Files/texlive/2023/texmf-dist/tex/latex/textpos/textpos.sty
-INPUT c:/Program Files/texlive/2023/texmf-dist/tex/latex/pgf/frontendlayer/tikz.sty
-INPUT c:/Program Files/texlive/2023/texmf-dist/tex/latex/pgf/basiclayer/pgf.sty
-INPUT c:/Program Files/texlive/2023/texmf-dist/tex/generic/pgf/modules/pgfmoduleshapes.code.tex
-INPUT c:/Program Files/texlive/2023/texmf-dist/tex/generic/pgf/modules/pgfmoduleplot.code.tex
-INPUT c:/Program Files/texlive/2023/texmf-dist/tex/latex/pgf/compatibility/pgfcomp-version-0-65.sty
-INPUT c:/Program Files/texlive/2023/texmf-dist/tex/latex/pgf/compatibility/pgfcomp-version-1-18.sty
-INPUT c:/Program Files/texlive/2023/texmf-dist/tex/latex/pgf/utilities/pgffor.sty
-INPUT c:/Program Files/texlive/2023/texmf-dist/tex/generic/pgf/utilities/pgffor.code.tex
-INPUT c:/Program Files/texlive/2023/texmf-dist/tex/generic/pgf/frontendlayer/tikz/tikz.code.tex
-INPUT c:/Program Files/texlive/2023/texmf-dist/tex/generic/pgf/libraries/pgflibraryplothandlers.code.tex
-INPUT c:/Program Files/texlive/2023/texmf-dist/tex/generic/pgf/libraries/pgflibraryplothandlers.code.tex
-INPUT c:/Program Files/texlive/2023/texmf-dist/tex/generic/pgf/modules/pgfmodulematrix.code.tex
-INPUT c:/Program Files/texlive/2023/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibrarytopaths.code.tex
-INPUT c:/Program Files/texlive/2023/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibrarytopaths.code.tex
-INPUT c:/Program Files/texlive/2023/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibrarybackgrounds.code.tex
-INPUT c:/Program Files/texlive/2023/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibrarybackgrounds.code.tex
+INPUT beamerthemeUnipd.sty
+INPUT d:/Programmi/texlive/2023/texmf-dist/tex/latex/textpos/textpos.sty
+INPUT d:/Programmi/texlive/2023/texmf-dist/tex/latex/textpos/textpos.sty
+INPUT d:/Programmi/texlive/2023/texmf-dist/tex/latex/pgf/frontendlayer/tikz.sty
+INPUT d:/Programmi/texlive/2023/texmf-dist/tex/latex/pgf/frontendlayer/tikz.sty
+INPUT d:/Programmi/texlive/2023/texmf-dist/tex/latex/pgf/basiclayer/pgf.sty
+INPUT d:/Programmi/texlive/2023/texmf-dist/tex/latex/pgf/basiclayer/pgf.sty
+INPUT d:/Programmi/texlive/2023/texmf-dist/tex/generic/pgf/modules/pgfmoduleshapes.code.tex
+INPUT d:/Programmi/texlive/2023/texmf-dist/tex/generic/pgf/modules/pgfmoduleplot.code.tex
+INPUT d:/Programmi/texlive/2023/texmf-dist/tex/latex/pgf/compatibility/pgfcomp-version-0-65.sty
+INPUT d:/Programmi/texlive/2023/texmf-dist/tex/latex/pgf/compatibility/pgfcomp-version-0-65.sty
+INPUT d:/Programmi/texlive/2023/texmf-dist/tex/latex/pgf/compatibility/pgfcomp-version-1-18.sty
+INPUT d:/Programmi/texlive/2023/texmf-dist/tex/latex/pgf/compatibility/pgfcomp-version-1-18.sty
+INPUT d:/Programmi/texlive/2023/texmf-dist/tex/latex/pgf/utilities/pgffor.sty
+INPUT d:/Programmi/texlive/2023/texmf-dist/tex/latex/pgf/utilities/pgffor.sty
+INPUT d:/Programmi/texlive/2023/texmf-dist/tex/generic/pgf/utilities/pgffor.code.tex
+INPUT d:/Programmi/texlive/2023/texmf-dist/tex/generic/pgf/utilities/pgffor.code.tex
+INPUT d:/Programmi/texlive/2023/texmf-dist/tex/generic/pgf/utilities/pgffor.code.tex
+INPUT d:/Programmi/texlive/2023/texmf-dist/tex/generic/pgf/frontendlayer/tikz/tikz.code.tex
+INPUT d:/Programmi/texlive/2023/texmf-dist/tex/generic/pgf/frontendlayer/tikz/tikz.code.tex
+INPUT d:/Programmi/texlive/2023/texmf-dist/tex/generic/pgf/frontendlayer/tikz/tikz.code.tex
+INPUT d:/Programmi/texlive/2023/texmf-dist/tex/generic/pgf/libraries/pgflibraryplothandlers.code.tex
+INPUT d:/Programmi/texlive/2023/texmf-dist/tex/generic/pgf/libraries/pgflibraryplothandlers.code.tex
+INPUT d:/Programmi/texlive/2023/texmf-dist/tex/generic/pgf/modules/pgfmodulematrix.code.tex
+INPUT d:/Programmi/texlive/2023/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibrarytopaths.code.tex
+INPUT d:/Programmi/texlive/2023/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibrarytopaths.code.tex
+INPUT d:/Programmi/texlive/2023/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibrarybackgrounds.code.tex
+INPUT d:/Programmi/texlive/2023/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibrarybackgrounds.code.tex
 INPUT ./beamerouterthemeUnipd.sty
 INPUT ./beamerinnerthemeUnipd.sty
+INPUT beamerouterthemeUnipd.sty
+INPUT beamerinnerthemeUnipd.sty
 INPUT ./beamercolorthemeUnipd.sty
+INPUT beamercolorthemeUnipd.sty
 INPUT ./beamerfontthemeUnipd.sty
+INPUT beamerfontthemeUnipd.sty
 INPUT ./main.aux
+INPUT ./main.aux
+INPUT main.aux
 OUTPUT main.aux
-INPUT c:/Program Files/texlive/2023/texmf-dist/tex/latex/base/ts1cmr.fd
-INPUT c:/Program Files/texlive/2023/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
-INPUT c:/Program Files/texlive/2023/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty
-INPUT c:/Program Files/texlive/2023/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
+INPUT d:/Programmi/texlive/2023/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
+INPUT d:/Programmi/texlive/2023/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
+INPUT d:/Programmi/texlive/2023/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
+INPUT d:/Programmi/texlive/2023/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty
+INPUT d:/Programmi/texlive/2023/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty
+INPUT d:/Programmi/texlive/2023/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
+INPUT d:/Programmi/texlive/2023/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
+INPUT d:/Programmi/texlive/2023/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
 INPUT ./main.out
 INPUT ./main.out
-OUTPUT main.pdf
+INPUT main.out
+INPUT main.out
+INPUT ./main.out
 INPUT ./main.out
 OUTPUT main.out
-INPUT c:/Program Files/texlive/2023/texmf-dist/tex/latex/translator/translator-basic-dictionary-English.dict
-INPUT c:/Program Files/texlive/2023/texmf-dist/tex/latex/translator/translator-bibliography-dictionary-English.dict
-INPUT c:/Program Files/texlive/2023/texmf-dist/tex/latex/translator/translator-environment-dictionary-English.dict
-INPUT c:/Program Files/texlive/2023/texmf-dist/tex/latex/translator/translator-months-dictionary-English.dict
-INPUT c:/Program Files/texlive/2023/texmf-dist/tex/latex/translator/translator-numbers-dictionary-English.dict
-INPUT c:/Program Files/texlive/2023/texmf-dist/tex/latex/translator/translator-theorem-dictionary-English.dict
-INPUT c:/Program Files/texlive/2023/texmf-dist/tex/latex/biblatex/lbx/english.lbx
+INPUT d:/Programmi/texlive/2023/texmf-dist/tex/latex/translator/translator-basic-dictionary-English.dict
+INPUT d:/Programmi/texlive/2023/texmf-dist/tex/latex/translator/translator-basic-dictionary-English.dict
+INPUT d:/Programmi/texlive/2023/texmf-dist/tex/latex/translator/translator-basic-dictionary-English.dict
+INPUT d:/Programmi/texlive/2023/texmf-dist/tex/latex/translator/translator-bibliography-dictionary-English.dict
+INPUT d:/Programmi/texlive/2023/texmf-dist/tex/latex/translator/translator-bibliography-dictionary-English.dict
+INPUT d:/Programmi/texlive/2023/texmf-dist/tex/latex/translator/translator-bibliography-dictionary-English.dict
+INPUT d:/Programmi/texlive/2023/texmf-dist/tex/latex/translator/translator-environment-dictionary-English.dict
+INPUT d:/Programmi/texlive/2023/texmf-dist/tex/latex/translator/translator-environment-dictionary-English.dict
+INPUT d:/Programmi/texlive/2023/texmf-dist/tex/latex/translator/translator-environment-dictionary-English.dict
+INPUT d:/Programmi/texlive/2023/texmf-dist/tex/latex/translator/translator-months-dictionary-English.dict
+INPUT d:/Programmi/texlive/2023/texmf-dist/tex/latex/translator/translator-months-dictionary-English.dict
+INPUT d:/Programmi/texlive/2023/texmf-dist/tex/latex/translator/translator-months-dictionary-English.dict
+INPUT d:/Programmi/texlive/2023/texmf-dist/tex/latex/translator/translator-numbers-dictionary-English.dict
+INPUT d:/Programmi/texlive/2023/texmf-dist/tex/latex/translator/translator-numbers-dictionary-English.dict
+INPUT d:/Programmi/texlive/2023/texmf-dist/tex/latex/translator/translator-numbers-dictionary-English.dict
+INPUT d:/Programmi/texlive/2023/texmf-dist/tex/latex/translator/translator-theorem-dictionary-English.dict
+INPUT d:/Programmi/texlive/2023/texmf-dist/tex/latex/translator/translator-theorem-dictionary-English.dict
+INPUT d:/Programmi/texlive/2023/texmf-dist/tex/latex/translator/translator-theorem-dictionary-English.dict
+INPUT d:/Programmi/texlive/2023/texmf-dist/tex/latex/biblatex/lbx/english.lbx
 OUTPUT main-blx.bib
+INPUT main.bbl
 INPUT ./main.bbl
 INPUT ./main.bbl
 INPUT ./main.bbl
+INPUT main.bbl
 INPUT ./main.nav
-INPUT C:/Users/filip/.texlive2023/texmf-var/luatex-cache/generic/fonts/otl/lmsans8-regular.luc
+INPUT ./main.nav
+INPUT main.nav
+INPUT d:/Programmi/texlive/2023/texmf-dist/fonts/tfm/public/cm/cmss8.tfm
 INPUT ./unipd_logo.png
 INPUT ./unipd_logo.png
-INPUT c:/Program Files/texlive/2023/texmf-dist/fonts/tfm/public/cm/cmss10.tfm
-INPUT c:/Program Files/texlive/2023/texmf-dist/fonts/tfm/public/cm/cmss8.tfm
-INPUT c:/Program Files/texlive/2023/texmf-dist/fonts/tfm/public/cm/cmss8.tfm
-INPUT c:/Program Files/texlive/2023/texmf-dist/fonts/tfm/public/cm/cmmi10.tfm
-INPUT c:/Program Files/texlive/2023/texmf-dist/fonts/tfm/public/cm/cmmi8.tfm
-INPUT c:/Program Files/texlive/2023/texmf-dist/fonts/tfm/public/cm/cmmi6.tfm
-INPUT c:/Program Files/texlive/2023/texmf-dist/fonts/tfm/public/cm/cmsy10.tfm
-INPUT c:/Program Files/texlive/2023/texmf-dist/fonts/tfm/public/cm/cmsy8.tfm
-INPUT c:/Program Files/texlive/2023/texmf-dist/fonts/tfm/public/cm/cmsy6.tfm
-INPUT c:/Program Files/texlive/2023/texmf-dist/fonts/tfm/public/cm/cmex10.tfm
-INPUT c:/Program Files/texlive/2023/texmf-dist/fonts/tfm/public/amsfonts/cmextra/cmex8.tfm
-INPUT c:/Program Files/texlive/2023/texmf-dist/fonts/tfm/public/amsfonts/cmextra/cmex7.tfm
-INPUT c:/Program Files/texlive/2023/texmf-dist/tex/latex/amsfonts/umsa.fd
-INPUT c:/Program Files/texlive/2023/texmf-dist/fonts/tfm/public/amsfonts/symbols/msam10.tfm
-INPUT c:/Program Files/texlive/2023/texmf-dist/fonts/tfm/public/amsfonts/symbols/msam10.tfm
-INPUT c:/Program Files/texlive/2023/texmf-dist/fonts/tfm/public/amsfonts/symbols/msam7.tfm
-INPUT c:/Program Files/texlive/2023/texmf-dist/tex/latex/amsfonts/umsb.fd
-INPUT c:/Program Files/texlive/2023/texmf-dist/fonts/tfm/public/amsfonts/symbols/msbm10.tfm
-INPUT c:/Program Files/texlive/2023/texmf-dist/fonts/tfm/public/amsfonts/symbols/msbm10.tfm
-INPUT c:/Program Files/texlive/2023/texmf-dist/fonts/tfm/public/amsfonts/symbols/msbm7.tfm
-INPUT C:/Users/filip/.texlive2023/texmf-var/luatex-cache/generic/fonts/otl/lmsans10-oblique.luc
-INPUT C:/Users/filip/.texlive2023/texmf-var/luatex-cache/generic/fonts/otl/lmsans8-oblique.luc
+INPUT ./unipd_logo.png
+INPUT ./unipd_logo.png
+INPUT ./unipd_logo.png
+INPUT d:/Programmi/texlive/2023/texmf-dist/fonts/tfm/public/cm/cmss8.tfm
+INPUT d:/Programmi/texlive/2023/texmf-dist/fonts/tfm/public/cm/cmmi10.tfm
+INPUT d:/Programmi/texlive/2023/texmf-dist/fonts/tfm/public/cm/cmmi8.tfm
+INPUT d:/Programmi/texlive/2023/texmf-dist/fonts/tfm/public/cm/cmmi6.tfm
+INPUT d:/Programmi/texlive/2023/texmf-dist/fonts/tfm/public/cm/cmsy10.tfm
+INPUT d:/Programmi/texlive/2023/texmf-dist/fonts/tfm/public/cm/cmsy8.tfm
+INPUT d:/Programmi/texlive/2023/texmf-dist/fonts/tfm/public/cm/cmsy6.tfm
+INPUT d:/Programmi/texlive/2023/texmf-dist/fonts/tfm/public/cm/cmex10.tfm
+INPUT d:/Programmi/texlive/2023/texmf-dist/fonts/tfm/public/amsfonts/cmextra/cmex8.tfm
+INPUT d:/Programmi/texlive/2023/texmf-dist/fonts/tfm/public/amsfonts/cmextra/cmex7.tfm
+INPUT d:/Programmi/texlive/2023/texmf-dist/tex/latex/amsfonts/umsa.fd
+INPUT d:/Programmi/texlive/2023/texmf-dist/tex/latex/amsfonts/umsa.fd
+INPUT d:/Programmi/texlive/2023/texmf-dist/tex/latex/amsfonts/umsa.fd
+INPUT d:/Programmi/texlive/2023/texmf-dist/fonts/tfm/public/amsfonts/symbols/msam10.tfm
+INPUT d:/Programmi/texlive/2023/texmf-dist/fonts/tfm/public/amsfonts/symbols/msam10.tfm
+INPUT d:/Programmi/texlive/2023/texmf-dist/fonts/tfm/public/amsfonts/symbols/msam7.tfm
+INPUT d:/Programmi/texlive/2023/texmf-dist/tex/latex/amsfonts/umsb.fd
+INPUT d:/Programmi/texlive/2023/texmf-dist/tex/latex/amsfonts/umsb.fd
+INPUT d:/Programmi/texlive/2023/texmf-dist/tex/latex/amsfonts/umsb.fd
+INPUT d:/Programmi/texlive/2023/texmf-dist/fonts/tfm/public/amsfonts/symbols/msbm10.tfm
+INPUT d:/Programmi/texlive/2023/texmf-dist/fonts/tfm/public/amsfonts/symbols/msbm10.tfm
+INPUT d:/Programmi/texlive/2023/texmf-dist/fonts/tfm/public/amsfonts/symbols/msbm7.tfm
+INPUT d:/Programmi/texlive/2023/texmf-dist/tex/latex/sansmathaccent/ot1mathkerncmss.fd
+INPUT d:/Programmi/texlive/2023/texmf-dist/tex/latex/sansmathaccent/ot1mathkerncmss.fd
+INPUT d:/Programmi/texlive/2023/texmf-dist/tex/latex/sansmathaccent/ot1mathkerncmss.fd
+INPUT d:/Programmi/texlive/2023/texmf-dist/fonts/tfm/public/sansmathaccent/mathkerncmssi10.tfm
+INPUT d:/Programmi/texlive/2023/texmf-dist/fonts/tfm/public/sansmathaccent/mathkerncmssi8.tfm
+INPUT d:/Programmi/texlive/2023/texmf-dist/fonts/tfm/public/sansmathaccent/mathkerncmssi8.tfm
 INPUT ./dei_logo.png
 INPUT ./dei_logo.png
-INPUT C:/Users/filip/.texlive2023/texmf-var/luatex-cache/generic/fonts/otl/lmsans17-regular.luc
-INPUT C:/Users/filip/.texlive2023/texmf-var/luatex-cache/generic/fonts/otl/lmsans12-regular.luc
-INPUT c:/Program Files/texlive/2023/texmf-var/fonts/map/pdftex/updmap/pdftex.map
+INPUT ./dei_logo.png
+INPUT ./dei_logo.png
+INPUT ./dei_logo.png
+INPUT d:/Programmi/texlive/2023/texmf-dist/fonts/tfm/public/cm/cmss17.tfm
+INPUT d:/Programmi/texlive/2023/texmf-dist/fonts/tfm/public/cm/cmss12.tfm
+INPUT d:/Programmi/texlive/2023/texmf-dist/fonts/tfm/public/cm/cmss8.tfm
+INPUT d:/Programmi/texlive/2023/texmf-var/fonts/map/pdftex/updmap/pdftex.map
 INPUT ./main.toc
-INPUT c:/Program Files/texlive/2023/texmf-dist/fonts/tfm/public/cm/cmss17.tfm
-INPUT c:/Program Files/texlive/2023/texmf-dist/fonts/tfm/public/cm/cmss12.tfm
-INPUT c:/Program Files/texlive/2023/texmf-dist/fonts/tfm/public/cm/cmss10.tfm
-INPUT c:/Program Files/texlive/2023/texmf-dist/fonts/tfm/public/cm/cmmi12.tfm
-INPUT c:/Program Files/texlive/2023/texmf-dist/fonts/tfm/public/cm/cmmi12.tfm
-INPUT c:/Program Files/texlive/2023/texmf-dist/fonts/tfm/public/cm/cmmi10.tfm
-INPUT c:/Program Files/texlive/2023/texmf-dist/fonts/tfm/public/cm/cmsy10.tfm
-INPUT c:/Program Files/texlive/2023/texmf-dist/fonts/tfm/public/cm/cmsy10.tfm
-INPUT c:/Program Files/texlive/2023/texmf-dist/fonts/tfm/public/cm/cmsy10.tfm
-INPUT c:/Program Files/texlive/2023/texmf-dist/fonts/tfm/public/cm/cmex10.tfm
-INPUT c:/Program Files/texlive/2023/texmf-dist/fonts/tfm/public/cm/cmex10.tfm
-INPUT c:/Program Files/texlive/2023/texmf-dist/fonts/tfm/public/cm/cmex10.tfm
-INPUT c:/Program Files/texlive/2023/texmf-dist/fonts/tfm/public/amsfonts/symbols/msam10.tfm
-INPUT c:/Program Files/texlive/2023/texmf-dist/fonts/tfm/public/amsfonts/symbols/msam10.tfm
-INPUT c:/Program Files/texlive/2023/texmf-dist/fonts/tfm/public/amsfonts/symbols/msam10.tfm
-INPUT c:/Program Files/texlive/2023/texmf-dist/fonts/tfm/public/amsfonts/symbols/msbm10.tfm
-INPUT c:/Program Files/texlive/2023/texmf-dist/fonts/tfm/public/amsfonts/symbols/msbm10.tfm
-INPUT c:/Program Files/texlive/2023/texmf-dist/fonts/tfm/public/amsfonts/symbols/msbm10.tfm
-INPUT C:/Users/filip/.texlive2023/texmf-var/luatex-cache/generic/fonts/otl/lmsans17-oblique.luc
-INPUT C:/Users/filip/.texlive2023/texmf-var/luatex-cache/generic/fonts/otl/lmsans12-oblique.luc
+INPUT ./main.toc
+INPUT main.toc
+INPUT d:/Programmi/texlive/2023/texmf-dist/fonts/tfm/public/cm/cmss10.tfm
+INPUT d:/Programmi/texlive/2023/texmf-dist/fonts/tfm/public/cm/cmmi12.tfm
+INPUT d:/Programmi/texlive/2023/texmf-dist/fonts/tfm/public/cm/cmmi12.tfm
+INPUT d:/Programmi/texlive/2023/texmf-dist/fonts/tfm/public/cm/cmsy10.tfm
+INPUT d:/Programmi/texlive/2023/texmf-dist/fonts/tfm/public/cm/cmsy10.tfm
+INPUT d:/Programmi/texlive/2023/texmf-dist/fonts/tfm/public/cm/cmex10.tfm
+INPUT d:/Programmi/texlive/2023/texmf-dist/fonts/tfm/public/cm/cmex10.tfm
+INPUT d:/Programmi/texlive/2023/texmf-dist/fonts/tfm/public/amsfonts/symbols/msam10.tfm
+INPUT d:/Programmi/texlive/2023/texmf-dist/fonts/tfm/public/amsfonts/symbols/msam10.tfm
+INPUT d:/Programmi/texlive/2023/texmf-dist/fonts/tfm/public/amsfonts/symbols/msam10.tfm
+INPUT d:/Programmi/texlive/2023/texmf-dist/fonts/tfm/public/amsfonts/symbols/msbm10.tfm
+INPUT d:/Programmi/texlive/2023/texmf-dist/fonts/tfm/public/amsfonts/symbols/msbm10.tfm
+INPUT d:/Programmi/texlive/2023/texmf-dist/fonts/tfm/public/amsfonts/symbols/msbm10.tfm
+INPUT d:/Programmi/texlive/2023/texmf-dist/fonts/tfm/public/sansmathaccent/mathkerncmssi17.tfm
+INPUT d:/Programmi/texlive/2023/texmf-dist/fonts/tfm/public/sansmathaccent/mathkerncmssi12.tfm
+INPUT d:/Programmi/texlive/2023/texmf-dist/fonts/tfm/public/sansmathaccent/mathkerncmssi10.tfm
+INPUT ./unipd_logo.png
+INPUT ./unipd_logo.png
+INPUT ./unipd_logo.png
 INPUT ./unipd_logo.png
 INPUT ./capitoli/compressione.tex
+INPUT ./capitoli/compressione.tex
+INPUT capitoli/compressione.tex
 INPUT ./Immagini/LossyCompressorDiagram.png
 INPUT ./Immagini/LossyCompressorDiagram.png
-INPUT c:/Program Files/texlive/2023/texmf-dist/fonts/tfm/public/cm/cmss8.tfm
-INPUT c:/Program Files/texlive/2023/texmf-dist/fonts/tfm/public/cm/cmss8.tfm
-INPUT c:/Program Files/texlive/2023/texmf-dist/fonts/tfm/public/cm/cmmi7.tfm
-INPUT c:/Program Files/texlive/2023/texmf-dist/fonts/tfm/public/cm/cmmi5.tfm
-INPUT c:/Program Files/texlive/2023/texmf-dist/fonts/tfm/public/cm/cmsy7.tfm
-INPUT c:/Program Files/texlive/2023/texmf-dist/fonts/tfm/public/cm/cmsy5.tfm
-INPUT c:/Program Files/texlive/2023/texmf-dist/fonts/tfm/public/amsfonts/cmextra/cmex7.tfm
-INPUT c:/Program Files/texlive/2023/texmf-dist/fonts/tfm/public/amsfonts/cmextra/cmex7.tfm
-INPUT c:/Program Files/texlive/2023/texmf-dist/fonts/tfm/public/amsfonts/symbols/msam7.tfm
-INPUT c:/Program Files/texlive/2023/texmf-dist/fonts/tfm/public/amsfonts/symbols/msam5.tfm
-INPUT c:/Program Files/texlive/2023/texmf-dist/fonts/tfm/public/amsfonts/symbols/msbm7.tfm
-INPUT c:/Program Files/texlive/2023/texmf-dist/fonts/tfm/public/amsfonts/symbols/msbm5.tfm
-INPUT C:/Users/filip/.texlive2023/texmf-var/luatex-cache/generic/fonts/otl/lmsans9-regular.luc
+INPUT ./Immagini/LossyCompressorDiagram.png
+INPUT ./Immagini/LossyCompressorDiagram.png
+INPUT ./Immagini/LossyCompressorDiagram.png
+INPUT d:/Programmi/texlive/2023/texmf-dist/fonts/tfm/public/cm/cmss8.tfm
+INPUT d:/Programmi/texlive/2023/texmf-dist/fonts/tfm/public/cm/cmss8.tfm
+INPUT d:/Programmi/texlive/2023/texmf-dist/fonts/tfm/public/amsfonts/cmextra/cmex7.tfm
+INPUT d:/Programmi/texlive/2023/texmf-dist/fonts/tfm/public/amsfonts/cmextra/cmex7.tfm
+INPUT d:/Programmi/texlive/2023/texmf-dist/fonts/tfm/public/amsfonts/symbols/msam7.tfm
+INPUT d:/Programmi/texlive/2023/texmf-dist/fonts/tfm/public/amsfonts/symbols/msam5.tfm
+INPUT d:/Programmi/texlive/2023/texmf-dist/fonts/tfm/public/amsfonts/symbols/msbm7.tfm
+INPUT d:/Programmi/texlive/2023/texmf-dist/fonts/tfm/public/amsfonts/symbols/msbm5.tfm
+INPUT d:/Programmi/texlive/2023/texmf-dist/fonts/tfm/public/sansmathaccent/mathkerncmssi8.tfm
+INPUT d:/Programmi/texlive/2023/texmf-dist/fonts/tfm/public/sansmathaccent/mathkerncmssi8.tfm
+INPUT d:/Programmi/texlive/2023/texmf-dist/fonts/tfm/public/cm/cmss9.tfm
+INPUT d:/Programmi/texlive/2023/texmf-dist/fonts/tfm/public/cm/cmssi8.tfm
+INPUT ./unipd_logo.png
+INPUT ./unipd_logo.png
+INPUT ./unipd_logo.png
 INPUT ./unipd_logo.png
 INPUT ./capitoli/metodiTradizionali.tex
-INPUT C:/Users/filip/.texlive2023/texmf-var/luatex-cache/generic/fonts/otl/lmromancaps10-regular.luc
-INPUT C:/Users/filip/.texlive2023/texmf-var/luatex-cache/generic/fonts/otl/lmmono8-regular.luc
+INPUT ./capitoli/metodiTradizionali.tex
+INPUT capitoli/metodiTradizionali.tex
+INPUT d:/Programmi/texlive/2023/texmf-dist/fonts/tfm/public/cm/cmcsc10.tfm
+INPUT d:/Programmi/texlive/2023/texmf-dist/fonts/tfm/public/cm/cmtt8.tfm
+INPUT ./unipd_logo.png
+INPUT ./unipd_logo.png
+INPUT ./unipd_logo.png
 INPUT ./unipd_logo.png
 INPUT ./capitoli/metodiIntelligenti.tex
+INPUT ./capitoli/metodiIntelligenti.tex
+INPUT capitoli/metodiIntelligenti.tex
 INPUT ./Immagini/Autoencoder_scheme.png
 INPUT ./Immagini/Autoencoder_scheme.png
+INPUT ./Immagini/Autoencoder_scheme.png
+INPUT ./Immagini/Autoencoder_scheme.png
+INPUT ./Immagini/Autoencoder_scheme.png
+INPUT d:/Programmi/texlive/2023/texmf-dist/fonts/tfm/public/cm/cmssi10.tfm
+INPUT ./unipd_logo.png
+INPUT ./unipd_logo.png
+INPUT ./unipd_logo.png
+INPUT ./unipd_logo.png
+INPUT ./unipd_logo.png
+INPUT ./unipd_logo.png
 INPUT ./unipd_logo.png
 INPUT ./unipd_logo.png
 INPUT ./Immagini/Ballé2018_Rete.png
 INPUT ./Immagini/Ballé2018_Rete.png
+INPUT ./Immagini/Ballé2018_Rete.png
+INPUT ./Immagini/Ballé2018_Rete.png
+INPUT ./Immagini/Ballé2018_Rete.png
+INPUT ./unipd_logo.png
+INPUT ./unipd_logo.png
+INPUT ./unipd_logo.png
 INPUT ./unipd_logo.png
 INPUT ./Immagini/Cheng2020_Rete.png
 INPUT ./Immagini/Cheng2020_Rete.png
+INPUT ./Immagini/Cheng2020_Rete.png
+INPUT ./Immagini/Cheng2020_Rete.png
+INPUT ./Immagini/Cheng2020_Rete.png
+INPUT ./unipd_logo.png
+INPUT ./unipd_logo.png
+INPUT ./unipd_logo.png
 INPUT ./unipd_logo.png
 INPUT ./Immagini/Wang2022_Rete.png
 INPUT ./Immagini/Wang2022_Rete.png
+INPUT ./Immagini/Wang2022_Rete.png
+INPUT ./Immagini/Wang2022_Rete.png
+INPUT ./Immagini/Wang2022_Rete.png
+INPUT ./unipd_logo.png
+INPUT ./unipd_logo.png
+INPUT ./unipd_logo.png
 INPUT ./unipd_logo.png
 INPUT ./capitoli/valutazionePrestazioni.tex
+INPUT ./capitoli/valutazionePrestazioni.tex
+INPUT capitoli/valutazionePrestazioni.tex
+INPUT ./Immagini/IMAGES/PNG_IMG0004.pdf
+INPUT ./Immagini/IMAGES/PNG_IMG0004.pdf
+INPUT ./Immagini/IMAGES/PNG_IMG0004.pdf
 INPUT ./Immagini/IMAGES/PNG_IMG0004.pdf
 INPUT ./Immagini/IMAGES/PNG_IMG0004.pdf
 INPUT ./Immagini/IMAGES/JPEG_1_IMG0004.pdf
 INPUT ./Immagini/IMAGES/JPEG_1_IMG0004.pdf
+INPUT ./Immagini/IMAGES/JPEG_1_IMG0004.pdf
+INPUT ./Immagini/IMAGES/JPEG_1_IMG0004.pdf
+INPUT ./Immagini/IMAGES/JPEG_1_IMG0004.pdf
+INPUT ./Immagini/IMAGES/JPEG2000_1_IMG0004.pdf
+INPUT ./Immagini/IMAGES/JPEG2000_1_IMG0004.pdf
+INPUT ./Immagini/IMAGES/JPEG2000_1_IMG0004.pdf
 INPUT ./Immagini/IMAGES/JPEG2000_1_IMG0004.pdf
 INPUT ./Immagini/IMAGES/JPEG2000_1_IMG0004.pdf
 INPUT ./Immagini/IMAGES/BPG_2_IMG0004.pdf
 INPUT ./Immagini/IMAGES/BPG_2_IMG0004.pdf
+INPUT ./Immagini/IMAGES/BPG_2_IMG0004.pdf
+INPUT ./Immagini/IMAGES/BPG_2_IMG0004.pdf
+INPUT ./Immagini/IMAGES/BPG_2_IMG0004.pdf
+INPUT ./Immagini/IMAGES/VVC_1_IMG0004.pdf
+INPUT ./Immagini/IMAGES/VVC_1_IMG0004.pdf
+INPUT ./Immagini/IMAGES/VVC_1_IMG0004.pdf
 INPUT ./Immagini/IMAGES/VVC_1_IMG0004.pdf
 INPUT ./Immagini/IMAGES/VVC_1_IMG0004.pdf
 INPUT ./Immagini/IMAGES/mbt2018_2_IMG0004.pdf
 INPUT ./Immagini/IMAGES/mbt2018_2_IMG0004.pdf
+INPUT ./Immagini/IMAGES/mbt2018_2_IMG0004.pdf
+INPUT ./Immagini/IMAGES/mbt2018_2_IMG0004.pdf
+INPUT ./Immagini/IMAGES/mbt2018_2_IMG0004.pdf
 INPUT ./Immagini/IMAGES/cheng2020_attn_2_IMG0004.pdf
 INPUT ./Immagini/IMAGES/cheng2020_attn_2_IMG0004.pdf
+INPUT ./Immagini/IMAGES/cheng2020_attn_2_IMG0004.pdf
+INPUT ./Immagini/IMAGES/cheng2020_attn_2_IMG0004.pdf
+INPUT ./Immagini/IMAGES/cheng2020_attn_2_IMG0004.pdf
+INPUT ./unipd_logo.png
+INPUT ./unipd_logo.png
+INPUT ./unipd_logo.png
 INPUT ./unipd_logo.png
 INPUT ./Immagini/METRICS/times@0.16bpp.png
 INPUT ./Immagini/METRICS/times@0.16bpp.png
+INPUT ./Immagini/METRICS/times@0.16bpp.png
+INPUT ./Immagini/METRICS/times@0.16bpp.png
+INPUT ./Immagini/METRICS/times@0.16bpp.png
+INPUT ./unipd_logo.png
+INPUT ./unipd_logo.png
+INPUT ./unipd_logo.png
 INPUT ./unipd_logo.png
 INPUT ./Immagini/METRICS/times@0.34bpp.png
 INPUT ./Immagini/METRICS/times@0.34bpp.png
+INPUT ./Immagini/METRICS/times@0.34bpp.png
+INPUT ./Immagini/METRICS/times@0.34bpp.png
+INPUT ./Immagini/METRICS/times@0.34bpp.png
+INPUT ./unipd_logo.png
+INPUT ./unipd_logo.png
+INPUT ./unipd_logo.png
 INPUT ./unipd_logo.png
 INPUT ./Immagini/METRICS/PSNR.png
 INPUT ./Immagini/METRICS/PSNR.png
+INPUT ./Immagini/METRICS/PSNR.png
+INPUT ./Immagini/METRICS/PSNR.png
+INPUT ./Immagini/METRICS/PSNR.png
+INPUT ./unipd_logo.png
+INPUT ./unipd_logo.png
+INPUT ./unipd_logo.png
 INPUT ./unipd_logo.png
 INPUT ./Immagini/METRICS/MS-SSIM.png
 INPUT ./Immagini/METRICS/MS-SSIM.png
+INPUT ./Immagini/METRICS/MS-SSIM.png
+INPUT ./Immagini/METRICS/MS-SSIM.png
+INPUT ./Immagini/METRICS/MS-SSIM.png
+INPUT ./unipd_logo.png
+INPUT ./unipd_logo.png
+INPUT ./unipd_logo.png
 INPUT ./unipd_logo.png
 INPUT ./Immagini/METRICS/LPIPS.png
 INPUT ./Immagini/METRICS/LPIPS.png
+INPUT ./Immagini/METRICS/LPIPS.png
+INPUT ./Immagini/METRICS/LPIPS.png
+INPUT ./Immagini/METRICS/LPIPS.png
+INPUT ./unipd_logo.png
+INPUT ./unipd_logo.png
+INPUT ./unipd_logo.png
 INPUT ./unipd_logo.png
 INPUT ./capitoli/sviluppiFuturi.tex
+INPUT ./capitoli/sviluppiFuturi.tex
+INPUT capitoli/sviluppiFuturi.tex
+INPUT ./unipd_logo.png
+INPUT ./unipd_logo.png
+INPUT ./unipd_logo.png
+INPUT ./unipd_logo.png
+INPUT ./unipd_logo.png
+INPUT ./unipd_logo.png
 INPUT ./unipd_logo.png
 INPUT ./unipd_logo.png
 OUTPUT main.nav
 OUTPUT main.toc
 OUTPUT main.snm
-INPUT ./main.aux
+INPUT main.aux
 INPUT ./main.out
-INPUT ./main.run.xml
+INPUT ./main.out
+INPUT main.run.xml
 OUTPUT main.run.xml
-INPUT c:/Program Files/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb
+INPUT d:/Programmi/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmcsc10.pfb
+INPUT d:/Programmi/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmss10.pfb
+INPUT d:/Programmi/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmss12.pfb
+INPUT d:/Programmi/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmss17.pfb
+INPUT d:/Programmi/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmss8.pfb
+INPUT d:/Programmi/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmssi10.pfb
+INPUT d:/Programmi/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmssi8.pfb
+INPUT d:/Programmi/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb
+INPUT d:/Programmi/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt8.pfb

@@ -1,75 +1,47 @@
-This is LuaHBTeX, Version 1.17.0 (TeX Live 2023)  (format=lualatex 2023.9.20)  10 NOV 2023 12:21
- system commands enabled.
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2023.9.19)  13 NOV 2023 13:59
+entering extended mode
+ restricted \write18 enabled.
  file:line:error style messages enabled.
-**c:/Users/filip/VSCodeProjects/imageCompressionAI_Presentation/main.tex
-(c:/Users/filip/VSCodeProjects/imageCompressionAI_Presentation/main.tex
+ %&-line parsing enabled.
+**"d:/Utenti/filip/Desktop/Unipd Presentation/imageCompressionAI_Presentation/main.tex"
+(d:/Utenti/filip/Desktop/Unipd Presentation/imageCompressionAI_Presentation/main.tex
 LaTeX2e <2023-06-01> patch level 1
 L3 programming layer <2023-08-29>
-Lua module: luaotfload 2023-08-31 3.26 Lua based OpenType font support
-Lua module: lualibs 2023-07-13 2.76 ConTeXt Lua standard libraries.
-Lua module: lualibs-extended 2023-07-13 2.76 ConTeXt Lua libraries -- extended collection.
-luaotfload | conf : Root cache directory is "C:/Users/filip/.texlive2023/texmf-var/luatex-cache/generic/names".
-luaotfload | init : Loading fontloader "fontloader-2023-08-19.lua" from kpse-resolved path "c:/Program Files/texlive/2023/texmf-dist/tex/luatex/luaotfload/fontloader-2023-08-19.lua".
-Lua-only attribute luaotfload@noligature = 1
-luaotfload | init : Context OpenType loader version 3.133
-Inserting `luaotfload.node_processor' in `pre_linebreak_filter'.
-Inserting `luaotfload.node_processor' in `hpack_filter'.
-Inserting `luaotfload.glyph_stream' in `glyph_stream_provider'.
-Inserting `luaotfload.define_font' in `define_font'.
-Lua-only attribute luaotfload_color_attribute = 2
-luaotfload | conf : Root cache directory is "C:/Users/filip/.texlive2023/texmf-var/luatex-cache/generic/names".
-Inserting `luaotfload.harf.strip_prefix' in `find_opentype_file'.
-Inserting `luaotfload.harf.strip_prefix' in `find_truetype_file'.
-Removing  `luaotfload.glyph_stream' from `glyph_stream_provider'.
-Inserting `luaotfload.harf.glyphstream' in `glyph_stream_provider'.
-Inserting `luaotfload.harf.finalize_vlist' in `post_linebreak_filter'.
-Inserting `luaotfload.harf.finalize_hlist' in `hpack_filter'.
-Inserting `luaotfload.cleanup_files' in `wrapup_run'.
-Inserting `luaotfload.harf.finalize_unicode' in `finish_pdffile'.
-Inserting `luaotfload.glyphinfo' in `glyph_info'.
-Lua-only attribute luaotfload.letterspace_done = 3
-Inserting `luaotfload.aux.set_sscale_dimens' in `luaotfload.patch_font'.
-Inserting `luaotfload.aux.set_font_index' in `luaotfload.patch_font'.
-Inserting `luaotfload.aux.patch_cambria_domh' in `luaotfload.patch_font'.
-Inserting `luaotfload.aux.fixup_fontdata' in `luaotfload.patch_font_unsafe'.
-Inserting `luaotfload.aux.set_capheight' in `luaotfload.patch_font'.
-Inserting `luaotfload.aux.set_xheight' in `luaotfload.patch_font'.
-Inserting `luaotfload.rewrite_fontname' in `luaotfload.patch_font'.
-Inserting `tracingstacklevels' in `input_level_string'. ("c:/Program Files/texlive/2023/texmf-dist/tex/latex/beamer/beamer.cls"
+(d:/Programmi/texlive/2023/texmf-dist/tex/latex/beamer/beamer.cls
 Document Class: beamer 2023/05/15 v3.70 A class for typesetting presentations
-("c:/Program Files/texlive/2023/texmf-dist/tex/latex/beamer/beamerbasemodes.sty" ("c:/Program Files/texlive/2023/texmf-dist/tex/latex/etoolbox/etoolbox.sty"
+(d:/Programmi/texlive/2023/texmf-dist/tex/latex/beamer/beamerbasemodes.sty (d:/Programmi/texlive/2023/texmf-dist/tex/latex/etoolbox/etoolbox.sty
 Package: etoolbox 2020/10/05 v2.5k e-TeX tools for LaTeX (JAW)
-\etb@tempcnta=\count183
+\etb@tempcnta=\count185
 )
 \beamer@tempbox=\box51
-\beamer@tempcount=\count184
-\c@beamerpauses=\count185
- ("c:/Program Files/texlive/2023/texmf-dist/tex/latex/beamer/beamerbasedecode.sty"
-\beamer@slideinframe=\count186
-\beamer@minimum=\count187
+\beamer@tempcount=\count186
+\c@beamerpauses=\count187
+ (d:/Programmi/texlive/2023/texmf-dist/tex/latex/beamer/beamerbasedecode.sty
+\beamer@slideinframe=\count188
+\beamer@minimum=\count189
 \beamer@decode@box=\box52
 )
 \beamer@commentbox=\box53
-\beamer@modecount=\count188
-) ("c:/Program Files/texlive/2023/texmf-dist/tex/generic/iftex/iftex.sty"
+\beamer@modecount=\count190
+) (d:/Programmi/texlive/2023/texmf-dist/tex/generic/iftex/iftex.sty
 Package: iftex 2022/02/03 v1.0f TeX engine tests
 )
-\headdp=\dimen139
-\footheight=\dimen140
-\sidebarheight=\dimen141
-\beamer@tempdim=\dimen142
-\beamer@finalheight=\dimen143
-\beamer@animht=\dimen144
-\beamer@animdp=\dimen145
-\beamer@animwd=\dimen146
-\beamer@leftmargin=\dimen147
-\beamer@rightmargin=\dimen148
-\beamer@leftsidebar=\dimen149
-\beamer@rightsidebar=\dimen150
-\beamer@boxsize=\dimen151
-\beamer@vboxoffset=\dimen152
-\beamer@descdefault=\dimen153
-\beamer@descriptionwidth=\dimen154
+\headdp=\dimen140
+\footheight=\dimen141
+\sidebarheight=\dimen142
+\beamer@tempdim=\dimen143
+\beamer@finalheight=\dimen144
+\beamer@animht=\dimen145
+\beamer@animdp=\dimen146
+\beamer@animwd=\dimen147
+\beamer@leftmargin=\dimen148
+\beamer@rightmargin=\dimen149
+\beamer@leftsidebar=\dimen150
+\beamer@rightsidebar=\dimen151
+\beamer@boxsize=\dimen152
+\beamer@vboxoffset=\dimen153
+\beamer@descdefault=\dimen154
+\beamer@descriptionwidth=\dimen155
 \beamer@lastskip=\skip48
 \beamer@areabox=\box54
 \beamer@animcurrent=\box55
@@ -77,144 +49,144 @@ Package: iftex 2022/02/03 v1.0f TeX engine tests
 \beamer@sectionbox=\box57
 \beamer@logobox=\box58
 \beamer@linebox=\box59
-\beamer@sectioncount=\count189
-\beamer@subsubsectionmax=\count190
-\beamer@subsectionmax=\count191
-\beamer@sectionmax=\count192
-\beamer@totalheads=\count193
-\beamer@headcounter=\count194
-\beamer@partstartpage=\count195
-\beamer@sectionstartpage=\count196
-\beamer@subsectionstartpage=\count197
-\beamer@animationtempa=\count198
-\beamer@animationtempb=\count199
-\beamer@xpos=\count266
-\beamer@ypos=\count267
-\beamer@ypos@offset=\count268
-\beamer@showpartnumber=\count269
-\beamer@currentsubsection=\count270
-\beamer@coveringdepth=\count271
-\beamer@sectionadjust=\count272
-\beamer@toclastsection=\count273
-\beamer@tocsectionnumber=\count274
- ("c:/Program Files/texlive/2023/texmf-dist/tex/latex/beamer/beamerbaseoptions.sty" ("c:/Program Files/texlive/2023/texmf-dist/tex/latex/graphics/keyval.sty"
+\beamer@sectioncount=\count191
+\beamer@subsubsectionmax=\count192
+\beamer@subsectionmax=\count193
+\beamer@sectionmax=\count194
+\beamer@totalheads=\count195
+\beamer@headcounter=\count196
+\beamer@partstartpage=\count197
+\beamer@sectionstartpage=\count198
+\beamer@subsectionstartpage=\count199
+\beamer@animationtempa=\count266
+\beamer@animationtempb=\count267
+\beamer@xpos=\count268
+\beamer@ypos=\count269
+\beamer@ypos@offset=\count270
+\beamer@showpartnumber=\count271
+\beamer@currentsubsection=\count272
+\beamer@coveringdepth=\count273
+\beamer@sectionadjust=\count274
+\beamer@toclastsection=\count275
+\beamer@tocsectionnumber=\count276
+ (d:/Programmi/texlive/2023/texmf-dist/tex/latex/beamer/beamerbaseoptions.sty (d:/Programmi/texlive/2023/texmf-dist/tex/latex/graphics/keyval.sty
 Package: keyval 2022/05/29 v1.15 key=value parser (DPC)
 \KV@toks@=\toks17
 ))
 \beamer@paperwidth=\skip49
 \beamer@paperheight=\skip50
- ("c:/Program Files/texlive/2023/texmf-dist/tex/latex/geometry/geometry.sty"
+ (d:/Programmi/texlive/2023/texmf-dist/tex/latex/geometry/geometry.sty
 Package: geometry 2020/01/02 v5.9 Page Geometry
- ("c:/Program Files/texlive/2023/texmf-dist/tex/generic/iftex/ifvtex.sty"
+ (d:/Programmi/texlive/2023/texmf-dist/tex/generic/iftex/ifvtex.sty
 Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
 )
-\Gm@cnth=\count275
-\Gm@cntv=\count276
-\c@Gm@tempcnt=\count277
-\Gm@bindingoffset=\dimen155
-\Gm@wd@mp=\dimen156
-\Gm@odd@mp=\dimen157
-\Gm@even@mp=\dimen158
-\Gm@layoutwidth=\dimen159
-\Gm@layoutheight=\dimen160
-\Gm@layouthoffset=\dimen161
-\Gm@layoutvoffset=\dimen162
+\Gm@cnth=\count277
+\Gm@cntv=\count278
+\c@Gm@tempcnt=\count279
+\Gm@bindingoffset=\dimen156
+\Gm@wd@mp=\dimen157
+\Gm@odd@mp=\dimen158
+\Gm@even@mp=\dimen159
+\Gm@layoutwidth=\dimen160
+\Gm@layoutheight=\dimen161
+\Gm@layouthoffset=\dimen162
+\Gm@layoutvoffset=\dimen163
 \Gm@dimlist=\toks18
-) ("c:/Program Files/texlive/2023/texmf-dist/tex/latex/pgf/math/pgfmath.sty" ("c:/Program Files/texlive/2023/texmf-dist/tex/latex/pgf/utilities/pgfrcs.sty" ("c:/Program Files/texlive/2023/texmf-dist/tex/generic/pgf/utilities/pgfutil-common.tex"
+) (d:/Programmi/texlive/2023/texmf-dist/tex/latex/pgf/math/pgfmath.sty (d:/Programmi/texlive/2023/texmf-dist/tex/latex/pgf/utilities/pgfrcs.sty (d:/Programmi/texlive/2023/texmf-dist/tex/generic/pgf/utilities/pgfutil-common.tex
 \pgfutil@everybye=\toks19
-\pgfutil@tempdima=\dimen163
-\pgfutil@tempdimb=\dimen164
-) ("c:/Program Files/texlive/2023/texmf-dist/tex/generic/pgf/utilities/pgfutil-latex.def"
+\pgfutil@tempdima=\dimen164
+\pgfutil@tempdimb=\dimen165
+) (d:/Programmi/texlive/2023/texmf-dist/tex/generic/pgf/utilities/pgfutil-latex.def
 \pgfutil@abb=\box60
-) ("c:/Program Files/texlive/2023/texmf-dist/tex/generic/pgf/utilities/pgfrcs.code.tex" ("c:/Program Files/texlive/2023/texmf-dist/tex/generic/pgf/pgf.revision.tex")
+) (d:/Programmi/texlive/2023/texmf-dist/tex/generic/pgf/utilities/pgfrcs.code.tex (d:/Programmi/texlive/2023/texmf-dist/tex/generic/pgf/pgf.revision.tex)
 Package: pgfrcs 2023-01-15 v3.1.10 (3.1.10)
-)) ("c:/Program Files/texlive/2023/texmf-dist/tex/latex/pgf/utilities/pgfkeys.sty" ("c:/Program Files/texlive/2023/texmf-dist/tex/generic/pgf/utilities/pgfkeys.code.tex"
+)) (d:/Programmi/texlive/2023/texmf-dist/tex/latex/pgf/utilities/pgfkeys.sty (d:/Programmi/texlive/2023/texmf-dist/tex/generic/pgf/utilities/pgfkeys.code.tex
 \pgfkeys@pathtoks=\toks20
 \pgfkeys@temptoks=\toks21
- ("c:/Program Files/texlive/2023/texmf-dist/tex/generic/pgf/utilities/pgfkeyslibraryfiltered.code.tex"
+ (d:/Programmi/texlive/2023/texmf-dist/tex/generic/pgf/utilities/pgfkeyslibraryfiltered.code.tex
 \pgfkeys@tmptoks=\toks22
-))) ("c:/Program Files/texlive/2023/texmf-dist/tex/generic/pgf/math/pgfmath.code.tex" ("c:/Program Files/texlive/2023/texmf-dist/tex/generic/pgf/math/pgfmathutil.code.tex"
-\pgf@x=\dimen165
-\pgf@xa=\dimen166
-\pgf@xb=\dimen167
-\pgf@xc=\dimen168
-\pgf@y=\dimen169
-\pgf@ya=\dimen170
-\pgf@yb=\dimen171
-\pgf@yc=\dimen172
-\c@pgf@counta=\count278
-\c@pgf@countb=\count279
-\c@pgf@countc=\count280
-\c@pgf@countd=\count281
-) ("c:/Program Files/texlive/2023/texmf-dist/tex/generic/pgf/math/pgfmathparser.code.tex"
-\pgfmath@dimen=\dimen173
-\pgfmath@count=\count282
+))) (d:/Programmi/texlive/2023/texmf-dist/tex/generic/pgf/math/pgfmath.code.tex (d:/Programmi/texlive/2023/texmf-dist/tex/generic/pgf/math/pgfmathutil.code.tex
+\pgf@x=\dimen166
+\pgf@xa=\dimen167
+\pgf@xb=\dimen168
+\pgf@xc=\dimen169
+\pgf@y=\dimen170
+\pgf@ya=\dimen171
+\pgf@yb=\dimen172
+\pgf@yc=\dimen173
+\c@pgf@counta=\count280
+\c@pgf@countb=\count281
+\c@pgf@countc=\count282
+\c@pgf@countd=\count283
+) (d:/Programmi/texlive/2023/texmf-dist/tex/generic/pgf/math/pgfmathparser.code.tex
+\pgfmath@dimen=\dimen174
+\pgfmath@count=\count284
 \pgfmath@box=\box61
 \pgfmath@toks=\toks23
 \pgfmath@stack@operand=\toks24
 \pgfmath@stack@operation=\toks25
-) ("c:/Program Files/texlive/2023/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.code.tex") ("c:/Program Files/texlive/2023/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.basic.code.tex") ("c:/Program Files/texlive/2023/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.trigonometric.code.tex") ("c:/Program Files/texlive/2023/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.random.code.tex") ("c:/Program Files/texlive/2023/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.comparison.code.tex") ("c:/Program Files/texlive/2023/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.base.code.tex") ("c:/Program Files/texlive/2023/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.round.code.tex") ("c:/Program Files/texlive/2023/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.misc.code.tex") ("c:/Program Files/texlive/2023/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.integerarithmetics.code.tex") ("c:/Program Files/texlive/2023/texmf-dist/tex/generic/pgf/math/pgfmathcalc.code.tex") ("c:/Program Files/texlive/2023/texmf-dist/tex/generic/pgf/math/pgfmathfloat.code.tex"
-\c@pgfmathroundto@lastzeros=\count283
-))) ("c:/Program Files/texlive/2023/texmf-dist/tex/latex/base/size11.clo"
+) (d:/Programmi/texlive/2023/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.code.tex) (d:/Programmi/texlive/2023/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.basic.code.tex) (d:/Programmi/texlive/2023/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.trigonometric.code.tex) (d:/Programmi/texlive/2023/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.random.code.tex) (d:/Programmi/texlive/2023/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.comparison.code.tex) (d:/Programmi/texlive/2023/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.base.code.tex) (d:/Programmi/texlive/2023/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.round.code.tex) (d:/Programmi/texlive/2023/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.misc.code.tex) (d:/Programmi/texlive/2023/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.integerarithmetics.code.tex) (d:/Programmi/texlive/2023/texmf-dist/tex/generic/pgf/math/pgfmathcalc.code.tex) (d:/Programmi/texlive/2023/texmf-dist/tex/generic/pgf/math/pgfmathfloat.code.tex
+\c@pgfmathroundto@lastzeros=\count285
+))) (d:/Programmi/texlive/2023/texmf-dist/tex/latex/base/size11.clo
 File: size11.clo 2023/05/17 v1.4n Standard LaTeX file (size option)
-luaotfload | db : Font names database loaded from C:/Users/filip/.texlive2023/texmf-var/luatex-cache/generic/names/luaotfload-names.luc.gz) ("c:/Program Files/texlive/2023/texmf-dist/tex/latex/pgf/basiclayer/pgfcore.sty" ("c:/Program Files/texlive/2023/texmf-dist/tex/latex/graphics/graphicx.sty"
+) (d:/Programmi/texlive/2023/texmf-dist/tex/latex/pgf/basiclayer/pgfcore.sty (d:/Programmi/texlive/2023/texmf-dist/tex/latex/graphics/graphicx.sty
 Package: graphicx 2021/09/16 v1.2d Enhanced LaTeX Graphics (DPC,SPQR)
- ("c:/Program Files/texlive/2023/texmf-dist/tex/latex/graphics/graphics.sty"
+ (d:/Programmi/texlive/2023/texmf-dist/tex/latex/graphics/graphics.sty
 Package: graphics 2022/03/10 v1.4e Standard LaTeX Graphics (DPC,SPQR)
- ("c:/Program Files/texlive/2023/texmf-dist/tex/latex/graphics/trig.sty"
+ (d:/Programmi/texlive/2023/texmf-dist/tex/latex/graphics/trig.sty
 Package: trig 2021/08/11 v1.11 sin cos tan (DPC)
-) ("c:/Program Files/texlive/2023/texmf-dist/tex/latex/graphics-cfg/graphics.cfg"
+) (d:/Programmi/texlive/2023/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
 File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
 )
-Package graphics Info: Driver file: luatex.def on input line 107.
- ("c:/Program Files/texlive/2023/texmf-dist/tex/latex/graphics-def/luatex.def"
-File: luatex.def 2022/09/22 v1.2d Graphics/color driver for luatex
+Package graphics Info: Driver file: pdftex.def on input line 107.
+ (d:/Programmi/texlive/2023/texmf-dist/tex/latex/graphics-def/pdftex.def
+File: pdftex.def 2022/09/22 v1.2b Graphics/color driver for pdftex
 ))
-\Gin@req@height=\dimen174
-\Gin@req@width=\dimen175
-) ("c:/Program Files/texlive/2023/texmf-dist/tex/latex/pgf/systemlayer/pgfsys.sty" ("c:/Program Files/texlive/2023/texmf-dist/tex/generic/pgf/systemlayer/pgfsys.code.tex"
+\Gin@req@height=\dimen175
+\Gin@req@width=\dimen176
+) (d:/Programmi/texlive/2023/texmf-dist/tex/latex/pgf/systemlayer/pgfsys.sty (d:/Programmi/texlive/2023/texmf-dist/tex/generic/pgf/systemlayer/pgfsys.code.tex
 Package: pgfsys 2023-01-15 v3.1.10 (3.1.10)
-\pgf@x=\dimen176
-\pgf@y=\dimen177
-\pgf@xa=\dimen178
-\pgf@ya=\dimen179
-\pgf@xb=\dimen180
-\pgf@yb=\dimen181
-\pgf@xc=\dimen182
-\pgf@yc=\dimen183
-\pgf@xd=\dimen184
-\pgf@yd=\dimen185
+\pgf@x=\dimen177
+\pgf@y=\dimen178
+\pgf@xa=\dimen179
+\pgf@ya=\dimen180
+\pgf@xb=\dimen181
+\pgf@yb=\dimen182
+\pgf@xc=\dimen183
+\pgf@yc=\dimen184
+\pgf@xd=\dimen185
+\pgf@yd=\dimen186
 \w@pgf@writea=\write3
 \r@pgf@reada=\read2
-\c@pgf@counta=\count284
-\c@pgf@countb=\count285
-\c@pgf@countc=\count286
-\c@pgf@countd=\count287
+\c@pgf@counta=\count286
+\c@pgf@countb=\count287
+\c@pgf@countc=\count288
+\c@pgf@countd=\count289
 \t@pgf@toka=\toks26
 \t@pgf@tokb=\toks27
 \t@pgf@tokc=\toks28
-\pgf@sys@id@count=\count288
- ("c:/Program Files/texlive/2023/texmf-dist/tex/generic/pgf/systemlayer/pgf.cfg"
+\pgf@sys@id@count=\count290
+ (d:/Programmi/texlive/2023/texmf-dist/tex/generic/pgf/systemlayer/pgf.cfg
 File: pgf.cfg 2023-01-15 v3.1.10 (3.1.10)
 )
-Driver file for pgf: pgfsys-luatex.def
- ("c:/Program Files/texlive/2023/texmf-dist/tex/generic/pgf/systemlayer/pgfsys-luatex.def"
-File: pgfsys-luatex.def 2023-01-15 v3.1.10 (3.1.10)
- ("c:/Program Files/texlive/2023/texmf-dist/tex/generic/pgf/systemlayer/pgfsys-common-pdf.def"
+Driver file for pgf: pgfsys-pdftex.def
+ (d:/Programmi/texlive/2023/texmf-dist/tex/generic/pgf/systemlayer/pgfsys-pdftex.def
+File: pgfsys-pdftex.def 2023-01-15 v3.1.10 (3.1.10)
+ (d:/Programmi/texlive/2023/texmf-dist/tex/generic/pgf/systemlayer/pgfsys-common-pdf.def
 File: pgfsys-common-pdf.def 2023-01-15 v3.1.10 (3.1.10)
-))) ("c:/Program Files/texlive/2023/texmf-dist/tex/generic/pgf/systemlayer/pgfsyssoftpath.code.tex"
+))) (d:/Programmi/texlive/2023/texmf-dist/tex/generic/pgf/systemlayer/pgfsyssoftpath.code.tex
 File: pgfsyssoftpath.code.tex 2023-01-15 v3.1.10 (3.1.10)
-\pgfsyssoftpath@smallbuffer@items=\count289
-\pgfsyssoftpath@bigbuffer@items=\count290
-) ("c:/Program Files/texlive/2023/texmf-dist/tex/generic/pgf/systemlayer/pgfsysprotocol.code.tex"
+\pgfsyssoftpath@smallbuffer@items=\count291
+\pgfsyssoftpath@bigbuffer@items=\count292
+) (d:/Programmi/texlive/2023/texmf-dist/tex/generic/pgf/systemlayer/pgfsysprotocol.code.tex
 File: pgfsysprotocol.code.tex 2023-01-15 v3.1.10 (3.1.10)
-)) ("c:/Program Files/texlive/2023/texmf-dist/tex/latex/xcolor/xcolor.sty"
+)) (d:/Programmi/texlive/2023/texmf-dist/tex/latex/xcolor/xcolor.sty
 Package: xcolor 2022/06/12 v2.14 LaTeX color extensions (UK)
- ("c:/Program Files/texlive/2023/texmf-dist/tex/latex/graphics-cfg/color.cfg"
+ (d:/Programmi/texlive/2023/texmf-dist/tex/latex/graphics-cfg/color.cfg
 File: color.cfg 2016/01/02 v1.6 sample color configuration
 )
-Package xcolor Info: Driver file: luatex.def on input line 227.
- ("c:/Program Files/texlive/2023/texmf-dist/tex/latex/graphics/mathcolor.ltx")
+Package xcolor Info: Driver file: pdftex.def on input line 227.
+ (d:/Programmi/texlive/2023/texmf-dist/tex/latex/graphics/mathcolor.ltx)
 Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1353.
 Package xcolor Info: Model `hsb' substituted by `rgb' on input line 1357.
 Package xcolor Info: Model `RGB' extended on input line 1369.
@@ -224,127 +196,130 @@ Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1373.
 Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1374.
 Package xcolor Info: Model `Gray' substituted by `gray' on input line 1375.
 Package xcolor Info: Model `wave' substituted by `hsb' on input line 1376.
-) ("c:/Program Files/texlive/2023/texmf-dist/tex/generic/pgf/basiclayer/pgfcore.code.tex"
+) (d:/Programmi/texlive/2023/texmf-dist/tex/generic/pgf/basiclayer/pgfcore.code.tex
 Package: pgfcore 2023-01-15 v3.1.10 (3.1.10)
- ("c:/Program Files/texlive/2023/texmf-dist/tex/generic/pgf/math/pgfint.code.tex") ("c:/Program Files/texlive/2023/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepoints.code.tex"
+ (d:/Programmi/texlive/2023/texmf-dist/tex/generic/pgf/math/pgfint.code.tex) (d:/Programmi/texlive/2023/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepoints.code.tex
 File: pgfcorepoints.code.tex 2023-01-15 v3.1.10 (3.1.10)
-\pgf@picminx=\dimen186
-\pgf@picmaxx=\dimen187
-\pgf@picminy=\dimen188
-\pgf@picmaxy=\dimen189
-\pgf@pathminx=\dimen190
-\pgf@pathmaxx=\dimen191
-\pgf@pathminy=\dimen192
-\pgf@pathmaxy=\dimen193
-\pgf@xx=\dimen194
-\pgf@xy=\dimen195
-\pgf@yx=\dimen196
-\pgf@yy=\dimen197
-\pgf@zx=\dimen198
-\pgf@zy=\dimen199
-) ("c:/Program Files/texlive/2023/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepathconstruct.code.tex"
+\pgf@picminx=\dimen187
+\pgf@picmaxx=\dimen188
+\pgf@picminy=\dimen189
+\pgf@picmaxy=\dimen190
+\pgf@pathminx=\dimen191
+\pgf@pathmaxx=\dimen192
+\pgf@pathminy=\dimen193
+\pgf@pathmaxy=\dimen194
+\pgf@xx=\dimen195
+\pgf@xy=\dimen196
+\pgf@yx=\dimen197
+\pgf@yy=\dimen198
+\pgf@zx=\dimen199
+\pgf@zy=\dimen256
+) (d:/Programmi/texlive/2023/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepathconstruct.code.tex
 File: pgfcorepathconstruct.code.tex 2023-01-15 v3.1.10 (3.1.10)
-\pgf@path@lastx=\dimen256
-\pgf@path@lasty=\dimen257
-) ("c:/Program Files/texlive/2023/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepathusage.code.tex"
+\pgf@path@lastx=\dimen257
+\pgf@path@lasty=\dimen258
+) (d:/Programmi/texlive/2023/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepathusage.code.tex
 File: pgfcorepathusage.code.tex 2023-01-15 v3.1.10 (3.1.10)
-\pgf@shorten@end@additional=\dimen258
-\pgf@shorten@start@additional=\dimen259
-) ("c:/Program Files/texlive/2023/texmf-dist/tex/generic/pgf/basiclayer/pgfcorescopes.code.tex"
+\pgf@shorten@end@additional=\dimen259
+\pgf@shorten@start@additional=\dimen260
+) (d:/Programmi/texlive/2023/texmf-dist/tex/generic/pgf/basiclayer/pgfcorescopes.code.tex
 File: pgfcorescopes.code.tex 2023-01-15 v3.1.10 (3.1.10)
 \pgfpic=\box62
 \pgf@hbox=\box63
 \pgf@layerbox@main=\box64
-\pgf@picture@serial@count=\count291
-) ("c:/Program Files/texlive/2023/texmf-dist/tex/generic/pgf/basiclayer/pgfcoregraphicstate.code.tex"
+\pgf@picture@serial@count=\count293
+) (d:/Programmi/texlive/2023/texmf-dist/tex/generic/pgf/basiclayer/pgfcoregraphicstate.code.tex
 File: pgfcoregraphicstate.code.tex 2023-01-15 v3.1.10 (3.1.10)
-\pgflinewidth=\dimen260
-) ("c:/Program Files/texlive/2023/texmf-dist/tex/generic/pgf/basiclayer/pgfcoretransformations.code.tex"
+\pgflinewidth=\dimen261
+) (d:/Programmi/texlive/2023/texmf-dist/tex/generic/pgf/basiclayer/pgfcoretransformations.code.tex
 File: pgfcoretransformations.code.tex 2023-01-15 v3.1.10 (3.1.10)
-\pgf@pt@x=\dimen261
-\pgf@pt@y=\dimen262
-\pgf@pt@temp=\dimen263
-) ("c:/Program Files/texlive/2023/texmf-dist/tex/generic/pgf/basiclayer/pgfcorequick.code.tex"
+\pgf@pt@x=\dimen262
+\pgf@pt@y=\dimen263
+\pgf@pt@temp=\dimen264
+) (d:/Programmi/texlive/2023/texmf-dist/tex/generic/pgf/basiclayer/pgfcorequick.code.tex
 File: pgfcorequick.code.tex 2023-01-15 v3.1.10 (3.1.10)
-) ("c:/Program Files/texlive/2023/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreobjects.code.tex"
+) (d:/Programmi/texlive/2023/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreobjects.code.tex
 File: pgfcoreobjects.code.tex 2023-01-15 v3.1.10 (3.1.10)
-) ("c:/Program Files/texlive/2023/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepathprocessing.code.tex"
+) (d:/Programmi/texlive/2023/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepathprocessing.code.tex
 File: pgfcorepathprocessing.code.tex 2023-01-15 v3.1.10 (3.1.10)
-) ("c:/Program Files/texlive/2023/texmf-dist/tex/generic/pgf/basiclayer/pgfcorearrows.code.tex"
+) (d:/Programmi/texlive/2023/texmf-dist/tex/generic/pgf/basiclayer/pgfcorearrows.code.tex
 File: pgfcorearrows.code.tex 2023-01-15 v3.1.10 (3.1.10)
-\pgfarrowsep=\dimen264
-) ("c:/Program Files/texlive/2023/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreshade.code.tex"
+\pgfarrowsep=\dimen265
+) (d:/Programmi/texlive/2023/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreshade.code.tex
 File: pgfcoreshade.code.tex 2023-01-15 v3.1.10 (3.1.10)
-\pgf@max=\dimen265
-\pgf@sys@shading@range@num=\count292
-\pgf@shadingcount=\count293
-) ("c:/Program Files/texlive/2023/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreimage.code.tex"
+\pgf@max=\dimen266
+\pgf@sys@shading@range@num=\count294
+\pgf@shadingcount=\count295
+) (d:/Programmi/texlive/2023/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreimage.code.tex
 File: pgfcoreimage.code.tex 2023-01-15 v3.1.10 (3.1.10)
-) ("c:/Program Files/texlive/2023/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreexternal.code.tex"
+) (d:/Programmi/texlive/2023/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreexternal.code.tex
 File: pgfcoreexternal.code.tex 2023-01-15 v3.1.10 (3.1.10)
 \pgfexternal@startupbox=\box65
-) ("c:/Program Files/texlive/2023/texmf-dist/tex/generic/pgf/basiclayer/pgfcorelayers.code.tex"
+) (d:/Programmi/texlive/2023/texmf-dist/tex/generic/pgf/basiclayer/pgfcorelayers.code.tex
 File: pgfcorelayers.code.tex 2023-01-15 v3.1.10 (3.1.10)
-) ("c:/Program Files/texlive/2023/texmf-dist/tex/generic/pgf/basiclayer/pgfcoretransparency.code.tex"
+) (d:/Programmi/texlive/2023/texmf-dist/tex/generic/pgf/basiclayer/pgfcoretransparency.code.tex
 File: pgfcoretransparency.code.tex 2023-01-15 v3.1.10 (3.1.10)
-) ("c:/Program Files/texlive/2023/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepatterns.code.tex"
+) (d:/Programmi/texlive/2023/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepatterns.code.tex
 File: pgfcorepatterns.code.tex 2023-01-15 v3.1.10 (3.1.10)
-) ("c:/Program Files/texlive/2023/texmf-dist/tex/generic/pgf/basiclayer/pgfcorerdf.code.tex"
+) (d:/Programmi/texlive/2023/texmf-dist/tex/generic/pgf/basiclayer/pgfcorerdf.code.tex
 File: pgfcorerdf.code.tex 2023-01-15 v3.1.10 (3.1.10)
-))) ("c:/Program Files/texlive/2023/texmf-dist/tex/latex/pgf/utilities/xxcolor.sty"
+))) (d:/Programmi/texlive/2023/texmf-dist/tex/latex/pgf/utilities/xxcolor.sty
 Package: xxcolor 2003/10/24 ver 0.1
-\XC@nummixins=\count294
-\XC@countmixins=\count295
-) ("c:/Program Files/texlive/2023/texmf-dist/tex/latex/base/atbegshi-ltx.sty"
+\XC@nummixins=\count296
+\XC@countmixins=\count297
+) (d:/Programmi/texlive/2023/texmf-dist/tex/latex/base/atbegshi-ltx.sty
 Package: atbegshi-ltx 2021/01/10 v1.0c Emulation of the original atbegshi
 package with kernel methods
-) ("c:/Program Files/texlive/2023/texmf-dist/tex/latex/hyperref/hyperref.sty"
+) (d:/Programmi/texlive/2023/texmf-dist/tex/latex/hyperref/hyperref.sty
 Package: hyperref 2023-07-08 v7.01b Hypertext links for LaTeX
- ("c:/Program Files/texlive/2023/texmf-dist/tex/generic/ltxcmds/ltxcmds.sty"
+ (d:/Programmi/texlive/2023/texmf-dist/tex/generic/ltxcmds/ltxcmds.sty
 Package: ltxcmds 2020-05-10 v1.25 LaTeX kernel commands for general use (HO)
-) ("c:/Program Files/texlive/2023/texmf-dist/tex/generic/pdftexcmds/pdftexcmds.sty"
+) (d:/Programmi/texlive/2023/texmf-dist/tex/generic/pdftexcmds/pdftexcmds.sty
 Package: pdftexcmds 2020-06-27 v0.33 Utility functions of pdfTeX for LuaTeX (HO)
- ("c:/Program Files/texlive/2023/texmf-dist/tex/generic/infwarerr/infwarerr.sty"
+ (d:/Programmi/texlive/2023/texmf-dist/tex/generic/infwarerr/infwarerr.sty
 Package: infwarerr 2019/12/03 v1.5 Providing info/warning/error messages (HO)
 )
 Package pdftexcmds Info: \pdf@primitive is available.
 Package pdftexcmds Info: \pdf@ifprimitive is available.
 Package pdftexcmds Info: \pdfdraftmode found.
-\pdftexcmds@toks=\toks29
-) ("c:/Program Files/texlive/2023/texmf-dist/tex/latex/kvsetkeys/kvsetkeys.sty"
+) (d:/Programmi/texlive/2023/texmf-dist/tex/latex/kvsetkeys/kvsetkeys.sty
 Package: kvsetkeys 2022-10-05 v1.19 Key value parser (HO)
-) ("c:/Program Files/texlive/2023/texmf-dist/tex/generic/kvdefinekeys/kvdefinekeys.sty"
+) (d:/Programmi/texlive/2023/texmf-dist/tex/generic/kvdefinekeys/kvdefinekeys.sty
 Package: kvdefinekeys 2019-12-19 v1.6 Define keys (HO)
-) ("c:/Program Files/texlive/2023/texmf-dist/tex/generic/pdfescape/pdfescape.sty"
+) (d:/Programmi/texlive/2023/texmf-dist/tex/generic/pdfescape/pdfescape.sty
 Package: pdfescape 2019/12/09 v1.15 Implements pdfTeX's escape features (HO)
-) ("c:/Program Files/texlive/2023/texmf-dist/tex/latex/hycolor/hycolor.sty"
+) (d:/Programmi/texlive/2023/texmf-dist/tex/latex/hycolor/hycolor.sty
 Package: hycolor 2020-01-27 v1.10 Color options for hyperref/bookmark (HO)
-) ("c:/Program Files/texlive/2023/texmf-dist/tex/latex/letltxmacro/letltxmacro.sty"
+) (d:/Programmi/texlive/2023/texmf-dist/tex/latex/letltxmacro/letltxmacro.sty
 Package: letltxmacro 2019/12/03 v1.6 Let assignment for LaTeX macros (HO)
-) ("c:/Program Files/texlive/2023/texmf-dist/tex/latex/auxhook/auxhook.sty"
+) (d:/Programmi/texlive/2023/texmf-dist/tex/latex/auxhook/auxhook.sty
 Package: auxhook 2019-12-17 v1.6 Hooks for auxiliary files (HO)
-) ("c:/Program Files/texlive/2023/texmf-dist/tex/latex/hyperref/nameref.sty"
+) (d:/Programmi/texlive/2023/texmf-dist/tex/latex/hyperref/nameref.sty
 Package: nameref 2023-08-07 v2.53 Cross-referencing by name of section
- ("c:/Program Files/texlive/2023/texmf-dist/tex/latex/refcount/refcount.sty"
+ (d:/Programmi/texlive/2023/texmf-dist/tex/latex/refcount/refcount.sty
 Package: refcount 2019/12/15 v3.6 Data extraction from label references (HO)
-) ("c:/Program Files/texlive/2023/texmf-dist/tex/generic/gettitlestring/gettitlestring.sty"
+) (d:/Programmi/texlive/2023/texmf-dist/tex/generic/gettitlestring/gettitlestring.sty
 Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
- ("c:/Program Files/texlive/2023/texmf-dist/tex/latex/kvoptions/kvoptions.sty"
+ (d:/Programmi/texlive/2023/texmf-dist/tex/latex/kvoptions/kvoptions.sty
 Package: kvoptions 2022-06-15 v3.15 Key value format for package options (HO)
 ))
-\c@section@level=\count296
+\c@section@level=\count298
 )
-\@linkdim=\dimen266
-\Hy@linkcounter=\count297
-\Hy@pagecounter=\count298
- ("c:/Program Files/texlive/2023/texmf-dist/tex/latex/hyperref/pd1enc.def"
+\@linkdim=\dimen267
+\Hy@linkcounter=\count299
+\Hy@pagecounter=\count300
+ (d:/Programmi/texlive/2023/texmf-dist/tex/latex/hyperref/pd1enc.def
 File: pd1enc.def 2023-07-08 v7.01b Hyperref: PDFDocEncoding definition (HO)
-) ("c:/Program Files/texlive/2023/texmf-dist/tex/generic/intcalc/intcalc.sty"
+Now handling font encoding PD1 ...
+... no UTF-8 mapping file for font encoding PD1
+) (d:/Programmi/texlive/2023/texmf-dist/tex/generic/intcalc/intcalc.sty
 Package: intcalc 2019/12/15 v1.3 Expandable calculations with integers (HO)
 )
-\Hy@SavedSpaceFactor=\count299
- ("c:/Program Files/texlive/2023/texmf-dist/tex/latex/hyperref/puenc.def"
+\Hy@SavedSpaceFactor=\count301
+ (d:/Programmi/texlive/2023/texmf-dist/tex/latex/hyperref/puenc.def
 File: puenc.def 2023-07-08 v7.01b Hyperref: PDF Unicode definition (HO)
+Now handling font encoding PU ...
+... no UTF-8 mapping file for font encoding PU
 )
 Package hyperref Info: Option `bookmarks' set `true' on input line 4050.
 Package hyperref Info: Option `bookmarksopen' set `true' on input line 4050.
@@ -356,21 +331,21 @@ Package hyperref Info: Plain pages OFF on input line 4182.
 Package hyperref Info: Backreferencing OFF on input line 4187.
 Package hyperref Info: Implicit mode OFF; no redefinition of LaTeX internals.
 Package hyperref Info: Bookmarks ON on input line 4434.
-\c@Hy@tempcnt=\count300
- ("c:/Program Files/texlive/2023/texmf-dist/tex/latex/url/url.sty"
+\c@Hy@tempcnt=\count302
+ (d:/Programmi/texlive/2023/texmf-dist/tex/latex/url/url.sty
 \Urlmuskip=\muskip16
 Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
 )
 LaTeX Info: Redefining \url on input line 4772.
-\XeTeXLinkMargin=\dimen267
- ("c:/Program Files/texlive/2023/texmf-dist/tex/generic/bitset/bitset.sty"
+\XeTeXLinkMargin=\dimen268
+ (d:/Programmi/texlive/2023/texmf-dist/tex/generic/bitset/bitset.sty
 Package: bitset 2019/12/09 v1.3 Handle bit-vector datatype (HO)
- ("c:/Program Files/texlive/2023/texmf-dist/tex/generic/bigintcalc/bigintcalc.sty"
+ (d:/Programmi/texlive/2023/texmf-dist/tex/generic/bigintcalc/bigintcalc.sty
 Package: bigintcalc 2019/12/15 v1.5 Expandable calculations on big integers (HO)
 ))
-\Fld@menulength=\count301
-\Field@Width=\dimen268
-\Fld@charsize=\dimen269
+\Fld@menulength=\count303
+\Field@Width=\dimen269
+\Fld@charsize=\dimen270
 Package hyperref Info: Hyper figures OFF on input line 6051.
 Package hyperref Info: Link nesting OFF on input line 6056.
 Package hyperref Info: Hyper index ON on input line 6059.
@@ -378,136 +353,134 @@ Package hyperref Info: backreferencing OFF on input line 6066.
 Package hyperref Info: Link coloring OFF on input line 6071.
 Package hyperref Info: Link coloring with OCG OFF on input line 6076.
 Package hyperref Info: PDF/A mode OFF on input line 6081.
-\Hy@abspage=\count302
+\Hy@abspage=\count304
 
 
 Package hyperref Message: Stopped early.
 
 )
-Package hyperref Info: Driver (autodetected): hluatex.
- ("c:/Program Files/texlive/2023/texmf-dist/tex/latex/hyperref/hluatex.def"
-File: hluatex.def 2023-07-08 v7.01b Hyperref driver for luaTeX
- ("c:/Program Files/texlive/2023/texmf-dist/tex/generic/stringenc/stringenc.sty"
-Package: stringenc 2019/11/29 v1.12 Convert strings between diff. encodings (HO)
-) ("c:/Program Files/texlive/2023/texmf-dist/tex/latex/base/atveryend-ltx.sty"
+Package hyperref Info: Driver (autodetected): hpdftex.
+ (d:/Programmi/texlive/2023/texmf-dist/tex/latex/hyperref/hpdftex.def
+File: hpdftex.def 2023-07-08 v7.01b Hyperref driver for pdfTeX
+ (d:/Programmi/texlive/2023/texmf-dist/tex/latex/base/atveryend-ltx.sty
 Package: atveryend-ltx 2020/08/19 v1.0a Emulation of the original atveryend package
 with kernel methods
 )
-\Fld@listcount=\count303
-\c@bookmark@seq@number=\count304
- ("c:/Program Files/texlive/2023/texmf-dist/tex/latex/rerunfilecheck/rerunfilecheck.sty"
+\Fld@listcount=\count305
+\c@bookmark@seq@number=\count306
+ (d:/Programmi/texlive/2023/texmf-dist/tex/latex/rerunfilecheck/rerunfilecheck.sty
 Package: rerunfilecheck 2022-07-10 v1.10 Rerun checks for auxiliary files (HO)
- ("c:/Program Files/texlive/2023/texmf-dist/tex/generic/uniquecounter/uniquecounter.sty"
+ (d:/Programmi/texlive/2023/texmf-dist/tex/generic/uniquecounter/uniquecounter.sty
 Package: uniquecounter 2019/12/15 v1.4 Provide unlimited unique counter (HO)
 )
 Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 285.
-)) ("c:/Program Files/texlive/2023/texmf-dist/tex/latex/beamer/beamerbaserequires.sty" ("c:/Program Files/texlive/2023/texmf-dist/tex/latex/beamer/beamerbasecompatibility.sty") ("c:/Program Files/texlive/2023/texmf-dist/tex/latex/beamer/beamerbasefont.sty" ("c:/Program Files/texlive/2023/texmf-dist/tex/latex/amsfonts/amssymb.sty"
+)) (d:/Programmi/texlive/2023/texmf-dist/tex/latex/beamer/beamerbaserequires.sty (d:/Programmi/texlive/2023/texmf-dist/tex/latex/beamer/beamerbasecompatibility.sty) (d:/Programmi/texlive/2023/texmf-dist/tex/latex/beamer/beamerbasefont.sty (d:/Programmi/texlive/2023/texmf-dist/tex/latex/amsfonts/amssymb.sty
 Package: amssymb 2013/01/14 v3.01 AMS font symbols
- ("c:/Program Files/texlive/2023/texmf-dist/tex/latex/amsfonts/amsfonts.sty"
+ (d:/Programmi/texlive/2023/texmf-dist/tex/latex/amsfonts/amsfonts.sty
 Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
-\@emptytoks=\toks30
+\@emptytoks=\toks29
 \symAMSa=\mathgroup4
 \symAMSb=\mathgroup5
 LaTeX Font Info:    Redeclaring math symbol \hbar on input line 98.
 LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
 (Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
-)) ("c:/Program Files/texlive/2023/texmf-dist/tex/latex/sansmathaccent/sansmathaccent.sty"
+)) (d:/Programmi/texlive/2023/texmf-dist/tex/latex/sansmathaccent/sansmathaccent.sty
 Package: sansmathaccent 2020/01/31
- ("c:/Program Files/texlive/2023/texmf-dist/tex/latex/koma-script/scrlfile.sty"
+ (d:/Programmi/texlive/2023/texmf-dist/tex/latex/koma-script/scrlfile.sty
 Package: scrlfile 2023/07/07 v3.41 KOMA-Script package (file load hooks)
- ("c:/Program Files/texlive/2023/texmf-dist/tex/latex/koma-script/scrlfile-hook.sty"
+ (d:/Programmi/texlive/2023/texmf-dist/tex/latex/koma-script/scrlfile-hook.sty
 Package: scrlfile-hook 2023/07/07 v3.41 KOMA-Script package (using LaTeX hooks)
- ("c:/Program Files/texlive/2023/texmf-dist/tex/latex/koma-script/scrlogo.sty"
+ (d:/Programmi/texlive/2023/texmf-dist/tex/latex/koma-script/scrlogo.sty
 Package: scrlogo 2023/07/07 v3.41 KOMA-Script package (logo)
-))))) ("c:/Program Files/texlive/2023/texmf-dist/tex/latex/beamer/beamerbasetranslator.sty" ("c:/Program Files/texlive/2023/texmf-dist/tex/latex/translator/translator.sty"
+))))) (d:/Programmi/texlive/2023/texmf-dist/tex/latex/beamer/beamerbasetranslator.sty (d:/Programmi/texlive/2023/texmf-dist/tex/latex/translator/translator.sty
 Package: translator 2021-05-31 v1.12d Easy translation of strings in LaTeX
-)) ("c:/Program Files/texlive/2023/texmf-dist/tex/latex/beamer/beamerbasemisc.sty") ("c:/Program Files/texlive/2023/texmf-dist/tex/latex/beamer/beamerbasetwoscreens.sty") ("c:/Program Files/texlive/2023/texmf-dist/tex/latex/beamer/beamerbaseoverlay.sty"
-\beamer@argscount=\count305
+)) (d:/Programmi/texlive/2023/texmf-dist/tex/latex/beamer/beamerbasemisc.sty) (d:/Programmi/texlive/2023/texmf-dist/tex/latex/beamer/beamerbasetwoscreens.sty) (d:/Programmi/texlive/2023/texmf-dist/tex/latex/beamer/beamerbaseoverlay.sty
+\beamer@argscount=\count307
 \beamer@lastskipcover=\skip51
-\beamer@trivlistdepth=\count306
-) ("c:/Program Files/texlive/2023/texmf-dist/tex/latex/beamer/beamerbasetitle.sty") ("c:/Program Files/texlive/2023/texmf-dist/tex/latex/beamer/beamerbasesection.sty"
-\c@lecture=\count307
-\c@part=\count308
-\c@section=\count309
-\c@subsection=\count310
-\c@subsubsection=\count311
-) ("c:/Program Files/texlive/2023/texmf-dist/tex/latex/beamer/beamerbaseframe.sty"
+\beamer@trivlistdepth=\count308
+) (d:/Programmi/texlive/2023/texmf-dist/tex/latex/beamer/beamerbasetitle.sty) (d:/Programmi/texlive/2023/texmf-dist/tex/latex/beamer/beamerbasesection.sty
+\c@lecture=\count309
+\c@part=\count310
+\c@section=\count311
+\c@subsection=\count312
+\c@subsubsection=\count313
+) (d:/Programmi/texlive/2023/texmf-dist/tex/latex/beamer/beamerbaseframe.sty
 \beamer@framebox=\box66
 \beamer@frametitlebox=\box67
 \beamer@zoombox=\box68
-\beamer@zoomcount=\count312
-\beamer@zoomframecount=\count313
-\beamer@frametextheight=\dimen270
-\c@subsectionslide=\count314
+\beamer@zoomcount=\count314
+\beamer@zoomframecount=\count315
+\beamer@frametextheight=\dimen271
+\c@subsectionslide=\count316
 \beamer@frametopskip=\skip52
 \beamer@framebottomskip=\skip53
 \beamer@frametopskipautobreak=\skip54
 \beamer@framebottomskipautobreak=\skip55
-\beamer@envbody=\toks31
-\framewidth=\dimen271
-\c@framenumber=\count315
-) ("c:/Program Files/texlive/2023/texmf-dist/tex/latex/beamer/beamerbaseverbatim.sty"
+\beamer@envbody=\toks30
+\framewidth=\dimen272
+\c@framenumber=\count317
+) (d:/Programmi/texlive/2023/texmf-dist/tex/latex/beamer/beamerbaseverbatim.sty
 \beamer@verbatimfileout=\write4
-) ("c:/Program Files/texlive/2023/texmf-dist/tex/latex/beamer/beamerbaseframesize.sty"
+) (d:/Programmi/texlive/2023/texmf-dist/tex/latex/beamer/beamerbaseframesize.sty
 \beamer@splitbox=\box69
-\beamer@autobreakcount=\count316
-\beamer@autobreaklastheight=\dimen272
-\beamer@frametitletoks=\toks32
-\beamer@framesubtitletoks=\toks33
-) ("c:/Program Files/texlive/2023/texmf-dist/tex/latex/beamer/beamerbaseframecomponents.sty"
+\beamer@autobreakcount=\count318
+\beamer@autobreaklastheight=\dimen273
+\beamer@frametitletoks=\toks31
+\beamer@framesubtitletoks=\toks32
+) (d:/Programmi/texlive/2023/texmf-dist/tex/latex/beamer/beamerbaseframecomponents.sty
 \beamer@footins=\box70
-) ("c:/Program Files/texlive/2023/texmf-dist/tex/latex/beamer/beamerbasecolor.sty") ("c:/Program Files/texlive/2023/texmf-dist/tex/latex/beamer/beamerbasenotes.sty"
+) (d:/Programmi/texlive/2023/texmf-dist/tex/latex/beamer/beamerbasecolor.sty) (d:/Programmi/texlive/2023/texmf-dist/tex/latex/beamer/beamerbasenotes.sty
 \beamer@frameboxcopy=\box71
-) ("c:/Program Files/texlive/2023/texmf-dist/tex/latex/beamer/beamerbasetoc.sty") ("c:/Program Files/texlive/2023/texmf-dist/tex/latex/beamer/beamerbasetemplates.sty"
-\beamer@sbttoks=\toks34
- ("c:/Program Files/texlive/2023/texmf-dist/tex/latex/beamer/beamerbaseauxtemplates.sty" ("c:/Program Files/texlive/2023/texmf-dist/tex/latex/beamer/beamerbaseboxes.sty"
+) (d:/Programmi/texlive/2023/texmf-dist/tex/latex/beamer/beamerbasetoc.sty) (d:/Programmi/texlive/2023/texmf-dist/tex/latex/beamer/beamerbasetemplates.sty
+\beamer@sbttoks=\toks33
+ (d:/Programmi/texlive/2023/texmf-dist/tex/latex/beamer/beamerbaseauxtemplates.sty (d:/Programmi/texlive/2023/texmf-dist/tex/latex/beamer/beamerbaseboxes.sty
 \bmb@box=\box72
 \bmb@colorbox=\box73
-\bmb@boxwidth=\dimen273
-\bmb@boxheight=\dimen274
-\bmb@prevheight=\dimen275
-\bmb@temp=\dimen276
-\bmb@dima=\dimen277
-\bmb@dimb=\dimen278
-\bmb@prevheight=\dimen279
+\bmb@boxwidth=\dimen274
+\bmb@boxheight=\dimen275
+\bmb@prevheight=\dimen276
+\bmb@temp=\dimen277
+\bmb@dima=\dimen278
+\bmb@dimb=\dimen279
+\bmb@prevheight=\dimen280
 )
-\beamer@blockheadheight=\dimen280
-)) ("c:/Program Files/texlive/2023/texmf-dist/tex/latex/beamer/beamerbaselocalstructure.sty" ("c:/Program Files/texlive/2023/texmf-dist/tex/latex/tools/enumerate.sty"
+\beamer@blockheadheight=\dimen281
+)) (d:/Programmi/texlive/2023/texmf-dist/tex/latex/beamer/beamerbaselocalstructure.sty (d:/Programmi/texlive/2023/texmf-dist/tex/latex/tools/enumerate.sty
 Package: enumerate 2015/07/23 v3.00 enumerate extensions (DPC)
-\@enLab=\toks35
+\@enLab=\toks34
 )
 \beamer@bibiconwidth=\skip56
-\c@figure=\count317
-\c@table=\count318
+\c@figure=\count319
+\c@table=\count320
 \abovecaptionskip=\skip57
 \belowcaptionskip=\skip58
-) ("c:/Program Files/texlive/2023/texmf-dist/tex/latex/beamer/beamerbasenavigation.sty" ("c:/Program Files/texlive/2023/texmf-dist/tex/latex/beamer/beamerbasenavigationsymbols.tex")
-\beamer@section@min@dim=\dimen281
-) ("c:/Program Files/texlive/2023/texmf-dist/tex/latex/beamer/beamerbasetheorems.sty" ("c:/Program Files/texlive/2023/texmf-dist/tex/latex/amsmath/amsmath.sty"
+) (d:/Programmi/texlive/2023/texmf-dist/tex/latex/beamer/beamerbasenavigation.sty (d:/Programmi/texlive/2023/texmf-dist/tex/latex/beamer/beamerbasenavigationsymbols.tex)
+\beamer@section@min@dim=\dimen282
+) (d:/Programmi/texlive/2023/texmf-dist/tex/latex/beamer/beamerbasetheorems.sty (d:/Programmi/texlive/2023/texmf-dist/tex/latex/amsmath/amsmath.sty
 Package: amsmath 2023/05/13 v2.17o AMS math features
 \@mathmargin=\skip59
 
 For additional information on amsmath, use the `?' option.
-("c:/Program Files/texlive/2023/texmf-dist/tex/latex/amsmath/amstext.sty"
+(d:/Programmi/texlive/2023/texmf-dist/tex/latex/amsmath/amstext.sty
 Package: amstext 2021/08/26 v2.01 AMS text
- ("c:/Program Files/texlive/2023/texmf-dist/tex/latex/amsmath/amsgen.sty"
+ (d:/Programmi/texlive/2023/texmf-dist/tex/latex/amsmath/amsgen.sty
 File: amsgen.sty 1999/11/30 v2.0 generic functions
-\@emptytoks=\toks36
-\ex@=\dimen282
-)) ("c:/Program Files/texlive/2023/texmf-dist/tex/latex/amsmath/amsbsy.sty"
+\@emptytoks=\toks35
+\ex@=\dimen283
+)) (d:/Programmi/texlive/2023/texmf-dist/tex/latex/amsmath/amsbsy.sty
 Package: amsbsy 1999/11/29 v1.2d Bold Symbols
-\pmbraise@=\dimen283
-) ("c:/Program Files/texlive/2023/texmf-dist/tex/latex/amsmath/amsopn.sty"
+\pmbraise@=\dimen284
+) (d:/Programmi/texlive/2023/texmf-dist/tex/latex/amsmath/amsopn.sty
 Package: amsopn 2022/04/08 v2.04 operator names
 )
-\inf@bad=\count319
-LaTeX Info: Redefining \frac on input line 236.
-\uproot@=\count320
-\leftroot@=\count321
+\inf@bad=\count321
+LaTeX Info: Redefining \frac on input line 234.
+\uproot@=\count322
+\leftroot@=\count323
 LaTeX Info: Redefining \overline on input line 399.
 LaTeX Info: Redefining \colon on input line 410.
-\classnum@=\count322
-\DOTSCASE@=\count323
+\classnum@=\count324
+\DOTSCASE@=\count325
 LaTeX Info: Redefining \ldots on input line 496.
 LaTeX Info: Redefining \dots on input line 499.
 LaTeX Info: Redefining \cdots on input line 620.
@@ -517,112 +490,112 @@ LaTeX Info: Redefining \big on input line 722.
 LaTeX Info: Redefining \Big on input line 723.
 LaTeX Info: Redefining \bigg on input line 724.
 LaTeX Info: Redefining \Bigg on input line 725.
-\big@size=\dimen284
+\big@size=\dimen285
 LaTeX Font Info:    Redeclaring font encoding OML on input line 743.
 LaTeX Font Info:    Redeclaring font encoding OMS on input line 744.
-\macc@depth=\count324
+\macc@depth=\count326
 LaTeX Info: Redefining \bmod on input line 905.
 LaTeX Info: Redefining \pmod on input line 910.
 LaTeX Info: Redefining \smash on input line 940.
 LaTeX Info: Redefining \relbar on input line 970.
 LaTeX Info: Redefining \Relbar on input line 971.
-\c@MaxMatrixCols=\count325
+\c@MaxMatrixCols=\count327
 \dotsspace@=\muskip17
-\c@parentequation=\count326
-\dspbrk@lvl=\count327
-\tag@help=\toks37
-\row@=\count328
-\column@=\count329
-\maxfields@=\count330
-\andhelp@=\toks38
-\eqnshift@=\dimen285
-\alignsep@=\dimen286
-\tagshift@=\dimen287
-\tagwidth@=\dimen288
-\totwidth@=\dimen289
-\lineht@=\dimen290
-\@envbody=\toks39
+\c@parentequation=\count328
+\dspbrk@lvl=\count329
+\tag@help=\toks36
+\row@=\count330
+\column@=\count331
+\maxfields@=\count332
+\andhelp@=\toks37
+\eqnshift@=\dimen286
+\alignsep@=\dimen287
+\tagshift@=\dimen288
+\tagwidth@=\dimen289
+\totwidth@=\dimen290
+\lineht@=\dimen291
+\@envbody=\toks38
 \multlinegap=\skip60
 \multlinetaggap=\skip61
-\mathdisplay@stack=\toks40
+\mathdisplay@stack=\toks39
 LaTeX Info: Redefining \[ on input line 2953.
 LaTeX Info: Redefining \] on input line 2954.
-) ("c:/Program Files/texlive/2023/texmf-dist/tex/latex/amscls/amsthm.sty"
+) (d:/Programmi/texlive/2023/texmf-dist/tex/latex/amscls/amsthm.sty
 Package: amsthm 2020/05/29 v2.20.6
-\thm@style=\toks41
-\thm@bodyfont=\toks42
-\thm@headfont=\toks43
-\thm@notefont=\toks44
-\thm@headpunct=\toks45
+\thm@style=\toks40
+\thm@bodyfont=\toks41
+\thm@headfont=\toks42
+\thm@notefont=\toks43
+\thm@headpunct=\toks44
 \thm@preskip=\skip62
 \thm@postskip=\skip63
 \thm@headsep=\skip64
-\dth@everypar=\toks46
+\dth@everypar=\toks45
 )
-\c@theorem=\count331
-) ("c:/Program Files/texlive/2023/texmf-dist/tex/latex/beamer/beamerbasethemes.sty")) ("c:/Program Files/texlive/2023/texmf-dist/tex/latex/beamer/beamerthemedefault.sty" ("c:/Program Files/texlive/2023/texmf-dist/tex/latex/beamer/beamerfontthemedefault.sty") ("c:/Program Files/texlive/2023/texmf-dist/tex/latex/beamer/beamercolorthemedefault.sty") ("c:/Program Files/texlive/2023/texmf-dist/tex/latex/beamer/beamerinnerthemedefault.sty"
-\beamer@dima=\dimen291
-\beamer@dimb=\dimen292
-) ("c:/Program Files/texlive/2023/texmf-dist/tex/latex/beamer/beamerouterthemedefault.sty"))) ("c:/Program Files/texlive/2023/texmf-dist/tex/latex/float/float.sty"
+\c@theorem=\count333
+) (d:/Programmi/texlive/2023/texmf-dist/tex/latex/beamer/beamerbasethemes.sty)) (d:/Programmi/texlive/2023/texmf-dist/tex/latex/beamer/beamerthemedefault.sty (d:/Programmi/texlive/2023/texmf-dist/tex/latex/beamer/beamerfontthemedefault.sty) (d:/Programmi/texlive/2023/texmf-dist/tex/latex/beamer/beamercolorthemedefault.sty) (d:/Programmi/texlive/2023/texmf-dist/tex/latex/beamer/beamerinnerthemedefault.sty
+\beamer@dima=\dimen292
+\beamer@dimb=\dimen293
+) (d:/Programmi/texlive/2023/texmf-dist/tex/latex/beamer/beamerouterthemedefault.sty))) (d:/Programmi/texlive/2023/texmf-dist/tex/latex/float/float.sty
 Package: float 2001/11/08 v1.3d Float enhancements (AL)
-\c@float@type=\count332
-\float@exts=\toks47
+\c@float@type=\count334
+\float@exts=\toks46
 \float@box=\box76
-\@float@everytoks=\toks48
+\@float@everytoks=\toks47
 \@floatcapt=\box77
-) ("c:/Program Files/texlive/2023/texmf-dist/tex/latex/biblatex/biblatex.sty"
+) (d:/Programmi/texlive/2023/texmf-dist/tex/latex/biblatex/biblatex.sty
 Package: biblatex 2023/03/05 v3.19 programmable bibliographies (PK/MW)
- ("c:/Program Files/texlive/2023/texmf-dist/tex/latex/logreq/logreq.sty"
+ (d:/Programmi/texlive/2023/texmf-dist/tex/latex/logreq/logreq.sty
 Package: logreq 2010/08/04 v1.0 xml request logger
-\lrq@indent=\count333
- ("c:/Program Files/texlive/2023/texmf-dist/tex/latex/logreq/logreq.def"
+\lrq@indent=\count335
+ (d:/Programmi/texlive/2023/texmf-dist/tex/latex/logreq/logreq.def
 File: logreq.def 2010/08/04 v1.0 logreq spec v1.0
-)) ("c:/Program Files/texlive/2023/texmf-dist/tex/latex/base/ifthen.sty"
+)) (d:/Programmi/texlive/2023/texmf-dist/tex/latex/base/ifthen.sty
 Package: ifthen 2022/04/13 v1.1d Standard LaTeX ifthen package (DPC)
 )
-\c@tabx@nest=\count334
-\c@listtotal=\count335
-\c@listcount=\count336
-\c@liststart=\count337
-\c@liststop=\count338
-\c@citecount=\count339
-\c@citetotal=\count340
-\c@multicitecount=\count341
-\c@multicitetotal=\count342
-\c@instcount=\count343
-\c@maxnames=\count344
-\c@minnames=\count345
-\c@maxitems=\count346
-\c@minitems=\count347
-\c@citecounter=\count348
-\c@maxcitecounter=\count349
-\c@savedcitecounter=\count350
-\c@uniquelist=\count351
-\c@uniquename=\count352
-\c@refsection=\count353
-\c@refsegment=\count354
-\c@maxextratitle=\count355
-\c@maxextratitleyear=\count356
-\c@maxextraname=\count357
-\c@maxextradate=\count358
-\c@maxextraalpha=\count359
-\c@abbrvpenalty=\count360
-\c@highnamepenalty=\count361
-\c@lownamepenalty=\count362
-\c@maxparens=\count363
-\c@parenlevel=\count364
-\blx@tempcnta=\count365
-\blx@tempcntb=\count366
-\blx@tempcntc=\count367
-\c@blx@maxsection=\count368
-\blx@maxsegment@0=\count369
-\blx@notetype=\count370
-\blx@parenlevel@text=\count371
-\blx@parenlevel@foot=\count372
-\blx@sectionciteorder@0=\count373
-\blx@sectionciteorderinternal@0=\count374
-\blx@entrysetcounter=\count375
-\blx@biblioinstance=\count376
+\c@tabx@nest=\count336
+\c@listtotal=\count337
+\c@listcount=\count338
+\c@liststart=\count339
+\c@liststop=\count340
+\c@citecount=\count341
+\c@citetotal=\count342
+\c@multicitecount=\count343
+\c@multicitetotal=\count344
+\c@instcount=\count345
+\c@maxnames=\count346
+\c@minnames=\count347
+\c@maxitems=\count348
+\c@minitems=\count349
+\c@citecounter=\count350
+\c@maxcitecounter=\count351
+\c@savedcitecounter=\count352
+\c@uniquelist=\count353
+\c@uniquename=\count354
+\c@refsection=\count355
+\c@refsegment=\count356
+\c@maxextratitle=\count357
+\c@maxextratitleyear=\count358
+\c@maxextraname=\count359
+\c@maxextradate=\count360
+\c@maxextraalpha=\count361
+\c@abbrvpenalty=\count362
+\c@highnamepenalty=\count363
+\c@lownamepenalty=\count364
+\c@maxparens=\count365
+\c@parenlevel=\count366
+\blx@tempcnta=\count367
+\blx@tempcntb=\count368
+\blx@tempcntc=\count369
+\c@blx@maxsection=\count370
+\blx@maxsegment@0=\count371
+\blx@notetype=\count372
+\blx@parenlevel@text=\count373
+\blx@parenlevel@foot=\count374
+\blx@sectionciteorder@0=\count375
+\blx@sectionciteorderinternal@0=\count376
+\blx@entrysetcounter=\count377
+\blx@biblioinstance=\count378
 \labelnumberwidth=\skip65
 \labelalphawidth=\skip66
 \biblabelsep=\skip67
@@ -633,87 +606,87 @@ Package: ifthen 2022/04/13 v1.1d Standard LaTeX ifthen package (DPC)
 \bibhang=\skip72
 \blx@bcfin=\read3
 \blx@bcfout=\write5
-\blx@langwohyphens=\language2
-\c@mincomprange=\count377
-\c@maxcomprange=\count378
-\c@mincompwidth=\count379
+\blx@langwohyphens=\language89
+\c@mincomprange=\count379
+\c@maxcomprange=\count380
+\c@mincompwidth=\count381
 Package biblatex Info: Trying to load biblatex default data model...
 Package biblatex Info: ... file 'blx-dm.def' found.
- ("c:/Program Files/texlive/2023/texmf-dist/tex/latex/biblatex/blx-dm.def"
+ (d:/Programmi/texlive/2023/texmf-dist/tex/latex/biblatex/blx-dm.def
 File: blx-dm.def 2023/03/05 v3.19 biblatex localization (PK/MW)
 )
 Package biblatex Info: Trying to load biblatex style data model...
 Package biblatex Info: ... file 'ieee.dbx' not found.
 Package biblatex Info: Trying to load biblatex custom data model...
 Package biblatex Info: ... file 'biblatex-dm.cfg' not found.
-\c@afterword=\count380
-\c@savedafterword=\count381
-\c@annotator=\count382
-\c@savedannotator=\count383
-\c@author=\count384
-\c@savedauthor=\count385
-\c@bookauthor=\count386
-\c@savedbookauthor=\count387
-\c@commentator=\count388
-\c@savedcommentator=\count389
-\c@editor=\count390
-\c@savededitor=\count391
-\c@editora=\count392
-\c@savededitora=\count393
-\c@editorb=\count394
-\c@savededitorb=\count395
-\c@editorc=\count396
-\c@savededitorc=\count397
-\c@foreword=\count398
-\c@savedforeword=\count399
-\c@holder=\count400
-\c@savedholder=\count401
-\c@introduction=\count402
-\c@savedintroduction=\count403
-\c@namea=\count404
-\c@savednamea=\count405
-\c@nameb=\count406
-\c@savednameb=\count407
-\c@namec=\count408
-\c@savednamec=\count409
-\c@translator=\count410
-\c@savedtranslator=\count411
-\c@shortauthor=\count412
-\c@savedshortauthor=\count413
-\c@shorteditor=\count414
-\c@savedshorteditor=\count415
-\c@labelname=\count416
-\c@savedlabelname=\count417
-\c@institution=\count418
-\c@savedinstitution=\count419
-\c@lista=\count420
-\c@savedlista=\count421
-\c@listb=\count422
-\c@savedlistb=\count423
-\c@listc=\count424
-\c@savedlistc=\count425
-\c@listd=\count426
-\c@savedlistd=\count427
-\c@liste=\count428
-\c@savedliste=\count429
-\c@listf=\count430
-\c@savedlistf=\count431
-\c@location=\count432
-\c@savedlocation=\count433
-\c@organization=\count434
-\c@savedorganization=\count435
-\c@origlocation=\count436
-\c@savedoriglocation=\count437
-\c@origpublisher=\count438
-\c@savedorigpublisher=\count439
-\c@publisher=\count440
-\c@savedpublisher=\count441
-\c@language=\count442
-\c@savedlanguage=\count443
-\c@origlanguage=\count444
-\c@savedoriglanguage=\count445
-\c@pageref=\count446
-\c@savedpageref=\count447
+\c@afterword=\count382
+\c@savedafterword=\count383
+\c@annotator=\count384
+\c@savedannotator=\count385
+\c@author=\count386
+\c@savedauthor=\count387
+\c@bookauthor=\count388
+\c@savedbookauthor=\count389
+\c@commentator=\count390
+\c@savedcommentator=\count391
+\c@editor=\count392
+\c@savededitor=\count393
+\c@editora=\count394
+\c@savededitora=\count395
+\c@editorb=\count396
+\c@savededitorb=\count397
+\c@editorc=\count398
+\c@savededitorc=\count399
+\c@foreword=\count400
+\c@savedforeword=\count401
+\c@holder=\count402
+\c@savedholder=\count403
+\c@introduction=\count404
+\c@savedintroduction=\count405
+\c@namea=\count406
+\c@savednamea=\count407
+\c@nameb=\count408
+\c@savednameb=\count409
+\c@namec=\count410
+\c@savednamec=\count411
+\c@translator=\count412
+\c@savedtranslator=\count413
+\c@shortauthor=\count414
+\c@savedshortauthor=\count415
+\c@shorteditor=\count416
+\c@savedshorteditor=\count417
+\c@labelname=\count418
+\c@savedlabelname=\count419
+\c@institution=\count420
+\c@savedinstitution=\count421
+\c@lista=\count422
+\c@savedlista=\count423
+\c@listb=\count424
+\c@savedlistb=\count425
+\c@listc=\count426
+\c@savedlistc=\count427
+\c@listd=\count428
+\c@savedlistd=\count429
+\c@liste=\count430
+\c@savedliste=\count431
+\c@listf=\count432
+\c@savedlistf=\count433
+\c@location=\count434
+\c@savedlocation=\count435
+\c@organization=\count436
+\c@savedorganization=\count437
+\c@origlocation=\count438
+\c@savedoriglocation=\count439
+\c@origpublisher=\count440
+\c@savedorigpublisher=\count441
+\c@publisher=\count442
+\c@savedpublisher=\count443
+\c@language=\count444
+\c@savedlanguage=\count445
+\c@origlanguage=\count446
+\c@savedoriglanguage=\count447
+\c@pageref=\count448
+\c@savedpageref=\count449
 \shorthandwidth=\skip73
 \shortjournalwidth=\skip74
 \shortserieswidth=\skip75
@@ -728,17 +701,14 @@ Package biblatex Info: ... file 'biblatex-dm.cfg' not found.
 \localshorttitlewidth=\skip84
 \localshortauthorwidth=\skip85
 \localshorteditorwidth=\skip86
-Package biblatex Info: Trying to load enhanced support for Unicode engines...
-Package biblatex Info: ... file 'blx-unicode.def' found.
- ("c:/Program Files/texlive/2023/texmf-dist/tex/latex/biblatex/blx-unicode.def")
 Package biblatex Info: Trying to load compatibility code...
 Package biblatex Info: ... file 'blx-compat.def' found.
- ("c:/Program Files/texlive/2023/texmf-dist/tex/latex/biblatex/blx-compat.def"
+ (d:/Programmi/texlive/2023/texmf-dist/tex/latex/biblatex/blx-compat.def
 File: blx-compat.def 2023/03/05 v3.19 biblatex compatibility (PK/MW)
 )
 Package biblatex Info: Trying to load BibTeX backend compatibility...
 Package biblatex Info: ... file 'blx-bibtex.def' found.
- ("c:/Program Files/texlive/2023/texmf-dist/tex/latex/biblatex/blx-bibtex.def"
+ (d:/Programmi/texlive/2023/texmf-dist/tex/latex/biblatex/blx-bibtex.def
 File: blx-bibtex.def 2023/03/05 v3.19 biblatex compatibility (PK/MW)
 
 
@@ -748,53 +718,53 @@ Package biblatex Warning: Using fall-back bibtex backend:
 )
 Package biblatex Info: Trying to load generic definitions...
 Package biblatex Info: ... file 'biblatex.def' found.
- ("c:/Program Files/texlive/2023/texmf-dist/tex/latex/biblatex/biblatex.def"
+ (d:/Programmi/texlive/2023/texmf-dist/tex/latex/biblatex/biblatex.def
 File: biblatex.def 2023/03/05 v3.19 biblatex compatibility (PK/MW)
-\c@textcitecount=\count448
-\c@textcitetotal=\count449
-\c@textcitemaxnames=\count450
-\c@biburlbigbreakpenalty=\count451
-\c@biburlbreakpenalty=\count452
-\c@biburlnumpenalty=\count453
-\c@biburlucpenalty=\count454
-\c@biburllcpenalty=\count455
+\c@textcitecount=\count450
+\c@textcitetotal=\count451
+\c@textcitemaxnames=\count452
+\c@biburlbigbreakpenalty=\count453
+\c@biburlbreakpenalty=\count454
+\c@biburlnumpenalty=\count455
+\c@biburlucpenalty=\count456
+\c@biburllcpenalty=\count457
 \biburlbigskip=\muskip18
 \biburlnumskip=\muskip19
 \biburlucskip=\muskip20
 \biburllcskip=\muskip21
-\c@smartand=\count456
+\c@smartand=\count458
 )
 Package biblatex Info: Trying to load bibliography style 'ieee'...
 Package biblatex Info: ... file 'ieee.bbx' found.
- ("c:/Program Files/texlive/2023/texmf-dist/tex/latex/biblatex-ieee/ieee.bbx"
+ (d:/Programmi/texlive/2023/texmf-dist/tex/latex/biblatex-ieee/ieee.bbx
 File: ieee.bbx 2021/12/06 v1.3f biblatex bibliography style
 Package biblatex Info: Trying to load bibliography style 'numeric-comp'...
 Package biblatex Info: ... file 'numeric-comp.bbx' found.
- ("c:/Program Files/texlive/2023/texmf-dist/tex/latex/biblatex/bbx/numeric-comp.bbx"
+ (d:/Programmi/texlive/2023/texmf-dist/tex/latex/biblatex/bbx/numeric-comp.bbx
 File: numeric-comp.bbx 2023/03/05 v3.19 biblatex bibliography style (PK/MW)
 Package biblatex Info: Trying to load bibliography style 'numeric'...
 Package biblatex Info: ... file 'numeric.bbx' found.
- ("c:/Program Files/texlive/2023/texmf-dist/tex/latex/biblatex/bbx/numeric.bbx"
+ (d:/Programmi/texlive/2023/texmf-dist/tex/latex/biblatex/bbx/numeric.bbx
 File: numeric.bbx 2023/03/05 v3.19 biblatex bibliography style (PK/MW)
 Package biblatex Info: Trying to load bibliography style 'standard'...
 Package biblatex Info: ... file 'standard.bbx' found.
- ("c:/Program Files/texlive/2023/texmf-dist/tex/latex/biblatex/bbx/standard.bbx"
+ (d:/Programmi/texlive/2023/texmf-dist/tex/latex/biblatex/bbx/standard.bbx
 File: standard.bbx 2023/03/05 v3.19 biblatex bibliography style (PK/MW)
-\c@bbx:relatedcount=\count457
-\c@bbx:relatedtotal=\count458
+\c@bbx:relatedcount=\count459
+\c@bbx:relatedtotal=\count460
 ))))
 Package biblatex Info: Trying to load citation style 'ieee'...
 Package biblatex Info: ... file 'ieee.cbx' found.
- ("c:/Program Files/texlive/2023/texmf-dist/tex/latex/biblatex-ieee/ieee.cbx"
+ (d:/Programmi/texlive/2023/texmf-dist/tex/latex/biblatex-ieee/ieee.cbx
 File: ieee.cbx 2021/12/06 v1.3f biblatex citation style
 Package biblatex Info: Trying to load citation style 'numeric-comp'...
 Package biblatex Info: ... file 'numeric-comp.cbx' found.
- ("c:/Program Files/texlive/2023/texmf-dist/tex/latex/biblatex/cbx/numeric-comp.cbx"
+ (d:/Programmi/texlive/2023/texmf-dist/tex/latex/biblatex/cbx/numeric-comp.cbx
 File: numeric-comp.cbx 2023/03/05 v3.19 biblatex citation style (PK/MW)
-\c@cbx@tempcnta=\count459
-\c@cbx@tempcntb=\count460
-\c@cbx@tempcntc=\count461
-\c@cbx@tempcntd=\count462
+\c@cbx@tempcnta=\count461
+\c@cbx@tempcntb=\count462
+\c@cbx@tempcntc=\count463
+\c@cbx@tempcntd=\count464
 Package biblatex Info: Redefining '\cite'.
 Package biblatex Info: Redefining '\parencite'.
 Package biblatex Info: Redefining '\footcite'.
@@ -813,100 +783,98 @@ Package biblatex Info: Redefining '\cites'.
 )
 Package biblatex Info: Trying to load configuration file...
 Package biblatex Info: ... file 'biblatex.cfg' found.
- ("c:/Program Files/texlive/2023/texmf-dist/tex/latex/biblatex/biblatex.cfg"
+ (d:/Programmi/texlive/2023/texmf-dist/tex/latex/biblatex/biblatex.cfg
 File: biblatex.cfg 
 )
-Package biblatex Info: LuaTeX detected.
-(biblatex)             Assuming input encoding 'utf8'.
+Package biblatex Info: Input encoding 'utf8' detected.
 Package biblatex Info: Document encoding is UTF8 ....
- ("c:/Program Files/texlive/2023/texmf-dist/tex/latex/l3kernel/expl3.sty"
+ (d:/Programmi/texlive/2023/texmf-dist/tex/latex/l3kernel/expl3.sty
 Package: expl3 2023-08-29 L3 programming layer (loader) 
- ("c:/Program Files/texlive/2023/texmf-dist/tex/latex/l3backend/l3backend-luatex.def"
-File: l3backend-luatex.def 2023-04-19 L3 backend support: PDF output (LuaTeX)
-\l__color_backend_stack_int=\count463
-Inserting `l3color' in `luaotfload.parse_color'.
+ (d:/Programmi/texlive/2023/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
+File: l3backend-pdftex.def 2023-04-19 L3 backend support: PDF output (pdfTeX)
+\l__color_backend_stack_int=\count465
 \l__pdf_internal_box=\box78
 ))
 Package biblatex Info: ... and expl3
 (biblatex)             2023-08-29 L3 programming layer (loader) 
 (biblatex)             is new enough (at least 2020/04/06),
 (biblatex)             setting 'casechanger=expl3'.
- ("c:/Program Files/texlive/2023/texmf-dist/tex/latex/biblatex/blx-case-expl3.sty" ("c:/Program Files/texlive/2023/texmf-dist/tex/latex/l3packages/xparse/xparse.sty"
+ (d:/Programmi/texlive/2023/texmf-dist/tex/latex/biblatex/blx-case-expl3.sty (d:/Programmi/texlive/2023/texmf-dist/tex/latex/l3packages/xparse/xparse.sty
 Package: xparse 2023-08-29 L3 Experimental document command parser
 )
 Package: blx-case-expl3 2023/03/05 v3.19 expl3 case changing code for biblatex
-)) (./beamerthemeUnipd.sty ("c:/Program Files/texlive/2023/texmf-dist/tex/latex/textpos/textpos.sty"
+)) (./beamerthemeUnipd.sty (d:/Programmi/texlive/2023/texmf-dist/tex/latex/textpos/textpos.sty
 Package: textpos 2022/07/23 v1.10.1
 Package textpos Info: choosing support for LaTeX3 on input line 60.
 \TP@textbox=\box79
-\TPHorizModule=\dimen293
-\TPVertModule=\dimen294
-\TP@margin=\dimen295
-\TP@absmargin=\dimen296
+\TPHorizModule=\dimen294
+\TPVertModule=\dimen295
+\TP@margin=\dimen296
+\TP@absmargin=\dimen297
 
 Grid set 16 x 16 = 22.7622pt x 17.07166pt
-\TPboxrulesize=\dimen297
-\TP@tbargs=\toks49
-) ("c:/Program Files/texlive/2023/texmf-dist/tex/latex/pgf/frontendlayer/tikz.sty" ("c:/Program Files/texlive/2023/texmf-dist/tex/latex/pgf/basiclayer/pgf.sty"
+\TPboxrulesize=\dimen298
+\TP@tbargs=\toks48
+) (d:/Programmi/texlive/2023/texmf-dist/tex/latex/pgf/frontendlayer/tikz.sty (d:/Programmi/texlive/2023/texmf-dist/tex/latex/pgf/basiclayer/pgf.sty
 Package: pgf 2023-01-15 v3.1.10 (3.1.10)
- ("c:/Program Files/texlive/2023/texmf-dist/tex/generic/pgf/modules/pgfmoduleshapes.code.tex"
+ (d:/Programmi/texlive/2023/texmf-dist/tex/generic/pgf/modules/pgfmoduleshapes.code.tex
 File: pgfmoduleshapes.code.tex 2023-01-15 v3.1.10 (3.1.10)
 \pgfnodeparttextbox=\box80
-) ("c:/Program Files/texlive/2023/texmf-dist/tex/generic/pgf/modules/pgfmoduleplot.code.tex"
+) (d:/Programmi/texlive/2023/texmf-dist/tex/generic/pgf/modules/pgfmoduleplot.code.tex
 File: pgfmoduleplot.code.tex 2023-01-15 v3.1.10 (3.1.10)
-) ("c:/Program Files/texlive/2023/texmf-dist/tex/latex/pgf/compatibility/pgfcomp-version-0-65.sty"
+) (d:/Programmi/texlive/2023/texmf-dist/tex/latex/pgf/compatibility/pgfcomp-version-0-65.sty
 Package: pgfcomp-version-0-65 2023-01-15 v3.1.10 (3.1.10)
-\pgf@nodesepstart=\dimen298
-\pgf@nodesepend=\dimen299
-) ("c:/Program Files/texlive/2023/texmf-dist/tex/latex/pgf/compatibility/pgfcomp-version-1-18.sty"
+\pgf@nodesepstart=\dimen299
+\pgf@nodesepend=\dimen300
+) (d:/Programmi/texlive/2023/texmf-dist/tex/latex/pgf/compatibility/pgfcomp-version-1-18.sty
 Package: pgfcomp-version-1-18 2023-01-15 v3.1.10 (3.1.10)
-)) ("c:/Program Files/texlive/2023/texmf-dist/tex/latex/pgf/utilities/pgffor.sty" ("c:/Program Files/texlive/2023/texmf-dist/tex/generic/pgf/utilities/pgffor.code.tex"
+)) (d:/Programmi/texlive/2023/texmf-dist/tex/latex/pgf/utilities/pgffor.sty (d:/Programmi/texlive/2023/texmf-dist/tex/generic/pgf/utilities/pgffor.code.tex
 Package: pgffor 2023-01-15 v3.1.10 (3.1.10)
-\pgffor@iter=\dimen300
-\pgffor@skip=\dimen301
-\pgffor@stack=\toks50
-\pgffor@toks=\toks51
-)) ("c:/Program Files/texlive/2023/texmf-dist/tex/generic/pgf/frontendlayer/tikz/tikz.code.tex"
+\pgffor@iter=\dimen301
+\pgffor@skip=\dimen302
+\pgffor@stack=\toks49
+\pgffor@toks=\toks50
+)) (d:/Programmi/texlive/2023/texmf-dist/tex/generic/pgf/frontendlayer/tikz/tikz.code.tex
 Package: tikz 2023-01-15 v3.1.10 (3.1.10)
- ("c:/Program Files/texlive/2023/texmf-dist/tex/generic/pgf/libraries/pgflibraryplothandlers.code.tex"
+ (d:/Programmi/texlive/2023/texmf-dist/tex/generic/pgf/libraries/pgflibraryplothandlers.code.tex
 File: pgflibraryplothandlers.code.tex 2023-01-15 v3.1.10 (3.1.10)
-\pgf@plot@mark@count=\count464
-\pgfplotmarksize=\dimen302
+\pgf@plot@mark@count=\count466
+\pgfplotmarksize=\dimen303
 )
-\tikz@lastx=\dimen303
-\tikz@lasty=\dimen304
-\tikz@lastxsaved=\dimen305
-\tikz@lastysaved=\dimen306
-\tikz@lastmovetox=\dimen307
-\tikz@lastmovetoy=\dimen308
-\tikzleveldistance=\dimen309
-\tikzsiblingdistance=\dimen310
+\tikz@lastx=\dimen304
+\tikz@lasty=\dimen305
+\tikz@lastxsaved=\dimen306
+\tikz@lastysaved=\dimen307
+\tikz@lastmovetox=\dimen308
+\tikz@lastmovetoy=\dimen309
+\tikzleveldistance=\dimen310
+\tikzsiblingdistance=\dimen311
 \tikz@figbox=\box81
 \tikz@figbox@bg=\box82
 \tikz@tempbox=\box83
 \tikz@tempbox@bg=\box84
-\tikztreelevel=\count465
-\tikznumberofchildren=\count466
-\tikznumberofcurrentchild=\count467
-\tikz@fig@count=\count468
- ("c:/Program Files/texlive/2023/texmf-dist/tex/generic/pgf/modules/pgfmodulematrix.code.tex"
+\tikztreelevel=\count467
+\tikznumberofchildren=\count468
+\tikznumberofcurrentchild=\count469
+\tikz@fig@count=\count470
+ (d:/Programmi/texlive/2023/texmf-dist/tex/generic/pgf/modules/pgfmodulematrix.code.tex
 File: pgfmodulematrix.code.tex 2023-01-15 v3.1.10 (3.1.10)
-\pgfmatrixcurrentrow=\count469
-\pgfmatrixcurrentcolumn=\count470
-\pgf@matrix@numberofcolumns=\count471
+\pgfmatrixcurrentrow=\count471
+\pgfmatrixcurrentcolumn=\count472
+\pgf@matrix@numberofcolumns=\count473
 )
-\tikz@expandcount=\count472
- ("c:/Program Files/texlive/2023/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibrarytopaths.code.tex"
+\tikz@expandcount=\count474
+ (d:/Programmi/texlive/2023/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibrarytopaths.code.tex
 File: tikzlibrarytopaths.code.tex 2023-01-15 v3.1.10 (3.1.10)
-))) ("c:/Program Files/texlive/2023/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibrarybackgrounds.code.tex"
+))) (d:/Programmi/texlive/2023/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibrarybackgrounds.code.tex
 File: tikzlibrarybackgrounds.code.tex 2023-01-15 v3.1.10 (3.1.10)
 \pgf@layerbox@background=\box85
 \pgf@layerboxsaved@background=\box86
 ) (./beamerouterthemeUnipd.sty) (./beamerinnerthemeUnipd.sty) (./beamercolorthemeUnipd.sty) (./beamerfontthemeUnipd.sty))
-\@quotelevel=\count473
-\@quotereset=\count474
+\@quotelevel=\count475
+\@quotereset=\count476
  (./main.aux)
-\openout1 = main.aux
+\openout1 = `main.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 30.
 LaTeX Font Info:    ... okay on input line 30.
@@ -917,12 +885,6 @@ LaTeX Font Info:    ... okay on input line 30.
 LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 30.
 LaTeX Font Info:    ... okay on input line 30.
 LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 30.
-LaTeX Font Info:    Trying to load font information for TS1+cmr on input line 30.
- ("c:/Program Files/texlive/2023/texmf-dist/tex/latex/base/ts1cmr.fd"
-File: ts1cmr.fd 2023/04/13 v2.5m Standard LaTeX font definitions
-)
-LaTeX Font Info:    ... okay on input line 30.
-LaTeX Font Info:    Checking defaults for TU/lmr/m/n on input line 30.
 LaTeX Font Info:    ... okay on input line 30.
 LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 30.
 LaTeX Font Info:    ... okay on input line 30.
@@ -934,9 +896,9 @@ LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 30.
 LaTeX Font Info:    ... okay on input line 30.
 
 *geometry* driver: auto-detecting
-*geometry* detected driver: luatex
+*geometry* detected driver: pdftex
 *geometry* verbose mode - [ preamble ] result:
-* driver: luatex
+* driver: pdftex
 * paper: custom
 * layout: <same size as paper>
 * layoutoffset:(h,v)=(0.0pt,0.0pt)
@@ -967,30 +929,30 @@ LaTeX Font Info:    ... okay on input line 30.
 * \@reversemarginfalse
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
-("c:/Program Files/texlive/2023/texmf-dist/tex/context/base/mkii/supp-pdf.mkii"
+(d:/Programmi/texlive/2023/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count475
-\scratchdimen=\dimen311
+\scratchcounter=\count477
+\scratchdimen=\dimen312
 \scratchbox=\box87
-\nofMPsegments=\count476
-\nofMParguments=\count477
-\everyMPshowfont=\toks52
-\MPscratchCnt=\count478
-\MPscratchDim=\dimen312
-\MPnumerator=\count479
-\makeMPintoPDFobject=\count480
-\everyMPtoPDFconversion=\toks53
-) ("c:/Program Files/texlive/2023/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty"
+\nofMPsegments=\count478
+\nofMParguments=\count479
+\everyMPshowfont=\toks51
+\MPscratchCnt=\count480
+\MPscratchDim=\dimen313
+\MPnumerator=\count481
+\makeMPintoPDFobject=\count482
+\everyMPtoPDFconversion=\toks52
+) (d:/Programmi/texlive/2023/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty
 Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
 Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 485.
- ("c:/Program Files/texlive/2023/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg"
+ (d:/Programmi/texlive/2023/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
 File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Live
 ))
 Package hyperref Info: Link coloring OFF on input line 30.
  (./main.out) (./main.out)
 \@outlinefile=\write6
+\openout6 = `main.out'.
 
-\openout6 = main.out
 LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
 (Font)                  OT1/cmr/m/n --> OT1/cmss/m/n on input line 30.
 LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
@@ -998,69 +960,74 @@ LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
 \symnumbers=\mathgroup6
 \sympureletters=\mathgroup7
 LaTeX Font Info:    Overwriting math alphabet `\mathrm' in version `normal'
-(Font)                  OT1/cmss/m/n --> TU/lmr/m/n on input line 30.
+(Font)                  OT1/cmss/m/n --> OT1/cmr/m/n on input line 30.
 LaTeX Font Info:    Redeclaring math alphabet \mathbf on input line 30.
 LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `normal'
-(Font)                  OT1/cmr/bx/n --> TU/lmss/b/n on input line 30.
+(Font)                  OT1/cmr/bx/n --> OT1/cmss/b/n on input line 30.
 LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `bold'
-(Font)                  OT1/cmr/bx/n --> TU/lmss/b/n on input line 30.
+(Font)                  OT1/cmr/bx/n --> OT1/cmss/b/n on input line 30.
 LaTeX Font Info:    Redeclaring math alphabet \mathsf on input line 30.
 LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `normal'
-(Font)                  OT1/cmss/m/n --> TU/lmss/m/n on input line 30.
+(Font)                  OT1/cmss/m/n --> OT1/cmss/m/n on input line 30.
 LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
-(Font)                  OT1/cmss/bx/n --> TU/lmss/m/n on input line 30.
+(Font)                  OT1/cmss/bx/n --> OT1/cmss/m/n on input line 30.
 LaTeX Font Info:    Redeclaring math alphabet \mathit on input line 30.
 LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `normal'
-(Font)                  OT1/cmr/m/it --> TU/lmss/m/it on input line 30.
+(Font)                  OT1/cmr/m/it --> OT1/cmss/m/it on input line 30.
 LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
-(Font)                  OT1/cmr/bx/it --> TU/lmss/m/it on input line 30.
+(Font)                  OT1/cmr/bx/it --> OT1/cmss/m/it on input line 30.
 LaTeX Font Info:    Redeclaring math alphabet \mathtt on input line 30.
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `normal'
-(Font)                  OT1/cmtt/m/n --> TU/lmtt/m/n on input line 30.
+(Font)                  OT1/cmtt/m/n --> OT1/cmtt/m/n on input line 30.
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
-(Font)                  OT1/cmtt/m/n --> TU/lmtt/m/n on input line 30.
+(Font)                  OT1/cmtt/m/n --> OT1/cmtt/m/n on input line 30.
 LaTeX Font Info:    Overwriting symbol font `numbers' in version `bold'
-(Font)                  TU/lmss/m/n --> TU/lmss/b/n on input line 30.
+(Font)                  OT1/cmss/m/n --> OT1/cmss/b/n on input line 30.
 LaTeX Font Info:    Overwriting symbol font `pureletters' in version `bold'
-(Font)                  TU/lmss/m/it --> TU/lmss/b/it on input line 30.
+(Font)                  OT1/cmss/m/it --> OT1/cmss/b/it on input line 30.
 LaTeX Font Info:    Overwriting math alphabet `\mathrm' in version `bold'
-(Font)                  OT1/cmss/b/n --> TU/lmr/b/n on input line 30.
+(Font)                  OT1/cmss/b/n --> OT1/cmr/b/n on input line 30.
 LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `bold'
-(Font)                  TU/lmss/b/n --> TU/lmss/b/n on input line 30.
+(Font)                  OT1/cmss/b/n --> OT1/cmss/b/n on input line 30.
 LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
-(Font)                  TU/lmss/m/n --> TU/lmss/b/n on input line 30.
+(Font)                  OT1/cmss/m/n --> OT1/cmss/b/n on input line 30.
 LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
-(Font)                  TU/lmss/m/it --> TU/lmss/b/it on input line 30.
+(Font)                  OT1/cmss/m/it --> OT1/cmss/b/it on input line 30.
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
-(Font)                  TU/lmtt/m/n --> TU/lmtt/b/n on input line 30.
- ("c:/Program Files/texlive/2023/texmf-dist/tex/latex/translator/translator-basic-dictionary-English.dict"
+(Font)                  OT1/cmtt/m/n --> OT1/cmtt/b/n on input line 30.
+LaTeX Font Info:    Redeclaring symbol font `pureletters' on input line 30.
+LaTeX Font Info:    Overwriting symbol font `pureletters' in version `normal'
+(Font)                  OT1/cmss/m/it --> OT1/mathkerncmss/m/sl on input line 30.
+LaTeX Font Info:    Overwriting symbol font `pureletters' in version `bold'
+(Font)                  OT1/cmss/b/it --> OT1/mathkerncmss/m/sl on input line 30.
+LaTeX Font Info:    Overwriting symbol font `pureletters' in version `bold'
+(Font)                  OT1/mathkerncmss/m/sl --> OT1/mathkerncmss/bx/sl on input line 30.
+ (d:/Programmi/texlive/2023/texmf-dist/tex/latex/translator/translator-basic-dictionary-English.dict
 Dictionary: translator-basic-dictionary, Language: English 
-) ("c:/Program Files/texlive/2023/texmf-dist/tex/latex/translator/translator-bibliography-dictionary-English.dict"
+) (d:/Programmi/texlive/2023/texmf-dist/tex/latex/translator/translator-bibliography-dictionary-English.dict
 Dictionary: translator-bibliography-dictionary, Language: English 
-) ("c:/Program Files/texlive/2023/texmf-dist/tex/latex/translator/translator-environment-dictionary-English.dict"
+) (d:/Programmi/texlive/2023/texmf-dist/tex/latex/translator/translator-environment-dictionary-English.dict
 Dictionary: translator-environment-dictionary, Language: English 
-) ("c:/Program Files/texlive/2023/texmf-dist/tex/latex/translator/translator-months-dictionary-English.dict"
+) (d:/Programmi/texlive/2023/texmf-dist/tex/latex/translator/translator-months-dictionary-English.dict
 Dictionary: translator-months-dictionary, Language: English 
-) ("c:/Program Files/texlive/2023/texmf-dist/tex/latex/translator/translator-numbers-dictionary-English.dict"
+) (d:/Programmi/texlive/2023/texmf-dist/tex/latex/translator/translator-numbers-dictionary-English.dict
 Dictionary: translator-numbers-dictionary, Language: English 
-) ("c:/Program Files/texlive/2023/texmf-dist/tex/latex/translator/translator-theorem-dictionary-English.dict"
+) (d:/Programmi/texlive/2023/texmf-dist/tex/latex/translator/translator-theorem-dictionary-English.dict
 Dictionary: translator-theorem-dictionary, Language: English 
 )
 Package biblatex Info: Trying to load language 'english'...
 Package biblatex Info: ... file 'english.lbx' found.
- ("c:/Program Files/texlive/2023/texmf-dist/tex/latex/biblatex/lbx/english.lbx"
+ (d:/Programmi/texlive/2023/texmf-dist/tex/latex/biblatex/lbx/english.lbx
 File: english.lbx 2023/03/05 v3.19 biblatex localization (PK/MW)
 )
-Package biblatex Info: LuaTeX detected.
-(biblatex)             Assuming input encoding 'utf8'.
+Package biblatex Info: Input encoding 'utf8' detected.
 Package biblatex Info: Automatic encoding selection.
 (biblatex)             Assuming data encoding 'utf8'.
-Package biblatex Info: LuaTeX detected.
-(biblatex)             Assuming input encoding 'utf8'.
+Package biblatex Info: Input encoding 'utf8' detected.
 Package biblatex Info: Data encoding 'utf8' specified.
 (biblatex)             No need to reencode data.
+\openout5 = `main-blx.bib'.
 
-\openout5 = main-blx.bib
 Package biblatex Info: Trying to load bibliographic data...
 Package biblatex Info: ... file 'main.bbl' found.
  (./main.bbl)
@@ -1070,273 +1037,268 @@ Package biblatex Info: Reference segment=0 on input line 30.
 <unipd_logo.png, id=33, 562.1pt x 251.339pt>
 File: unipd_logo.png Graphic file (type png)
 <use unipd_logo.png>
-Package luatex.def Info: unipd_logo.png  used on input line 33.
-(luatex.def)             Requested size: 122.16998pt x 54.62848pt.
+Package pdftex.def Info: unipd_logo.png  used on input line 33.
+(pdftex.def)             Requested size: 122.16998pt x 54.62848pt.
 LaTeX Font Info:    Trying to load font information for U+msa on input line 33.
- ("c:/Program Files/texlive/2023/texmf-dist/tex/latex/amsfonts/umsa.fd"
+ (d:/Programmi/texlive/2023/texmf-dist/tex/latex/amsfonts/umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
 LaTeX Font Info:    Trying to load font information for U+msb on input line 33.
- ("c:/Program Files/texlive/2023/texmf-dist/tex/latex/amsfonts/umsb.fd"
+ (d:/Programmi/texlive/2023/texmf-dist/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )
-LaTeX Font Info:    Font shape `TU/lmss/m/it' in size <10.95> not available
-(Font)              Font shape `TU/lmss/m/sl' tried instead on input line 33.
-LaTeX Font Info:    Font shape `TU/lmss/m/it' in size <8> not available
-(Font)              Font shape `TU/lmss/m/sl' tried instead on input line 33.
-LaTeX Font Info:    Font shape `TU/lmss/m/it' in size <6> not available
-(Font)              Font shape `TU/lmss/m/sl' tried instead on input line 33.
-<dei_logo.png, id=34, 351.714pt x 225.9642pt>
+LaTeX Font Info:    Trying to load font information for OT1+mathkerncmss on input line 33.
+ (d:/Programmi/texlive/2023/texmf-dist/tex/latex/sansmathaccent/ot1mathkerncmss.fd
+File: ot1mathkerncmss.fd 2020/01/31 Fontinst v1.933 font definitions for OT1/mathkerncmss.
+)
+<dei_logo.png, id=35, 351.714pt x 225.9642pt>
 File: dei_logo.png Graphic file (type png)
 <use dei_logo.png>
-Package luatex.def Info: dei_logo.png  used on input line 33.
-(luatex.def)             Requested size: 85.03026pt x 54.62848pt.
+Package pdftex.def Info: dei_logo.png  used on input line 33.
+(pdftex.def)             Requested size: 85.03026pt x 54.62848pt.
  [1
 
-{c:/Program Files/texlive/2023/texmf-var/fonts/map/pdftex/updmap/pdftex.map}<./unipd_logo.png><./dei_logo.png>] (./main.toc)
-LaTeX Font Info:    Font shape `TU/lmss/m/it' in size <17.28> not available
-(Font)              Font shape `TU/lmss/m/sl' tried instead on input line 38.
-LaTeX Font Info:    Font shape `TU/lmss/m/it' in size <12> not available
-(Font)              Font shape `TU/lmss/m/sl' tried instead on input line 38.
-LaTeX Font Info:    Font shape `TU/lmss/m/it' in size <10> not available
-(Font)              Font shape `TU/lmss/m/sl' tried instead on input line 38.
+{d:/Programmi/texlive/2023/texmf-var/fonts/map/pdftex/updmap/pdftex.map} <./unipd_logo.png> <./dei_logo.png>] (./main.toc)
 File: unipd_logo.png Graphic file (type png)
 <use unipd_logo.png>
-Package luatex.def Info: unipd_logo.png  used on input line 38.
-(luatex.def)             Requested size: 74.94533pt x 33.51454pt.
+Package pdftex.def Info: unipd_logo.png  used on input line 38.
+(pdftex.def)             Requested size: 74.85956pt x 33.47499pt.
  [2
 
 ] (./capitoli/compressione.tex
 <Immagini/LossyCompressorDiagram.png, id=66, 763.85374pt x 282.05376pt>
 File: Immagini/LossyCompressorDiagram.png Graphic file (type png)
 <use Immagini/LossyCompressorDiagram.png>
-Package luatex.def Info: Immagini/LossyCompressorDiagram.png  used on input line 11.
-(luatex.def)             Requested size: 245.83282pt x 90.77118pt.
-LaTeX Font Info:    Font shape `TU/lmss/m/it' in size <7> not available
-(Font)              Font shape `TU/lmss/m/sl' tried instead on input line 11.
-LaTeX Font Info:    Font shape `TU/lmss/m/it' in size <5> not available
-(Font)              Font shape `TU/lmss/m/sl' tried instead on input line 11.
+Package pdftex.def Info: Immagini/LossyCompressorDiagram.png  used on input line 11.
+(pdftex.def)             Requested size: 245.83282pt x 90.77118pt.
 File: unipd_logo.png Graphic file (type png)
 <use unipd_logo.png>
-Package luatex.def Info: unipd_logo.png  used on input line 11.
-(luatex.def)             Requested size: 74.94533pt x 33.51454pt.
+Package pdftex.def Info: unipd_logo.png  used on input line 11.
+(pdftex.def)             Requested size: 74.85956pt x 33.47499pt.
  [3
 
-<./Immagini/LossyCompressorDiagram.png>]) (./capitoli/metodiTradizionali.tex
+ <./Immagini/LossyCompressorDiagram.png>]) (./capitoli/metodiTradizionali.tex
 
-LaTeX Font Warning: Font shape `TU/lmss/m/sc' in size <6> not available
-(Font)              Font shape `TU/lmr/m/sc' tried instead on input line 15.
+LaTeX Font Warning: Font shape `OT1/cmss/m/sc' in size <6> not available
+(Font)              Font shape `OT1/cmr/m/sc' tried instead on input line 15.
 
 File: unipd_logo.png Graphic file (type png)
 <use unipd_logo.png>
-Package luatex.def Info: unipd_logo.png  used on input line 15.
-(luatex.def)             Requested size: 74.94533pt x 33.51454pt.
+Package pdftex.def Info: unipd_logo.png  used on input line 15.
+(pdftex.def)             Requested size: 74.85956pt x 33.47499pt.
 [4
 
 ]) (./capitoli/metodiIntelligenti.tex
-<Immagini/Autoencoder_scheme.png, id=91, 672.5125pt x 782.925pt>
+<Immagini/Autoencoder_scheme.png, id=89, 672.5125pt x 782.925pt>
 File: Immagini/Autoencoder_scheme.png Graphic file (type png)
 <use Immagini/Autoencoder_scheme.png>
-Package luatex.def Info: Immagini/Autoencoder_scheme.png  used on input line 11.
-(luatex.def)             Requested size: 130.24431pt x 151.62444pt.
+Package pdftex.def Info: Immagini/Autoencoder_scheme.png  used on input line 11.
+(pdftex.def)             Requested size: 130.23999pt x 151.62444pt.
 File: unipd_logo.png Graphic file (type png)
 <use unipd_logo.png>
-Package luatex.def Info: unipd_logo.png  used on input line 11.
-(luatex.def)             Requested size: 74.94533pt x 33.51454pt.
+Package pdftex.def Info: unipd_logo.png  used on input line 11.
+(pdftex.def)             Requested size: 74.85956pt x 33.47499pt.
  [5
 
-<./Immagini/Autoencoder_scheme.png>]
+ <./Immagini/Autoencoder_scheme.png>]
 File: unipd_logo.png Graphic file (type png)
 <use unipd_logo.png>
-Package luatex.def Info: unipd_logo.png  used on input line 23.
-(luatex.def)             Requested size: 74.94533pt x 33.51454pt.
+Package pdftex.def Info: unipd_logo.png  used on input line 23.
+(pdftex.def)             Requested size: 74.85956pt x 33.47499pt.
  [6
 
 ]
-<Immagini/Ballé2018_Rete.png, id=110, 289.08pt x 168.63pt>
+<Immagini/Ballé2018_Rete.png, id=106, 289.08pt x 168.63pt>
 File: Immagini/Ballé2018_Rete.png Graphic file (type png)
 <use Immagini/Ballé2018_Rete.png>
-Package luatex.def Info: Immagini/Ballé2018_Rete.png  used on input line 33.
-(luatex.def)             Requested size: 182.34123pt x 106.3661pt.
+Package pdftex.def Info: Immagini/Ballé2018_Rete.png  used on input line 33.
+(pdftex.def)             Requested size: 182.33519pt x 106.36096pt.
 File: unipd_logo.png Graphic file (type png)
 <use unipd_logo.png>
-Package luatex.def Info: unipd_logo.png  used on input line 33.
-(luatex.def)             Requested size: 74.94533pt x 33.51454pt.
+Package pdftex.def Info: unipd_logo.png  used on input line 33.
+(pdftex.def)             Requested size: 74.85956pt x 33.47499pt.
  [7
 
-<./Immagini/Ballé2018_Rete.png>]
-<Immagini/Cheng2020_Rete.png, id=121, 517.935pt x 156.585pt>
+ <./Immagini/Ballé2018_Rete.png>]
+<Immagini/Cheng2020_Rete.png, id=117, 517.935pt x 156.585pt>
 File: Immagini/Cheng2020_Rete.png Graphic file (type png)
 <use Immagini/Cheng2020_Rete.png>
-Package luatex.def Info: Immagini/Cheng2020_Rete.png  used on input line 43.
-(luatex.def)             Requested size: 307.28987pt x 92.9052pt.
+Package pdftex.def Info: Immagini/Cheng2020_Rete.png  used on input line 43.
+(pdftex.def)             Requested size: 307.28987pt x 92.9052pt.
 File: unipd_logo.png Graphic file (type png)
 <use unipd_logo.png>
-Package luatex.def Info: unipd_logo.png  used on input line 43.
-(luatex.def)             Requested size: 74.94533pt x 33.51454pt.
+Package pdftex.def Info: unipd_logo.png  used on input line 43.
+(pdftex.def)             Requested size: 74.85956pt x 33.47499pt.
  [8
 
-<./Immagini/Cheng2020_Rete.png>]
-<Immagini/Wang2022_Rete.png, id=132, 211.992pt x 168.63pt>
+ <./Immagini/Cheng2020_Rete.png>]
+<Immagini/Wang2022_Rete.png, id=127, 211.992pt x 168.63pt>
 File: Immagini/Wang2022_Rete.png Graphic file (type png)
 <use Immagini/Wang2022_Rete.png>
-Package luatex.def Info: Immagini/Wang2022_Rete.png  used on input line 53.
-(luatex.def)             Requested size: 156.29475pt x 124.3288pt.
+Package pdftex.def Info: Immagini/Wang2022_Rete.png  used on input line 53.
+(pdftex.def)             Requested size: 156.28958pt x 124.32365pt.
 File: unipd_logo.png Graphic file (type png)
 <use unipd_logo.png>
-Package luatex.def Info: unipd_logo.png  used on input line 53.
-(luatex.def)             Requested size: 74.94533pt x 33.51454pt.
+Package pdftex.def Info: unipd_logo.png  used on input line 53.
+(pdftex.def)             Requested size: 74.85956pt x 33.47499pt.
  [9
 
-<./Immagini/Wang2022_Rete.png>]) (./capitoli/valutazionePrestazioni.tex
-warning  (file Immagini/IMAGES/PNG_IMG0004.pdf) (pdf inclusion): PDF inclusion: found PDF version '1.6', but at most version '1.5' allowed
-<Immagini/IMAGES/PNG_IMG0004.pdf, id=143, 2055.68pt x 3083.52pt>
+ <./Immagini/Wang2022_Rete.png>]) (./capitoli/valutazionePrestazioni.tex
+
+pdfTeX warning: pdflatex.exe (file ./Immagini/IMAGES/PNG_IMG0004.pdf): PDF inclusion: found PDF version <1.6>, but at most version <1.5> allowed
+<Immagini/IMAGES/PNG_IMG0004.pdf, id=137, 2055.68pt x 3083.52pt>
 File: Immagini/IMAGES/PNG_IMG0004.pdf Graphic file (type pdf)
 <use Immagini/IMAGES/PNG_IMG0004.pdf>
-Package luatex.def Info: Immagini/IMAGES/PNG_IMG0004.pdf  used on input line 51.
-(luatex.def)             Requested size: 39.94917pt x 59.8955pt.
+Package pdftex.def Info: Immagini/IMAGES/PNG_IMG0004.pdf  used on input line 51.
+(pdftex.def)             Requested size: 39.94917pt x 59.8955pt.
 
-Overfull \hbox (3.34082pt too wide) in paragraph at lines 51--51
-\TU/lmss/m/n/10 11.117bpp  
+Overfull \hbox (3.3287pt too wide) in paragraph at lines 51--51
+\OT1/cmss/m/n/10 11.117bpp  
  []
 
 
-warning  (file Immagini/IMAGES/JPEG_1_IMG0004.pdf) (pdf inclusion): PDF inclusion: found PDF version '1.6', but at most version '1.5' allowed
-<Immagini/IMAGES/JPEG_1_IMG0004.pdf, id=144, 2055.68pt x 3083.52pt>
+
+pdfTeX warning: pdflatex.exe (file ./Immagini/IMAGES/JPEG_1_IMG0004.pdf): PDF inclusion: found PDF version <1.6>, but at most version <1.5> allowed
+<Immagini/IMAGES/JPEG_1_IMG0004.pdf, id=138, 2055.68pt x 3083.52pt>
 File: Immagini/IMAGES/JPEG_1_IMG0004.pdf Graphic file (type pdf)
 <use Immagini/IMAGES/JPEG_1_IMG0004.pdf>
-Package luatex.def Info: Immagini/IMAGES/JPEG_1_IMG0004.pdf  used on input line 51.
-(luatex.def)             Requested size: 39.94917pt x 59.8955pt.
+Package pdftex.def Info: Immagini/IMAGES/JPEG_1_IMG0004.pdf  used on input line 51.
+(pdftex.def)             Requested size: 39.94917pt x 59.8955pt.
 
-warning  (file Immagini/IMAGES/JPEG2000_1_IMG0004.pdf) (pdf inclusion): PDF inclusion: found PDF version '1.6', but at most version '1.5' allowed
-<Immagini/IMAGES/JPEG2000_1_IMG0004.pdf, id=145, 2055.68pt x 3083.52pt>
+
+pdfTeX warning: pdflatex.exe (file ./Immagini/IMAGES/JPEG2000_1_IMG0004.pdf): PDF inclusion: found PDF version <1.6>, but at most version <1.5> allowed
+<Immagini/IMAGES/JPEG2000_1_IMG0004.pdf, id=139, 2055.68pt x 3083.52pt>
 File: Immagini/IMAGES/JPEG2000_1_IMG0004.pdf Graphic file (type pdf)
 <use Immagini/IMAGES/JPEG2000_1_IMG0004.pdf>
-Package luatex.def Info: Immagini/IMAGES/JPEG2000_1_IMG0004.pdf  used on input line 51.
-(luatex.def)             Requested size: 39.94917pt x 59.8955pt.
+Package pdftex.def Info: Immagini/IMAGES/JPEG2000_1_IMG0004.pdf  used on input line 51.
+(pdftex.def)             Requested size: 39.94917pt x 59.8955pt.
 
-Overfull \hbox (3.80083pt too wide) in paragraph at lines 51--51
-\TU/lmss/m/n/10 JPEG2000 
+Overfull \hbox (3.80093pt too wide) in paragraph at lines 51--51
+\OT1/cmss/m/n/10 JPEG2000 
  []
 
 
-warning  (file Immagini/IMAGES/BPG_2_IMG0004.pdf) (pdf inclusion): PDF inclusion: found PDF version '1.6', but at most version '1.5' allowed
-<Immagini/IMAGES/BPG_2_IMG0004.pdf, id=146, 2055.68pt x 3083.52pt>
+
+pdfTeX warning: pdflatex.exe (file ./Immagini/IMAGES/BPG_2_IMG0004.pdf): PDF inclusion: found PDF version <1.6>, but at most version <1.5> allowed
+<Immagini/IMAGES/BPG_2_IMG0004.pdf, id=140, 2055.68pt x 3083.52pt>
 File: Immagini/IMAGES/BPG_2_IMG0004.pdf Graphic file (type pdf)
 <use Immagini/IMAGES/BPG_2_IMG0004.pdf>
-Package luatex.def Info: Immagini/IMAGES/BPG_2_IMG0004.pdf  used on input line 51.
-(luatex.def)             Requested size: 39.94917pt x 59.8955pt.
+Package pdftex.def Info: Immagini/IMAGES/BPG_2_IMG0004.pdf  used on input line 51.
+(pdftex.def)             Requested size: 39.94917pt x 59.8955pt.
 
-warning  (file Immagini/IMAGES/VVC_1_IMG0004.pdf) (pdf inclusion): PDF inclusion: found PDF version '1.6', but at most version '1.5' allowed
-<Immagini/IMAGES/VVC_1_IMG0004.pdf, id=147, 2055.68pt x 3083.52pt>
+
+pdfTeX warning: pdflatex.exe (file ./Immagini/IMAGES/VVC_1_IMG0004.pdf): PDF inclusion: found PDF version <1.6>, but at most version <1.5> allowed
+<Immagini/IMAGES/VVC_1_IMG0004.pdf, id=141, 2055.68pt x 3083.52pt>
 File: Immagini/IMAGES/VVC_1_IMG0004.pdf Graphic file (type pdf)
 <use Immagini/IMAGES/VVC_1_IMG0004.pdf>
-Package luatex.def Info: Immagini/IMAGES/VVC_1_IMG0004.pdf  used on input line 51.
-(luatex.def)             Requested size: 39.94917pt x 59.8955pt.
+Package pdftex.def Info: Immagini/IMAGES/VVC_1_IMG0004.pdf  used on input line 51.
+(pdftex.def)             Requested size: 39.94917pt x 59.8955pt.
 
-warning  (file Immagini/IMAGES/mbt2018_2_IMG0004.pdf) (pdf inclusion): PDF inclusion: found PDF version '1.6', but at most version '1.5' allowed
-<Immagini/IMAGES/mbt2018_2_IMG0004.pdf, id=148, 2055.68pt x 3083.52pt>
+
+pdfTeX warning: pdflatex.exe (file ./Immagini/IMAGES/mbt2018_2_IMG0004.pdf): PDF inclusion: found PDF version <1.6>, but at most version <1.5> allowed
+<Immagini/IMAGES/mbt2018_2_IMG0004.pdf, id=142, 2055.68pt x 3083.52pt>
 File: Immagini/IMAGES/mbt2018_2_IMG0004.pdf Graphic file (type pdf)
 <use Immagini/IMAGES/mbt2018_2_IMG0004.pdf>
-Package luatex.def Info: Immagini/IMAGES/mbt2018_2_IMG0004.pdf  used on input line 51.
-(luatex.def)             Requested size: 39.94917pt x 59.8955pt.
+Package pdftex.def Info: Immagini/IMAGES/mbt2018_2_IMG0004.pdf  used on input line 51.
+(pdftex.def)             Requested size: 39.94917pt x 59.8955pt.
 
-warning  (file Immagini/IMAGES/cheng2020_attn_2_IMG0004.pdf) (pdf inclusion): PDF inclusion: found PDF version '1.6', but at most version '1.5' allowed
-<Immagini/IMAGES/cheng2020_attn_2_IMG0004.pdf, id=149, 2055.68pt x 3083.52pt>
+
+pdfTeX warning: pdflatex.exe (file ./Immagini/IMAGES/cheng2020_attn_2_IMG0004.pdf): PDF inclusion: found PDF version <1.6>, but at most version <1.5> allowed
+<Immagini/IMAGES/cheng2020_attn_2_IMG0004.pdf, id=143, 2055.68pt x 3083.52pt>
 File: Immagini/IMAGES/cheng2020_attn_2_IMG0004.pdf Graphic file (type pdf)
 <use Immagini/IMAGES/cheng2020_attn_2_IMG0004.pdf>
-Package luatex.def Info: Immagini/IMAGES/cheng2020_attn_2_IMG0004.pdf  used on input line 51.
-(luatex.def)             Requested size: 39.94917pt x 59.8955pt.
+Package pdftex.def Info: Immagini/IMAGES/cheng2020_attn_2_IMG0004.pdf  used on input line 51.
+(pdftex.def)             Requested size: 39.94917pt x 59.8955pt.
 File: unipd_logo.png Graphic file (type png)
 <use unipd_logo.png>
-Package luatex.def Info: unipd_logo.png  used on input line 51.
-(luatex.def)             Requested size: 74.94533pt x 33.51454pt.
+Package pdftex.def Info: unipd_logo.png  used on input line 51.
+(pdftex.def)             Requested size: 74.85956pt x 33.47499pt.
 [10
 
-<./Immagini/IMAGES/PNG_IMG0004.pdf><./Immagini/IMAGES/JPEG_1_IMG0004.pdf><./Immagini/IMAGES/JPEG2000_1_IMG0004.pdf><./Immagini/IMAGES/BPG_2_IMG0004.pdf><./Immagini/IMAGES/VVC_1_IMG0004.pdf><./Immagini/IMAGES/mbt2018_2_IMG0004.pdf><./Immagini/IMAGES/cheng2020_attn_2_IMG0004.pdf>]
+ <./Immagini/IMAGES/PNG_IMG0004.pdf> <./Immagini/IMAGES/JPEG_1_IMG0004.pdf> <./Immagini/IMAGES/JPEG2000_1_IMG0004.pdf> <./Immagini/IMAGES/BPG_2_IMG0004.pdf> <./Immagini/IMAGES/VVC_1_IMG0004.pdf> <./Immagini/IMAGES/mbt2018_2_IMG0004.pdf> <./Immagini/IMAGES/cheng2020_attn_2_IMG0004.pdf>]
 <Immagini/METRICS/times@0.16bpp.png, id=173, 1445.4pt x 722.7pt>
 File: Immagini/METRICS/times@0.16bpp.png Graphic file (type png)
 <use Immagini/METRICS/times@0.16bpp.png>
-Package luatex.def Info: Immagini/METRICS/times@0.16bpp.png  used on input line 60.
-(luatex.def)             Requested size: 307.28987pt x 153.64615pt.
+Package pdftex.def Info: Immagini/METRICS/times@0.16bpp.png  used on input line 60.
+(pdftex.def)             Requested size: 307.28987pt x 153.64615pt.
 File: unipd_logo.png Graphic file (type png)
 <use unipd_logo.png>
-Package luatex.def Info: unipd_logo.png  used on input line 60.
-(luatex.def)             Requested size: 74.94533pt x 33.51454pt.
+Package pdftex.def Info: unipd_logo.png  used on input line 60.
+(pdftex.def)             Requested size: 74.85956pt x 33.47499pt.
  [11
 
-<./Immagini/METRICS/times@0.16bpp.png>]
-<Immagini/METRICS/times@0.34bpp.png, id=186, 1445.4pt x 722.7pt>
+ <./Immagini/METRICS/times@0.16bpp.png>]
+<Immagini/METRICS/times@0.34bpp.png, id=184, 1445.4pt x 722.7pt>
 File: Immagini/METRICS/times@0.34bpp.png Graphic file (type png)
 <use Immagini/METRICS/times@0.34bpp.png>
-Package luatex.def Info: Immagini/METRICS/times@0.34bpp.png  used on input line 68.
-(luatex.def)             Requested size: 307.28987pt x 153.64615pt.
+Package pdftex.def Info: Immagini/METRICS/times@0.34bpp.png  used on input line 68.
+(pdftex.def)             Requested size: 307.28987pt x 153.64615pt.
 File: unipd_logo.png Graphic file (type png)
 <use unipd_logo.png>
-Package luatex.def Info: unipd_logo.png  used on input line 68.
-(luatex.def)             Requested size: 74.94533pt x 33.51454pt.
+Package pdftex.def Info: unipd_logo.png  used on input line 68.
+(pdftex.def)             Requested size: 74.85956pt x 33.47499pt.
  [12
 
-<./Immagini/METRICS/times@0.34bpp.png>]
-<Immagini/METRICS/PSNR.png, id=197, 722.7pt x 722.7pt>
+ <./Immagini/METRICS/times@0.34bpp.png>]
+<Immagini/METRICS/PSNR.png, id=194, 722.7pt x 722.7pt>
 File: Immagini/METRICS/PSNR.png Graphic file (type png)
 <use Immagini/METRICS/PSNR.png>
-Package luatex.def Info: Immagini/METRICS/PSNR.png  used on input line 77.
-(luatex.def)             Requested size: 148.48041pt x 148.47424pt.
+Package pdftex.def Info: Immagini/METRICS/PSNR.png  used on input line 77.
+(pdftex.def)             Requested size: 148.4755pt x 148.47424pt.
 File: unipd_logo.png Graphic file (type png)
 <use unipd_logo.png>
-Package luatex.def Info: unipd_logo.png  used on input line 77.
-(luatex.def)             Requested size: 74.94533pt x 33.51454pt.
+Package pdftex.def Info: unipd_logo.png  used on input line 77.
+(pdftex.def)             Requested size: 74.85956pt x 33.47499pt.
  [13
 
-<./Immagini/METRICS/PSNR.png>]
-<Immagini/METRICS/MS-SSIM.png, id=208, 722.7pt x 722.7pt>
+ <./Immagini/METRICS/PSNR.png>]
+<Immagini/METRICS/MS-SSIM.png, id=205, 722.7pt x 722.7pt>
 File: Immagini/METRICS/MS-SSIM.png Graphic file (type png)
 <use Immagini/METRICS/MS-SSIM.png>
-Package luatex.def Info: Immagini/METRICS/MS-SSIM.png  used on input line 87.
-(luatex.def)             Requested size: 148.48041pt x 148.47424pt.
+Package pdftex.def Info: Immagini/METRICS/MS-SSIM.png  used on input line 87.
+(pdftex.def)             Requested size: 148.4755pt x 148.47424pt.
 File: unipd_logo.png Graphic file (type png)
 <use unipd_logo.png>
-Package luatex.def Info: unipd_logo.png  used on input line 87.
-(luatex.def)             Requested size: 74.94533pt x 33.51454pt.
+Package pdftex.def Info: unipd_logo.png  used on input line 87.
+(pdftex.def)             Requested size: 74.85956pt x 33.47499pt.
  [14
 
-<./Immagini/METRICS/MS-SSIM.png>]
-<Immagini/METRICS/LPIPS.png, id=219, 722.7pt x 722.7pt>
+ <./Immagini/METRICS/MS-SSIM.png>]
+<Immagini/METRICS/LPIPS.png, id=215, 722.7pt x 722.7pt>
 File: Immagini/METRICS/LPIPS.png Graphic file (type png)
 <use Immagini/METRICS/LPIPS.png>
-Package luatex.def Info: Immagini/METRICS/LPIPS.png  used on input line 97.
-(luatex.def)             Requested size: 148.48041pt x 148.47424pt.
+Package pdftex.def Info: Immagini/METRICS/LPIPS.png  used on input line 97.
+(pdftex.def)             Requested size: 148.4755pt x 148.47424pt.
 File: unipd_logo.png Graphic file (type png)
 <use unipd_logo.png>
-Package luatex.def Info: unipd_logo.png  used on input line 97.
-(luatex.def)             Requested size: 74.94533pt x 33.51454pt.
+Package pdftex.def Info: unipd_logo.png  used on input line 97.
+(pdftex.def)             Requested size: 74.85956pt x 33.47499pt.
  [15
 
-<./Immagini/METRICS/LPIPS.png>]) (./capitoli/sviluppiFuturi.tex
+ <./Immagini/METRICS/LPIPS.png>]) (./capitoli/sviluppiFuturi.tex
 File: unipd_logo.png Graphic file (type png)
 <use unipd_logo.png>
-Package luatex.def Info: unipd_logo.png  used on input line 11.
-(luatex.def)             Requested size: 74.94533pt x 33.51454pt.
+Package pdftex.def Info: unipd_logo.png  used on input line 11.
+(pdftex.def)             Requested size: 74.85956pt x 33.47499pt.
  [16
 
 ])
 File: unipd_logo.png Graphic file (type png)
 <use unipd_logo.png>
-Package luatex.def Info: unipd_logo.png  used on input line 50.
-(luatex.def)             Requested size: 74.94533pt x 33.51454pt.
+Package pdftex.def Info: unipd_logo.png  used on input line 50.
+(pdftex.def)             Requested size: 74.85956pt x 33.47499pt.
  [17
 
 ]
 \tf@nav=\write7
+\openout7 = `main.nav'.
 
-\openout7 = main.nav
 \tf@toc=\write8
+\openout8 = `main.toc'.
 
-\openout8 = main.toc
 \tf@snm=\write9
+\openout9 = `main.snm'.
 
-\openout9 = main.snm
  (./main.aux)
  ***********
 LaTeX2e <2023-06-01> patch level 1
@@ -1354,24 +1316,22 @@ Package biblatex Warning: Please (re)run BibTeX on the file(s):
 (biblatex)                and rerun LaTeX afterwards.
 
 Package logreq Info: Writing requests to 'main.run.xml'.
+\openout1 = `main.run.xml'.
 
-\openout1 = main.run.xml
-)
-
-Here is how much of LuaTeX's memory you used:
- 33309 strings out of 477259
- 100000,1977958 words of node,token memory allocated
- 1981 words of node memory still in use:
-   32 hlist, 11 vlist, 5 rule, 4 disc, 4 local_par, 2 math, 53 glue, 9 kern, 16 penalty, 32 glyph, 65 attribute, 72 glue_spec, 65 attribute_list, 4 write, 18 pdf_colorstack, 1 pdf_setmatrix, 1 pdf_save, 1 pdf_restore nodes
-   avail lists: 1:1,2:787,3:495,4:387,5:212,6:72,7:3650,8:30,9:620,10:19,11:256
- 53497 multiletter control sequences out of 65536+600000
- 86 fonts using 6724927 bytes
- 128i,15n,116p,1938b,1192s stack positions out of 10000i,1000n,20000p,200000b,200000s
-<c:/Program Files/texlive/2023/texmf-dist/fonts/opentype/public/lm/lmsans10-oblique.otf><c:/Program Files/texlive/2023/texmf-dist/fonts/opentype/public/lm/lmmono8-regular.otf><c:/Program Files/texlive/2023/texmf-dist/fonts/opentype/public/lm/lmromancaps10-regular.otf><c:/Program Files/texlive/2023/texmf-dist/fonts/opentype/public/lm/lmsans8-oblique.otf><c:/Program Files/texlive/2023/texmf-dist/fonts/opentype/public/lm/lmsans8-regular.otf><c:/Program Files/texlive/2023/texmf-dist/fonts/opentype/public/lm/lmsans10-regular.otf><c:/Program Files/texlive/2023/texmf-dist/fonts/opentype/public/lm/lmsans12-regular.otf><c:/Program Files/texlive/2023/texmf-dist/fonts/opentype/public/lm/lmsans17-regular.otf><c:/Program Files/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb>
-Output written on main.pdf (17 pages, 2877842 bytes).
-
-PDF statistics: 303 PDF objects out of 1000 (max. 8388607)
- 197 compressed objects within 2 object streams
- 58 named destinations out of 1000 (max. 131072)
- 56 words of extra memory for PDF output out of 10000 (max. 100000000)
+ ) 
+Here is how much of TeX's memory you used:
+ 32489 strings out of 474928
+ 651990 string characters out of 5758532
+ 1932785 words of memory out of 5000000
+ 53376 multiletter control sequences out of 15000+600000
+ 573700 words of font info for 92 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 128i,15n,123p,1954b,1288s stack positions out of 10000i,1000n,20000p,200000b,200000s
+<d:/Programmi/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmcsc10.pfb><d:/Programmi/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmss10.pfb><d:/Programmi/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmss12.pfb><d:/Programmi/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmss17.pfb><d:/Programmi/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmss8.pfb><d:/Programmi/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmssi10.pfb><d:/Programmi/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmssi8.pfb><d:/Programmi/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb><d:/Programmi/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt8.pfb>
+Output written on main.pdf (17 pages, 2937144 bytes).
+PDF statistics:
+ 291 PDF objects out of 1000 (max. 8388607)
+ 192 compressed objects within 2 object streams
+ 58 named destinations out of 1000 (max. 500000)
+ 178 words of extra memory for PDF output out of 10000 (max. 10000000)
 
