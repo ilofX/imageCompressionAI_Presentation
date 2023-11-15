@@ -11,8 +11,7 @@
 \beamer@slide {fig:ExampleBalle}{10}
 \beamer@slide {fig:ExampleCheng}{10}
 \beamer@slide {fig:ExamplesCompression}{10}
-\beamer@slide {fig:times16}{11}
-\beamer@slide {fig:times34}{12}
-\beamer@slide {fig:GraphPSNR}{13}
-\beamer@slide {fig:GraphMS-SSIM}{14}
-\beamer@slide {fig:GraphLPIPS}{15}
+\beamer@slide {fig:times34}{11}
+\beamer@slide {fig:GraphPSNR}{12}
+\beamer@slide {fig:GraphMS-SSIM}{13}
+\beamer@slide {fig:GraphLPIPS}{14}
