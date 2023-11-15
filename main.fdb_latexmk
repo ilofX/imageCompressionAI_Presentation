@@ -1,14 +1,14 @@
 # Fdb version 4
-["bibtex main"] 1700041601 "main.aux" "main.bbl" "main" 1700042070 0
+["bibtex main"] 1700042794 "main.aux" "main.bbl" "main" 1700042807 0
   "./bibliografia.bib" 1700040531 8351 e8ad3e6ff1b88dd76fc6fbb94cff3c74 ""
-  "./main-blx.bib" 1700042068 343 27af2fa4d0370999ebe8f3266686c889 ""
+  "./main-blx.bib" 1700042805 343 27af2fa4d0370999ebe8f3266686c889 ""
   "c:/Program Files/texlive/2023/texmf-dist/bibtex/bst/biblatex/biblatex.bst" 1695220347 65484 b7949c47a88ed6dca66ebc7a04577312 ""
-  "main.aux" 1700042068 8325 7a946e86a863b4c2e24e98d6116e98be "pdflatex"
+  "main.aux" 1700042805 8432 dbcaa78bb3e6e0f2769c2fab28d0bd9d "pdflatex"
   (generated)
   "main.bbl"
   "main.blg"
   (rewritten before read)
-["pdflatex"] 1700042065 "c:/Users/filip/VSCodeProjects/imageCompressionAI_Presentation/main.tex" "main.pdf" "main" 1700042070 0
+["pdflatex"] 1700042801 "c:/Users/filip/VSCodeProjects/imageCompressionAI_Presentation/main.tex" "main.pdf" "main" 1700042807 0
   "Immagini/Autoencoder_scheme.png" 1699451934 235538 15b3b24c1fac395eeeadf887cc201486 ""
   "Immagini/Ballé2018_Rete.png" 1699451934 91643 c222ae7438a42e486194b19947746f8a ""
   "Immagini/Cheng2020_Rete.png" 1699451934 402035 06bb30038d17371d48fffe481c2098f3 ""
@@ -270,16 +270,16 @@
   "capitoli/compressione.tex" 1699613914 488 39bcf71659545d69052047959ec6e020 ""
   "capitoli/metodiIntelligenti.tex" 1700041148 2682 419ea1624dbfc5348f362ceef028bf09 ""
   "capitoli/metodiTradizionali.tex" 1700042064 581 fd750fc764b39a7e5624a2a4e14a4041 ""
-  "capitoli/sviluppiFuturi.tex" 1700041594 437 be596b634edeb1718ffc4fb36f0c2cc1 ""
+  "capitoli/sviluppiFuturi.tex" 1700042799 470 7a281ea1fc057e611e0a320e2e6736c5 ""
   "capitoli/valutazionePrestazioni.tex" 1700041148 4180 31ab853b6791cecd1a9fbca53d87cc0d ""
   "dei_logo.png" 1699451934 16835 72579d3137871b630c42b8e4d7e93802 ""
-  "main.aux" 1700042068 8325 7a946e86a863b4c2e24e98d6116e98be "pdflatex"
-  "main.bbl" 1700041602 13760 6cca98853cbb8f6c76bf7762a6c3b4e8 "bibtex main"
-  "main.nav" 1700042068 2510 717abd0c43178995fcedaf986f007ece "pdflatex"
-  "main.out" 1700042068 688 7f2e4d0e04387e07a99e7766168b732e "pdflatex"
-  "main.run.xml" 1700042068 2621 bc84177b876e673a9e8016f871e57f7d "pdflatex"
+  "main.aux" 1700042805 8432 dbcaa78bb3e6e0f2769c2fab28d0bd9d "pdflatex"
+  "main.bbl" 1700042794 14379 3c7ea04d81d8d72b6fec044068f3ac40 "bibtex main"
+  "main.nav" 1700042805 2510 717abd0c43178995fcedaf986f007ece "pdflatex"
+  "main.out" 1700042805 688 7f2e4d0e04387e07a99e7766168b732e "pdflatex"
+  "main.run.xml" 1700042805 2621 bc84177b876e673a9e8016f871e57f7d "pdflatex"
   "main.tex" 1699614696 1725 f30e553df62b4541ef8c571c3ace89b1 ""
-  "main.toc" 1700042068 273 538ea596fcc33fe9a244e8642d04e15a "pdflatex"
+  "main.toc" 1700042805 273 538ea596fcc33fe9a244e8642d04e15a "pdflatex"
   "unipd_logo.png" 1699451934 64429 e2a6655a9aa72e0e257b9164b98b14fc ""
   (generated)
   "main-blx.bib"
